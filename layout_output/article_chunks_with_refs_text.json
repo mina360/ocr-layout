@@ -1,0 +1,1703 @@
+[
+  {
+    "chunk_id": "preamble",
+    "chunk_type": "preamble",
+    "article_number": null,
+    "page_start": 3,
+    "page_end": 17,
+    "book": null,
+    "bab": null,
+    "fasl": null,
+    "heading_box_id": null,
+    "box_ids": [
+      "page_0003_raw_0010",
+      "page_0003_raw_0013",
+      "page_0003_raw_0006",
+      "page_0003_raw_0018",
+      "page_0003_raw_0021",
+      "page_0003_raw_0017",
+      "page_0003_raw_0019",
+      "page_0003_raw_0015",
+      "page_0003_raw_0020",
+      "page_0003_raw_0011",
+      "page_0003_raw_0007",
+      "page_0003_raw_0012",
+      "page_0003_raw_0008",
+      "page_0003_raw_0009",
+      "page_0003_raw_0002",
+      "page_0003_raw_0023",
+      "page_0003_raw_0022",
+      "page_0003_raw_0004",
+      "page_0003_raw_0003",
+      "page_0003_raw_0016",
+      "page_0003_raw_0014",
+      "page_0003_raw_0001",
+      "page_0004_raw_0034",
+      "page_0004_raw_0033",
+      "page_0004_raw_0024",
+      "page_0004_raw_0028",
+      "page_0004_raw_0027",
+      "page_0004_raw_0031",
+      "page_0004_raw_0025",
+      "page_0004_raw_0030",
+      "page_0004_raw_0026",
+      "page_0004_raw_0029",
+      "page_0005_raw_0040",
+      "page_0005_raw_0041",
+      "page_0005_raw_0035",
+      "page_0005_raw_0039",
+      "page_0005_raw_0038",
+      "page_0005_raw_0043",
+      "page_0005_raw_0045",
+      "page_0005_raw_0042",
+      "page_0005_raw_0044",
+      "page_0005_raw_0037",
+      "page_0006_raw_0055",
+      "page_0006_raw_0062",
+      "page_0006_raw_0060",
+      "page_0006_raw_0065",
+      "page_0006_raw_0059",
+      "page_0006_raw_0058",
+      "page_0006_raw_0061",
+      "page_0006_raw_0056",
+      "page_0006_raw_0053",
+      "page_0006_raw_0054",
+      "page_0006_raw_0057",
+      "page_0006_raw_0063",
+      "page_0006_raw_0049",
+      "page_0006_raw_0048",
+      "page_0006_raw_0050",
+      "page_0006_raw_0064",
+      "page_0006_raw_0052",
+      "page_0006_raw_0051",
+      "page_0006_raw_0046",
+      "page_0006_raw_0047",
+      "page_0007_raw_0071",
+      "page_0007_raw_0073",
+      "page_0007_raw_0076",
+      "page_0007_raw_0072",
+      "page_0007_raw_0074",
+      "page_0007_raw_0069",
+      "page_0007_raw_0075",
+      "page_0007_raw_0066",
+      "page_0007_raw_0070",
+      "page_0007_raw_0067",
+      "page_0007_raw_0068",
+      "page_0008_raw_0084",
+      "page_0008_raw_0077",
+      "page_0008_raw_0080",
+      "page_0008_raw_0094",
+      "page_0008_raw_0079",
+      "page_0008_raw_0081",
+      "page_0008_raw_0095",
+      "page_0008_raw_0082",
+      "page_0008_raw_0078",
+      "page_0008_raw_0092",
+      "page_0008_raw_0087",
+      "page_0008_raw_0086",
+      "page_0008_raw_0091",
+      "page_0008_raw_0089",
+      "page_0008_raw_0090",
+      "page_0008_raw_0088",
+      "page_0008_raw_0085",
+      "page_0008_raw_0093",
+      "page_0008_raw_0083",
+      "page_0009_raw_0112",
+      "page_0009_raw_0103",
+      "page_0009_raw_0109",
+      "page_0009_raw_0111",
+      "page_0009_raw_0114",
+      "page_0009_raw_0104",
+      "page_0009_raw_0102",
+      "page_0009_raw_0107",
+      "page_0009_raw_0113",
+      "page_0009_raw_0097",
+      "page_0009_raw_0098",
+      "page_0009_raw_0100",
+      "page_0009_raw_0101",
+      "page_0009_raw_0099",
+      "page_0009_raw_0105",
+      "page_0009_raw_0110",
+      "page_0009_raw_0108",
+      "page_0009_raw_0106",
+      "page_0009_raw_0096",
+      "page_0010_raw_0130",
+      "page_0010_raw_0124",
+      "page_0010_raw_0123",
+      "page_0010_raw_0129",
+      "page_0010_raw_0118",
+      "page_0010_raw_0115",
+      "page_0010_raw_0128",
+      "page_0010_raw_0127",
+      "page_0010_raw_0125",
+      "page_0010_raw_0131",
+      "page_0010_raw_0122",
+      "page_0010_raw_0126",
+      "page_0010_raw_0121",
+      "page_0010_raw_0119",
+      "page_0010_raw_0116",
+      "page_0010_raw_0117",
+      "page_0010_raw_0120",
+      "page_0011_raw_0132",
+      "page_0011_raw_0134",
+      "page_0011_raw_0135",
+      "page_0011_raw_0133",
+      "page_0012_raw_0140",
+      "page_0012_raw_0142",
+      "page_0012_raw_0137",
+      "page_0012_raw_0139",
+      "page_0012_raw_0141",
+      "page_0012_raw_0138",
+      "page_0012_raw_0136",
+      "page_0013_raw_0147",
+      "page_0013_raw_0144",
+      "page_0013_raw_0145",
+      "page_0013_raw_0149",
+      "page_0013_raw_0148",
+      "page_0013_raw_0146",
+      "page_0013_raw_0143",
+      "page_0014_raw_0161",
+      "page_0014_raw_0150",
+      "page_0014_raw_0158",
+      "page_0014_raw_0162",
+      "page_0014_raw_0152",
+      "page_0014_raw_0156",
+      "page_0014_raw_0153",
+      "page_0014_raw_0157",
+      "page_0014_raw_0155",
+      "page_0014_raw_0160",
+      "page_0014_raw_0159",
+      "page_0014_raw_0151",
+      "page_0014_raw_0163",
+      "page_0014_raw_0154",
+      "page_0015_raw_0185",
+      "page_0015_raw_0167",
+      "page_0015_raw_0166",
+      "page_0015_raw_0169",
+      "page_0015_raw_0164",
+      "page_0015_raw_0170",
+      "page_0015_raw_0184",
+      "page_0015_raw_0175",
+      "page_0015_raw_0182",
+      "page_0015_raw_0181",
+      "page_0015_raw_0179",
+      "page_0015_raw_0172",
+      "page_0015_raw_0178",
+      "page_0015_raw_0176",
+      "page_0015_raw_0180",
+      "page_0015_raw_0177",
+      "page_0015_raw_0183",
+      "page_0015_raw_0174",
+      "page_0015_raw_0165",
+      "page_0015_raw_0171",
+      "page_0015_raw_0173",
+      "page_0015_raw_0168",
+      "page_0016_raw_0192",
+      "page_0016_raw_0199",
+      "page_0016_raw_0198",
+      "page_0016_raw_0201",
+      "page_0016_raw_0200",
+      "page_0016_raw_0202",
+      "page_0016_raw_0193",
+      "page_0016_raw_0204",
+      "page_0016_raw_0197",
+      "page_0016_raw_0194",
+      "page_0016_raw_0196",
+      "page_0016_raw_0195",
+      "page_0016_raw_0188",
+      "page_0016_raw_0203",
+      "page_0016_raw_0189",
+      "page_0016_raw_0191",
+      "page_0016_raw_0190",
+      "page_0016_raw_0186",
+      "page_0016_raw_0187",
+      "page_0017_raw_0210",
+      "page_0017_raw_0205",
+      "page_0017_raw_0206",
+      "page_0017_raw_0215",
+      "page_0017_raw_0214",
+      "page_0017_raw_0208",
+      "page_0017_raw_0212",
+      "page_0017_raw_0209",
+      "page_0017_raw_0213",
+      "page_0017_raw_0207"
+    ],
+    "source_pages": [
+      "page_0003",
+      "page_0004",
+      "page_0005",
+      "page_0006",
+      "page_0007",
+      "page_0008",
+      "page_0009",
+      "page_0010",
+      "page_0011",
+      "page_0012",
+      "page_0013",
+      "page_0014",
+      "page_0015",
+      "page_0016",
+      "page_0017"
+    ],
+    "references": [
+      {
+        "article_number": 3,
+        "surface_text": "انون التجارة المرفق المادة٣ ينشر هذا القانون في الجريدة",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 2,
+        "surface_text": "v3_predict المادة٢ المادة٢ /tmp/tmpm8vbk01q.pn",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 2,
+        "surface_text": "v3_predict المادة٢ المادة٢ /tmp/tmpm8vbk01q.png min ge",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 2,
+        "surface_text": "01q.png min general المادة٢ المادة٢ المادة٢ /tmp/tmpm8v",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 2,
+        "surface_text": "min general المادة٢ المادة٢ المادة٢ /tmp/tmpm8vbk01q.pn",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 2,
+        "surface_text": "ral المادة٢ المادة٢ المادة٢ /tmp/tmpm8vbk01q.png min ge",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 2,
+        "surface_text": "01q.png min general المادة٢",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 3,
+        "surface_text": "v3_predict المادة٣ المادة٣ /tmp/tmpj5gx_dvl.pn",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 3,
+        "surface_text": "v3_predict المادة٣ المادة٣ /tmp/tmpj5gx_dvl.png min ge",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 3,
+        "surface_text": "dvl.png min general المادة٣ المادة٣ المادة٣ /tmp/tmpj5g",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 3,
+        "surface_text": "min general المادة٣ المادة٣ المادة٣ /tmp/tmpj5gx_dvl.pn",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 3,
+        "surface_text": "ral المادة٣ المادة٣ المادة٣ /tmp/tmpj5gx_dvl.png min ge",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 3,
+        "surface_text": "dvl.png min general المادة٣",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 3,
+        "surface_text": "v3_predict المادة ٣ المادة ٣ /tmp/tmpzcosnsvd.",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 3,
+        "surface_text": "v3_predict المادة ٣ المادة ٣ /tmp/tmpzcosnsvd.png min g",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 3,
+        "surface_text": "svd.png min general المادة ٣ المادة ٣ المادة ٣ /tmp/tmp",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 3,
+        "surface_text": "in general المادة ٣ المادة ٣ المادة ٣ /tmp/tmpzcosnsvd.",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 3,
+        "surface_text": "l المادة ٣ المادة ٣ المادة ٣ /tmp/tmpzcosnsvd.png min g",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 3,
+        "surface_text": "svd.png min general المادة ٣",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 4,
+        "surface_text": "v3_predict المادة٤ المادة٤ /tmp/tmp7posv2ov.pn",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 4,
+        "surface_text": "v3_predict المادة٤ المادة٤ /tmp/tmp7posv2ov.png min ge",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 4,
+        "surface_text": "2ov.png min general المادة٤ المادة٤ المادة٤ /tmp/tmp7po",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 4,
+        "surface_text": "min general المادة٤ المادة٤ المادة٤ /tmp/tmp7posv2ov.pn",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 4,
+        "surface_text": "ral المادة٤ المادة٤ المادة٤ /tmp/tmp7posv2ov.png min ge",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 4,
+        "surface_text": "2ov.png min general المادة٤",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 6,
+        "surface_text": "v3_predict المادة٦ المادة٦ /tmp/tmpk0t72ats.pn",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 6,
+        "surface_text": "v3_predict المادة٦ المادة٦ /tmp/tmpk0t72ats.png min ge",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 6,
+        "surface_text": "ats.png min general المادة٦ المادة٦ المادة٦ /tmp/tmpk0t",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 6,
+        "surface_text": "min general المادة٦ المادة٦ المادة٦ /tmp/tmpk0t72ats.pn",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 6,
+        "surface_text": "ral المادة٦ المادة٦ المادة٦ /tmp/tmpk0t72ats.png min ge",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 6,
+        "surface_text": "ats.png min general المادة٦",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 9,
+        "surface_text": "ية المطلوبة للاتجار المادة ٩ الفصل الأول التجار على وجه",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 9,
+        "surface_text": "ية المطلوبة للاتجار المادة ٩ /tmp/tmp4wzvo1b7.png min g",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 9,
+        "surface_text": "ية المطلوبة للاتجار المادة ٩",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 1,
+        "surface_text": "v3_predict المادة١ المادة١ /tmp/tmpal1aun8n.pn",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 1,
+        "surface_text": "v3_predict المادة١ المادة١ /tmp/tmpal1aun8n.png min ge",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 1,
+        "surface_text": "n8n.png min general المادة١ المادة١ المادة١ /tmp/tmpal1",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 1,
+        "surface_text": "min general المادة١ المادة١ المادة١ /tmp/tmpal1aun8n.pn",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 1,
+        "surface_text": "ral المادة١ المادة١ المادة١ /tmp/tmpal1aun8n.png min ge",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 1,
+        "surface_text": "n8n.png min general المادة١",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 13,
+        "surface_text": "v3_predict المادة ١٣ المادة ١٣ /tmp/tmp9x_ya3d",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 13,
+        "surface_text": "3_predict المادة ١٣ المادة ١٣ /tmp/tmp9x_ya3d7.png min",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 13,
+        "surface_text": "3d7.png min general المادة ١٣ المادة ١٣ المادة ١٣ /tmp/",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 13,
+        "surface_text": "n general المادة ١٣ المادة ١٣ المادة ١٣ /tmp/tmp9x_ya3d",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 13,
+        "surface_text": "المادة ١٣ المادة ١٣ المادة ١٣ /tmp/tmp9x_ya3d7.png min",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 13,
+        "surface_text": "3d7.png min general المادة ١٣",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 4,
+        "surface_text": "v3_predict المادة ٤ المادة ٤ /tmp/tmp4uo8gbcf.",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 4,
+        "surface_text": "v3_predict المادة ٤ المادة ٤ /tmp/tmp4uo8gbcf.png min g",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 4,
+        "surface_text": "bcf.png min general المادة ٤ المادة ٤ المادة ٤ /tmp/tmp",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 4,
+        "surface_text": "in general المادة ٤ المادة ٤ المادة ٤ /tmp/tmp4uo8gbcf.",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 4,
+        "surface_text": "l المادة ٤ المادة ٤ المادة ٤ /tmp/tmp4uo8gbcf.png min g",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 4,
+        "surface_text": "bcf.png min general المادة ٤",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 5,
+        "surface_text": "v3_predict المادة ٥ تخضع الأهلية التجارية لأحك",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 5,
+        "surface_text": "حكام الخاصة بالتجار المادة ٥ تخضع الأهلية التجارية لأحك",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 5,
+        "surface_text": "ois.png min general المادة ٥ تخضع الأهلية التجارية لأحك",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 15,
+        "surface_text": "v3_predict المادة١٥ المادة١٥ /tmp/tmpi7yie12r.",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 15,
+        "surface_text": "v3_predict المادة١٥ المادة١٥ /tmp/tmpi7yie12r.png min g",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 15,
+        "surface_text": "12r.png min general المادة١٥ المادة١٥ المادة١٥ /tmp/tmp",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 15,
+        "surface_text": "in general المادة١٥ المادة١٥ المادة١٥ /tmp/tmpi7yie12r.",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 15,
+        "surface_text": "l المادة١٥ المادة١٥ المادة١٥ /tmp/tmpi7yie12r.png min g",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 15,
+        "surface_text": "12r.png min general المادة١٥",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 17,
+        "surface_text": "تي يحددها بقرار منه المادة١٧ يجب أن تنظم الدفاتر التجار",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 8,
+        "surface_text": "لا تحشية بين السطور المادة٨ يجب ترقيم الدفاتر المذكورة",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 19,
+        "surface_text": "جد فيها محكمة بداية المادة ١٩ يجب على التاجر أن يحفظ ال",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 1,
+        "surface_text": "v3_predict المادة١ المادة١ /tmp/tmp8kkfz835.pn",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 1,
+        "surface_text": "v3_predict المادة١ المادة١ /tmp/tmp8kkfz835.png min ge",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 1,
+        "surface_text": "835.png min general المادة١ المادة١ المادة١ /tmp/tmp8kk",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 1,
+        "surface_text": "min general المادة١ المادة١ المادة١ /tmp/tmp8kkfz835.pn",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 1,
+        "surface_text": "ral المادة١ المادة١ المادة١ /tmp/tmp8kkfz835.png min ge",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 1,
+        "surface_text": "835.png min general المادة١",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 8,
+        "surface_text": "v3_predict المادة٨ المادة٨ /tmp/tmpnef37_ym.pn",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 8,
+        "surface_text": "v3_predict المادة٨ المادة٨ /tmp/tmpnef37_ym.png min ge",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 8,
+        "surface_text": "_ym.png min general المادة٨ المادة٨ المادة٨ /tmp/tmpnef",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 8,
+        "surface_text": "min general المادة٨ المادة٨ المادة٨ /tmp/tmpnef37_ym.pn",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 8,
+        "surface_text": "ral المادة٨ المادة٨ المادة٨ /tmp/tmpnef37_ym.png min ge",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 8,
+        "surface_text": "_ym.png min general المادة٨",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 9,
+        "surface_text": "v3_predict المادة٩ المادة٩ /tmp/tmp6xkrb4tf.pn",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 9,
+        "surface_text": "v3_predict المادة٩ المادة٩ /tmp/tmp6xkrb4tf.png min ge",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 9,
+        "surface_text": "4tf.png min general المادة٩ المادة٩ المادة٩ /tmp/tmp6xk",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 9,
+        "surface_text": "min general المادة٩ المادة٩ المادة٩ /tmp/tmp6xkrb4tf.pn",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 9,
+        "surface_text": "ral المادة٩ المادة٩ المادة٩ /tmp/tmp6xkrb4tf.png min ge",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 9,
+        "surface_text": "4tf.png min general المادة٩",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 2,
+        "surface_text": "v3_predict المادة٢ المادة٢ /tmp/tmpmzlq1z4x.pn",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 2,
+        "surface_text": "v3_predict المادة٢ المادة٢ /tmp/tmpmzlq1z4x.png min ge",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 2,
+        "surface_text": "z4x.png min general المادة٢ المادة٢ المادة٢ /tmp/tmpmzl",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 2,
+        "surface_text": "min general المادة٢ المادة٢ المادة٢ /tmp/tmpmzlq1z4x.pn",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 2,
+        "surface_text": "ral المادة٢ المادة٢ المادة٢ /tmp/tmpmzlq1z4x.png min ge",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 2,
+        "surface_text": "z4x.png min general المادة٢",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 21,
+        "surface_text": "v3_predict المادة٢١ المادة٢١ /tmp/tmpbhnujr97.",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 21,
+        "surface_text": "v3_predict المادة٢١ المادة٢١ /tmp/tmpbhnujr97.png min g",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 21,
+        "surface_text": "r97.png min general المادة٢١ المادة٢١ المادة٢١ /tmp/tmp",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 21,
+        "surface_text": "in general المادة٢١ المادة٢١ المادة٢١ /tmp/tmpbhnujr97.",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 21,
+        "surface_text": "l المادة٢١ المادة٢١ المادة٢١ /tmp/tmpbhnujr97.png min g",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 21,
+        "surface_text": "r97.png min general المادة٢١",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 22,
+        "surface_text": "v3_predict المادة٢٢ المادة٢٢ /tmp/tmpeivr3uhz.",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 22,
+        "surface_text": "v3_predict المادة٢٢ المادة٢٢ /tmp/tmpeivr3uhz.png min g",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 22,
+        "surface_text": "uhz.png min general المادة٢٢ المادة٢٢ المادة٢٢ /tmp/tmp",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 22,
+        "surface_text": "in general المادة٢٢ المادة٢٢ المادة٢٢ /tmp/tmpeivr3uhz.",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 22,
+        "surface_text": "l المادة٢٢ المادة٢٢ المادة٢٢ /tmp/tmpeivr3uhz.png min g",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 22,
+        "surface_text": "uhz.png min general المادة٢٢",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 23,
+        "surface_text": "v3_predict المادة ٢٣ المادة ٢٣ /tmp/tmp1ypxcgs",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 23,
+        "surface_text": "3_predict المادة ٢٣ المادة ٢٣ /tmp/tmp1ypxcgsm.png min",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 23,
+        "surface_text": "gsm.png min general المادة ٢٣ المادة ٢٣ المادة ٢٣ /tmp/",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 23,
+        "surface_text": "n general المادة ٢٣ المادة ٢٣ المادة ٢٣ /tmp/tmp1ypxcgs",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 23,
+        "surface_text": "المادة ٢٣ المادة ٢٣ المادة ٢٣ /tmp/tmp1ypxcgsm.png min",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 23,
+        "surface_text": "gsm.png min general المادة ٢٣",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 44,
+        "surface_text": "v3_predict المادة ٤٤ المادة ٤٤ /tmp/tmpve6ye0z",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 44,
+        "surface_text": "3_predict المادة ٤٤ المادة ٤٤ /tmp/tmpve6ye0zu.png min",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 44,
+        "surface_text": "0zu.png min general المادة ٤٤ المادة ٤٤ المادة ٤٤ /tmp/",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 44,
+        "surface_text": "n general المادة ٤٤ المادة ٤٤ المادة ٤٤ /tmp/tmpve6ye0z",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 44,
+        "surface_text": "المادة ٤٤ المادة ٤٤ المادة ٤٤ /tmp/tmpve6ye0zu.png min",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 44,
+        "surface_text": "0zu.png min general المادة ٤٤",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 25,
+        "surface_text": "v3_predict المادة ٢٥ ١يجب على كل تاجر أن يطلب",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 25,
+        "surface_text": "ى أنها مطابقة للأصل المادة ٢٥ ١يجب على كل تاجر أن يطلب",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 25,
+        "surface_text": "4ch.png min general المادة ٢٥ ١يجب على كل تاجر أن يطلب",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 25,
+        "surface_text": "v3_predict المادة ٢٥ المادة ٢٥ /tmp/tmp6w110fz",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 25,
+        "surface_text": "3_predict المادة ٢٥ المادة ٢٥ /tmp/tmp6w110fzb.png min",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 25,
+        "surface_text": "fzb.png min general المادة ٢٥ المادة ٢٥ المادة ٢٥ /tmp/",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 25,
+        "surface_text": "n general المادة ٢٥ المادة ٢٥ المادة ٢٥ /tmp/tmp6w110fz",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 25,
+        "surface_text": "المادة ٢٥ المادة ٢٥ المادة ٢٥ /tmp/tmp6w110fzb.png min",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 25,
+        "surface_text": "fzb.png min general المادة ٢٥",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 26,
+        "surface_text": "v3_predict المادة٢٦ المادة٢٦ /tmp/tmp0u4o697w.",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 26,
+        "surface_text": "v3_predict المادة٢٦ المادة٢٦ /tmp/tmp0u4o697w.png min g",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 26,
+        "surface_text": "97w.png min general المادة٢٦ المادة٢٦ المادة٢٦ /tmp/tmp",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 26,
+        "surface_text": "in general المادة٢٦ المادة٢٦ المادة٢٦ /tmp/tmp0u4o697w.",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 26,
+        "surface_text": "l المادة٢٦ المادة٢٦ المادة٢٦ /tmp/tmp0u4o697w.png min g",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 26,
+        "surface_text": "97w.png min general المادة٢٦",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 6,
+        "surface_text": "v3_predict المادة٦ ١يجب أن يذكر في سجل التجارة",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 7,
+        "surface_text": "ها الرئيسي في سورية المادة ٧ ١إن الشركات التي يكون مركز",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 6,
+        "surface_text": "خاص البيانات الآتية المادة٦ ١يجب أن يذكر في سجل التجارة",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 6,
+        "surface_text": "stk.png min general المادة٦ ١يجب أن يذكر في سجل التجارة",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 27,
+        "surface_text": "v3_predict المادة٢٧ المادة٢٧ /tmp/tmp53y5jq2z.",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 27,
+        "surface_text": "v3_predict المادة٢٧ المادة٢٧ /tmp/tmp53y5jq2z.png min g",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 27,
+        "surface_text": "q2z.png min general المادة٢٧ المادة٢٧ المادة٢٧ /tmp/tmp",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 27,
+        "surface_text": "in general المادة٢٧ المادة٢٧ المادة٢٧ /tmp/tmp53y5jq2z.",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 27,
+        "surface_text": "l المادة٢٧ المادة٢٧ المادة٢٧ /tmp/tmp53y5jq2z.png min g",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 27,
+        "surface_text": "q2z.png min general المادة٢٧",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 25,
+        "surface_text": "ورد في الفقرة د من المادة ٢٥وتاريخ ولادته ومحلها باسم",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 8,
+        "surface_text": "هائها حماهية الشركة المادة٨ يجب أن يذكر أيضاً في سجل ال",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 28,
+        "surface_text": "v3_predict المادة٢٨ المادة٢٨ /tmp/tmpftww4ddg.",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 28,
+        "surface_text": "v3_predict المادة٢٨ المادة٢٨ /tmp/tmpftww4ddg.png min g",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 28,
+        "surface_text": "ddg.png min general المادة٢٨ المادة٢٨ المادة٢٨ /tmp/tmp",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 28,
+        "surface_text": "in general المادة٢٨ المادة٢٨ المادة٢٨ /tmp/tmpftww4ddg.",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 28,
+        "surface_text": "l المادة٢٨ المادة٢٨ المادة٢٨ /tmp/tmpftww4ddg.png min g",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 28,
+        "surface_text": "ddg.png min general المادة٢٨",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 29,
+        "surface_text": "v3_predict المادة ٢٩ المادة ٢٩ /tmp/tmpbhhzd8m",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 29,
+        "surface_text": "3_predict المادة ٢٩ المادة ٢٩ /tmp/tmpbhhzd8mh.png min",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 29,
+        "surface_text": "8mh.png min general المادة ٢٩ المادة ٢٩ المادة ٢٩ /tmp/",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 29,
+        "surface_text": "n general المادة ٢٩ المادة ٢٩ المادة ٢٩ /tmp/tmpbhhzd8m",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 29,
+        "surface_text": "المادة ٢٩ المادة ٢٩ المادة ٢٩ /tmp/tmpbhhzd8mh.png min",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 29,
+        "surface_text": "8mh.png min general المادة ٢٩",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 3,
+        "surface_text": "v3_predict المادة٣ المادة٣ /tmp/tmp5quwc2s0.pn",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 3,
+        "surface_text": "v3_predict المادة٣ المادة٣ /tmp/tmp5quwc2s0.png min ge",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 3,
+        "surface_text": "2s0.png min general المادة٣ المادة٣ المادة٣ /tmp/tmp5qu",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 3,
+        "surface_text": "min general المادة٣ المادة٣ المادة٣ /tmp/tmp5quwc2s0.pn",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 3,
+        "surface_text": "ral المادة٣ المادة٣ المادة٣ /tmp/tmp5quwc2s0.png min ge",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 3,
+        "surface_text": "2s0.png min general المادة٣",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 3,
+        "surface_text": "v3_predict المادة٣ المادة٣ /tmp/tmp48jvpjfo.pn",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 3,
+        "surface_text": "v3_predict المادة٣ المادة٣ /tmp/tmp48jvpjfo.png min ge",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 3,
+        "surface_text": "jfo.png min general المادة٣ المادة٣ المادة٣ /tmp/tmp48j",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 3,
+        "surface_text": "min general المادة٣ المادة٣ المادة٣ /tmp/tmp48jvpjfo.pn",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 3,
+        "surface_text": "ral المادة٣ المادة٣ المادة٣ /tmp/tmp48jvpjfo.png min ge",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 3,
+        "surface_text": "jfo.png min general المادة٣",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 32,
+        "surface_text": "v3_predict المادة ٣٢ المادة ٣٢ /tmp/tmpwec3pl7",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 32,
+        "surface_text": "3_predict المادة ٣٢ المادة ٣٢ /tmp/tmpwec3pl71.png min",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 32,
+        "surface_text": "l71.png min general المادة ٣٢ المادة ٣٢ المادة ٣٢ /tmp/",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 32,
+        "surface_text": "n general المادة ٣٢ المادة ٣٢ المادة ٣٢ /tmp/tmpwec3pl7",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 32,
+        "surface_text": "المادة ٣٢ المادة ٣٢ المادة ٣٢ /tmp/tmpwec3pl71.png min",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 32,
+        "surface_text": "l71.png min general المادة ٣٢",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 33,
+        "surface_text": "v3_predict المادة ٣٣ المادة ٣٣ /tmp/tmpsmgos5e",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 33,
+        "surface_text": "3_predict المادة ٣٣ المادة ٣٣ /tmp/tmpsmgos5e1.png min",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 33,
+        "surface_text": "5e1.png min general المادة ٣٣ المادة ٣٣ المادة ٣٣ /tmp/",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 33,
+        "surface_text": "n general المادة ٣٣ المادة ٣٣ المادة ٣٣ /tmp/tmpsmgos5e",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 33,
+        "surface_text": "المادة ٣٣ المادة ٣٣ المادة ٣٣ /tmp/tmpsmgos5e1.png min",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 33,
+        "surface_text": "5e1.png min general المادة ٣٣",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 34,
+        "surface_text": "v3_predict المادة ٣٤ المادة ٣٤ /tmp/tmpmdw4d4x",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 34,
+        "surface_text": "3_predict المادة ٣٤ المادة ٣٤ /tmp/tmpmdw4d4xs.png min",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 34,
+        "surface_text": "4xs.png min general المادة ٣٤ المادة ٣٤ المادة ٣٤ /tmp/",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 34,
+        "surface_text": "n general المادة ٣٤ المادة ٣٤ المادة ٣٤ /tmp/tmpmdw4d4x",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 34,
+        "surface_text": "المادة ٣٤ المادة ٣٤ المادة ٣٤ /tmp/tmpmdw4d4xs.png min",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 34,
+        "surface_text": "4xs.png min general المادة ٣٤",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 35,
+        "surface_text": "v3_predict المادة ٣٥ المادة ٣٥ /tmp/tmp70pvgii",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 35,
+        "surface_text": "3_predict المادة ٣٥ المادة ٣٥ /tmp/tmp70pvgiiu.png min",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 35,
+        "surface_text": "iiu.png min general المادة ٣٥ المادة ٣٥ المادة ٣٥ /tmp/",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 35,
+        "surface_text": "n general المادة ٣٥ المادة ٣٥ المادة ٣٥ /tmp/tmp70pvgii",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 35,
+        "surface_text": "المادة ٣٥ المادة ٣٥ المادة ٣٥ /tmp/tmp70pvgiiu.png min",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 35,
+        "surface_text": "iiu.png min general المادة ٣٥",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 36,
+        "surface_text": "v3_predict المادة٣٦ المادة٣٦ /tmp/tmplsh2owny.",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 36,
+        "surface_text": "v3_predict المادة٣٦ المادة٣٦ /tmp/tmplsh2owny.png min g",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 36,
+        "surface_text": "wny.png min general المادة٣٦ المادة٣٦ المادة٣٦ /tmp/tmp",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 36,
+        "surface_text": "in general المادة٣٦ المادة٣٦ المادة٣٦ /tmp/tmplsh2owny.",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 36,
+        "surface_text": "l المادة٣٦ المادة٣٦ المادة٣٦ /tmp/tmplsh2owny.png min g",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 36,
+        "surface_text": "wny.png min general المادة٣٦",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 37,
+        "surface_text": "v3_predict المادة٣٧ المادة٣٧ /tmp/tmpm3d_4aau.",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 37,
+        "surface_text": "v3_predict المادة٣٧ المادة٣٧ /tmp/tmpm3d_4aau.png min g",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 37,
+        "surface_text": "aau.png min general المادة٣٧ المادة٣٧ المادة٣٧ /tmp/tmp",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 37,
+        "surface_text": "in general المادة٣٧ المادة٣٧ المادة٣٧ /tmp/tmpm3d_4aau.",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 37,
+        "surface_text": "l المادة٣٧ المادة٣٧ المادة٣٧ /tmp/tmpm3d_4aau.png min g",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 37,
+        "surface_text": "aau.png min general المادة٣٧",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 38,
+        "surface_text": "v3_predict المادة٣٨ المادة٣٨ /tmp/tmpcolw59nx.",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 38,
+        "surface_text": "v3_predict المادة٣٨ المادة٣٨ /tmp/tmpcolw59nx.png min g",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 38,
+        "surface_text": "9nx.png min general المادة٣٨ المادة٣٨ المادة٣٨ /tmp/tmp",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 38,
+        "surface_text": "in general المادة٣٨ المادة٣٨ المادة٣٨ /tmp/tmpcolw59nx.",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 38,
+        "surface_text": "l المادة٣٨ المادة٣٨ المادة٣٨ /tmp/tmpcolw59nx.png min g",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 38,
+        "surface_text": "9nx.png min general المادة٣٨",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 39,
+        "surface_text": "v3_predict المادة ٣٩ المادة ٣٩ /tmp/tmpydgrg49",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 39,
+        "surface_text": "3_predict المادة ٣٩ المادة ٣٩ /tmp/tmpydgrg49_.png min",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 39,
+        "surface_text": "49_.png min general المادة ٣٩ المادة ٣٩ المادة ٣٩ /tmp/",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 39,
+        "surface_text": "n general المادة ٣٩ المادة ٣٩ المادة ٣٩ /tmp/tmpydgrg49",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 39,
+        "surface_text": "المادة ٣٩ المادة ٣٩ المادة ٣٩ /tmp/tmpydgrg49_.png min",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 39,
+        "surface_text": "49_.png min general المادة ٣٩",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 4,
+        "surface_text": "لى الوجه الذي تعينه المادة٤ البيانات المسجلة سواء أكانت",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 4,
+        "surface_text": "v3_predict المادة ٤ المادة ٤ /tmp/tmpvaj_xib0.",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 4,
+        "surface_text": "v3_predict المادة ٤ المادة ٤ /tmp/tmpvaj_xib0.png min g",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 4,
+        "surface_text": "ib0.png min general المادة ٤ المادة ٤ المادة ٤ /tmp/tmp",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 4,
+        "surface_text": "in general المادة ٤ المادة ٤ المادة ٤ /tmp/tmpvaj_xib0.",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 4,
+        "surface_text": "l المادة ٤ المادة ٤ المادة ٤ /tmp/tmpvaj_xib0.png min g",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 4,
+        "surface_text": "ib0.png min general المادة ٤",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 41,
+        "surface_text": "v3_predict المادة٤١ المادة٤١ /tmp/tmpm7rvq14h.",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 41,
+        "surface_text": "v3_predict المادة٤١ المادة٤١ /tmp/tmpm7rvq14h.png min g",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 41,
+        "surface_text": "14h.png min general المادة٤١ المادة٤١ المادة٤١ /tmp/tmp",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 41,
+        "surface_text": "in general المادة٤١ المادة٤١ المادة٤١ /tmp/tmpm7rvq14h.",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 41,
+        "surface_text": "l المادة٤١ المادة٤١ المادة٤١ /tmp/tmpm7rvq14h.png min g",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 41,
+        "surface_text": "14h.png min general المادة٤١",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 42,
+        "surface_text": "v3_predict المادة ٤٢ المادة ٤٢ /tmp/tmp_5rgkvs",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 42,
+        "surface_text": "3_predict المادة ٤٢ المادة ٤٢ /tmp/tmp_5rgkvsn.png min",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 42,
+        "surface_text": "vsn.png min general المادة ٤٢ المادة ٤٢ المادة ٤٢ /tmp/",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 42,
+        "surface_text": "n general المادة ٤٢ المادة ٤٢ المادة ٤٢ /tmp/tmp_5rgkvs",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 42,
+        "surface_text": "المادة ٤٢ المادة ٤٢ المادة ٤٢ /tmp/tmp_5rgkvsn.png min",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 42,
+        "surface_text": "vsn.png min general المادة ٤٢",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 43,
+        "surface_text": "v3_predict المادة ٤٣ المادة ٤٣ /tmp/tmp6832skc",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 43,
+        "surface_text": "3_predict المادة ٤٣ المادة ٤٣ /tmp/tmp6832skcg.png min",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 43,
+        "surface_text": "kcg.png min general المادة ٤٣ المادة ٤٣ المادة ٤٣ /tmp/",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 43,
+        "surface_text": "n general المادة ٤٣ المادة ٤٣ المادة ٤٣ /tmp/tmp6832skc",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 43,
+        "surface_text": "المادة ٤٣ المادة ٤٣ المادة ٤٣ /tmp/tmp6832skcg.png min",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 43,
+        "surface_text": "kcg.png min general المادة ٤٣",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 44,
+        "surface_text": "v3_predict المادة ٤٤ المادة ٤٤ /tmp/tmpelmrra1",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 44,
+        "surface_text": "3_predict المادة ٤٤ المادة ٤٤ /tmp/tmpelmrra1v.png min",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 44,
+        "surface_text": "a1v.png min general المادة ٤٤ المادة ٤٤ المادة ٤٤ /tmp/",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 44,
+        "surface_text": "n general المادة ٤٤ المادة ٤٤ المادة ٤٤ /tmp/tmpelmrra1",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 44,
+        "surface_text": "المادة ٤٤ المادة ٤٤ المادة ٤٤ /tmp/tmpelmrra1v.png min",
+        "resolved": false,
+        "target_chunk_id": null
+      },
+      {
+        "article_number": 44,
+        "surface_text": "a1v.png min general المادة ٤٤",
+        "resolved": false,
+        "target_chunk_id": null
+      }
+    ],
+    "needs_review": false,
+    "review_reasons": [],
+    "text": "v3_predict\nالتجارة\nقانون\nرقم ٣٣ للعام ٢٠٠٧\n/tmp/tmpwn61xv9o.png\nmin\ngeneral\nاإر\nيا\n/tmp/tmpvslwg0a5.png\n/tmp/tmp08jk94_k.png\nرئيس الجمهورية\nبناءَ على أحكام الدستور\nوعلى ما أقرّه مجلس الشعب في جلسته المنعقدة بتاريخ ١٤٢٨١١١٧ه\nالموافق٢\nيصدر ما يلي\nالمادة\nتطبق أحكام قانون التجارة المرفق اعتباراً من تاريخ سريانه\nيلغى اعتباراً من التاريخ المنكور المرسوم التشريعي رقم ١٤٩ الصادر في\n١٩٤٩٦٢م وتعديلاته وجميع الأحكام المخالفة لقانون التجارة المرفق\nالمادة٣\nينشر هذا القانون في الجريدة الرسمية ويعمل به اعتباراً من تاريخ\n٤٧٠٢\nم  د     م\nيييي\n/tmp/tmpjva6zk4s.png\nوعلى ما أقرّه مجلس الشعب في جلسته المنعقدة بتاريخ ١٤٨١١١\n/tmp/tmpkdlesxva.png\n/tmp/tmp1mce7xz9.png\n/tmp/tmpspfu1uif.png\nوعلى ما أقرّه مجلس الشعب في جلسته المنعقدة بتاريخ ١٤٨١١١٧\nالموافق١\n/tmp/tmpb380srcm.png\n/tmp/tmpjacb97a7.png\n/tmp/tmp1lerx5li.png\n/tmp/tmpradjj9xm.png\nالمادة٢\n/tmp/tmpm8vbk01q.png\nيلغى اعتباراً من التاريخ المذكور المرسوم التشريعي رقم ١٤٩ الصادر في\n١٩٤٩٦م وتعديلاته وجميع الأحكام المخالفة لقانون التجارة المرفق\n/tmp/tmp8xzifjho.png\n/tmp/tmpj5gx_dvl.png\n٢٠٨٤١\n/tmp/tmpatwfk1_q.png\n/tmp/tmp3qn2j_bx.png\n/tmp/tmpo00rtgqp.png\nمشق فيهلموافق\n/tmp/tmp2whiepl7.png\nبشار الأسد\n/tmp/tmp8qa3s2_t.png\n/tmp/tmpw1z539zx.png\n/tmp/tmp6ndz2ol_.png\n/tmp/tmp92g1lnsh.png\nأحكام عامة\n/tmp/tmpdaqkinwj.png\n/tmp/tmp7u_eql1k.png\nيتضمن هذا القانون القواعد المختصة بالأعمال التجارية التي يقوم بها أي\nشخص مهما كانت صفته القانونية ويتضمن من جهة أخرى الأحكام التي تطبق\nعلى الأشخاص الذين اتخذوا التجارة مهنة\n/tmp/tmpk_frbgqe.png\n/tmp/tmpsp1dajnv.png\nإذا انتفى النص من هذا القانون فتطبق على المواد التجارية أحكام القانون المدني\nـ على أن تطبق هذه الأحكام لا يكون إلأ على نسبة اتفاقها مع المبادئ المختصة\nبالقانون التجاري والعرف التجاري\n/tmp/tmpximra1yn.png\n/tmp/tmpzcosnsvd.png\nإذا لم يوجد نص تشريعي يمكن تطبيقه، فللقاضي أن يسترشد بما استقر عليه\nالاجتهاد القضائى وبمباديئ العدالة والإنصاف والاستقامة التجارية\n/tmp/tmpcbkt5jay.png\nالمادة٤\n/tmp/tmp7posv2ov.png\n١ على القاضي عند تحديد أثار العمل التجاري أن يطبق العرف المتوطد إلآإذا\nظهر أن المتعاقدين قصدوا مخالفة العرف أو كان العرف متعارضأً مع النصوص\nالتشريعية الإلزامية\n/tmp/tmp0lp3w9z8.png\n/tmp/tmp56e_i059.png\n٢ويعدّ العرف الخأص والعرف المحلي مرجحين على العرف العام\n/tmp/tmp2udsy729.png\n/tmp/tmppv92xody.png\nإن البورصات التجارية والمعارض والأسواق والمخازن العامة\nوالمستودعات وسائر المنشأت المُعدّة للتجارة تخضع على قدر الحاجة\nلقوانين وأنظمة خاصة\n/tmp/tmp5a9ov5wf.png\nالمادة٦\n/tmp/tmpk0t72ats.png\nثُعدّ بحكم ماهيتها الذاتية أعمالاً تجارية\nأ شراء المنقولات المادية وغير المادية لأجل بيعها بربح ما سواء بيعت على حالتها\nأم بعد شغلها أو تحويلها\nب شراء تلك الأشياء المنقولة نفسها لأجل تأجيرها أو استثجارها لأجل تأجيرها\nثانية\nجالبيع أو الاستئجار أو التأجير ثانية للأشياء المشتراة أو المستأجرة على الوجه\nالمبين فيما تقدم\nد أعمال الصرافة والمبادلة المالية ومعاملات المصارف العامة والخاصة\nهمشروع التوريد\nو مشروع المصانع وإن يكن مقترناً باستثمار زراعي، إلآ إذا كان تحويل المواد يتم\nبعمل يدوي بسيط\nزـ مشروع النقل براً أو جواً أو على سطح الماء\nحمشروع الوكالة والسمسرة\nطـمشروع التأمين بأنواعه\nيمشروع المشاهد العامة\n/tmp/tmpb541ki06.png\nتعدّ بحكم ماهيتها الذاتية أعمالاً تجارية\n/tmp/tmpo22n0hbz.png\nأـ شراء المنقولات المادية وغير المادية لأجل بيعها بربح ما سواء بيعت على حالتها\n/tmp/tmplw44n68c.png\nب شراء تلك الأشياء المنقولة نفسها لأجل تأجيرها أو استئجارها لأجل تأجيرها\n-\n/tmp/tmp8kcbhbs9.png\n/tmp/tmpfy0nk3w5.png\n/tmp/tmpssd_858w.png\nك مشروع النشر\nل مشروع المخازن العامة\nممشروع المناجم والبترول\nنمشروع الاشغال العقارية\nسمشروع شراء العقارات لبيعها بربح\nعمشروع وكالة اشغال\nفـكل مشروع لإنشاء وشراء بواخر معدّة للملاحة الداخلية أو الخارجية، بقصد\nاستثمارها تجارياً أو بيعها وكل بيع للبواخر المشتراة على هذا الوجه\nصـ جميع الإرساليات البحرية وكل عملية تتعلّق بها كالشراء أو بيع لوازمها من\nحبال وأشرعة ومؤن\nث إجارة السفن أو التزام النقل عليها والإقراض أو الاستقراض البحري\nخوسائر العقود المختصة بالتجارة البحرية كالاتفاقات والمقاولات على أجور البحار\nوبدل خدمتهم واستخدامهم للعمل على بواخر تجارية\n/tmp/tmp916ir7oj.png\nيو يإ Oو يي\n/tmp/tmpzb85n4iq.png\nلـمشروع المخازن العامة\n/tmp/tmpu74nvkbz.png\n/tmp/tmpxg96u5gk.png\n/tmp/tmpd7mc7ws4.png\n/tmp/tmpoyl5xl2u.png\n/tmp/tmpf32uccjn.png\nفـكل مشروع لإنشاء وشراء بواخر مُعدّة للملاحة الداخلية أو الخارجية، بقصد\n/tmp/tmpht0kdy9k.png\n/tmp/tmp2d80zr6t.png\nللل  يي ي    لوو    يل ل ل لي ي لوي  ي\n/tmp/tmpo3edhn7o.png\n/tmp/tmp0lv5cpub.png\n/tmp/tmpavdesryq.png\n/tmp/tmpe7yz2i_o.png\nوتُعدّ كذلك من الأعمال التجارية بحكم ماهيتها الذاتية، الأعمال التي يمكن\nاعتبارها مجانسة للأعمال المتقدمة لتشابه صفاتها وغاياتها\n/tmp/tmpkc6c2l03.png\n/tmp/tmp0vf8a144.png\n١جميع الأعمال التي يقوم بها التاجر لحاجات تجارته ثعدّ تجارية أيضاً في نظر\n٢وعند قيام الشك، ثُعدّ أعمال التأجير صادرة منه لهذه الغاية إلآ إذا ثبت\nالعكس\n/tmp/tmp0s4yzukr.png\nجميع الأعمال التي يقوم بها التاجر لحاجات تجارته ثعّ تجارية أيضاً في نظر\n/tmp/tmpyyfszn2z.png\n/tmp/tmp7mavnv91.png\nL\n/tmp/tmpc3_lzk8_.png\n/tmp/tmpplbklqiv.png\n/tmp/tmpkonmug7y.png\n/tmp/tmp2nms4ce7.png\nالفصل الأول\n/tmp/tmpp6eikx26.png\nالتجار على وجه عام والأهلية المطلوبة للاتجار\nالمادة ٩\n/tmp/tmp4wzvo1b7.png\n/tmp/tmpfk5ahdlj.png\nي  لي ي ي  و مل ي   يي\nي ي ي    ف\nلةي  و ي  ي ي   ي  ل ي  ييي و  يو ل و     ة\nلي يق  ي ي يي ي قووي   يلع  وي ي لي ل  ل مّي ل  ل ي ي ي\nالع يل    ي ل ي ولوم ل      ل٥ ول ي   ل٥ ي\n/tmp/tmp6z82bjnu.png\n/tmp/tmpz0_0918t.png\nإن الأفراد الذين يتعاطون تجارة صغيرة أو حرفة بسيطة ذات نفقات عامة\nزهيدة بحيث يعتمدون في الغالب على مساعيهم البدنية للحصول على أرباح قليلة\nلتأمين معيشهم أكثر من استادهم إلى رأس ما لهم النقدي، كالبائع الطواف أو البائع\nبالمياومة أو الذين يقومون بنقليات صغيرة على البر أو سطح الماء، لا يخضعون\nللواجبات المختصة بالدفاتر التجارية ولا لقواعد الشهر ولا لأحكام الإفلاس والصلح\nالواقي المنصوص عليها في هذا القانون\n/tmp/tmp0zoyp6ju.png\n/tmp/tmphkvgj2yz.png\nكل من أعلن في الصحف أو النشرات أو أي واسطة أخرى عن نفسه كتاجر\nأو عن المحل الذي أسسه أو يستثمره للاشتغال بالمعاملات التجارية يُعدّ تاجراً وإن\nلم يتخذ التجارة مهنة مألوفة له\n/tmp/tmpqigqotf9.png\nV\n/tmp/tmpdmnwaliy.png\nالمادة١\n/tmp/tmpal1aun8n.png\nلا يُعدّ تاجراً من قام بمعاملة تجارية عرضاً إلآأن المعاملة تكون خاضعة\nلأحكام قانون التجارة\n/tmp/tmpn7zv9wd3.png\nالمادة ١٣\n/tmp/tmp9x_ya3d7.png\n١لا ثعدّ الدولة ودوائرها ولا الوحدات الإدارية واللجان والنوادي والجمعيات ذات\nالشخصية الاعتبارية من التجار وإن قامت بمعاملات تجارية، إلآ أن معاملاتها\nالمذكورة تكون خاضعة لأحكام قانون التجارة\nتعتبر المؤسسات العامة وشركات القطاع العام والمشترك تاجراً، إذا كان موضوعها\nتجارياً أو منحها القانون هذه الصفة\n/tmp/tmpo46zabyy.png\n/tmp/tmpn_55hr3q.png\n٢ـ تعتبر المؤسسات العامة وشركات القطاع العام والمشترك تاجراً، إذا كان موضوعها\n/tmp/tmpbhxmi74q.png\n/tmp/tmp04u5xhnj.png\n/tmp/tmp4uo8gbcf.png\nإذا اشتغل العاملون في الدولة الممنوعون من الاتجار قانوناً بالمعاملات\nالتجارية، فتشملهم الأحكام القانونية المتعلقة بالصلح الواقى والإفلاس\n/tmp/tmppeaqthhy.png\nالمادة ٥\nتخضع الأهلية التجارية لأحكام القانون المدني وللأحكام الخاصة بالتجار\n/tmp/tmpmkzoxois.png\nالمادة١٥\n/tmp/tmpi7yie12r.png\n/tmp/tmp2rptgd_4.png\nالثاني\n/tmp/tmpe3ikhjuw.png\n/tmp/tmpe50q1uk0.png\n/tmp/tmp3nh2yul7.png\nعلى التاجر أن ينظم على الأقل الدفترين الإجباريين التاليين\ntt\n/tmp/tmpbee8vilz.png\nأ دفتر اليومية يقيد فيه يوماً فيوماً جميع الأعمال التي تعود بوجه من الوجوه\nإلى مؤسسته التجارية وأن يقيد بالجملة شهراً فشهراً النفقات التي أنفقها على\nنفسه وأسرته وإذا كان التاجر يتبع الأسلوب الآلى فى محاسبته أو مسك\nالدفاتر يومية مساعدة منظمة وفق أحكام المادتين ١٧و١٨ من هذا\n/tmp/tmpmz5bfleo.png\n/tmp/tmp0xf6y4u4.png\n/tmp/tmpm418moa1.png\nالقانون، فله أن يقيد أعماله فى دفتر اليومية شهراً فشهراً، على أن يحتفظ\nبجميع الوثائق التي تتيح التدقيق في الأعمال المذكورة\nب دفتر جرد يتضمن جرداً سنوياً للموجودات والمطاليب العائدة لمؤسسته وأن\nيوقف حساباته سنوياً ليضع على أساسها الميزانية وحساب الأرباح والخسائر\nوينسخها في دفتر الجرد\nوعليه أن يحفظ ويرتب المراسلات التي يتلقاها وصور المراسلات التي\nيرسلها\n٣يجب تتظيم دفتري اليومية والجرد باللغة العربية ولوزير الاقتصاد والتجارة أن\nيعفي من هذا الشرط المؤسسات الأجنبية التي يحددها بقرار منه\nالمادة١٧\nيجب أن تنظم الدفاتر التجارية الإجبارية بحسب التاريخ وبلا بياض ولا فراغ\nولا نقل إلى الهامش ولا محو ولا تحشية بين السطور\nالمادة٨\nيجب ترقيم الدفاتر المذكورة والتأشير عليها وتوقيعها من رئيس محكمة البداية\nالمدنية أو من قاضي الصلح في المدن التي لا توجد فيها محكمة بداية\nالمادة ١٩\nيجب على التاجر أن يحفظ الدفاتر بعد اختتامها مدّة عشر سنوات\n٢للمؤسسات التجارية التي يعينها وزير الاقتصاد والتجارة أن تحتفظ للمدّة المذكورة\nاييع يد ي   يـ ي  ي ه ميي ي ي  يو O وي\nي يي ة  ي و ل  و لةةوي\nل  ول    ييل    ي ي\nي  وو وع   ل و وو   يعي\n/tmp/tmp_comvgpk.png\n/tmp/tmpn5kltwt9.png\n/tmp/tmp7vxijxx9.png\nالقانون، فله أن يقيد أعماله فى دفتر اليومية شهراً فشهراً على أن يحتفظ\n/tmp/tmpp3bdoe4_.png\n/tmp/tmp_48b31b8.png\n/tmp/tmpfroujsr_.png\n/tmp/tmpc07r4z5r.png\n/tmp/tmp3epbugqr.png\n/tmp/tmphk5l5fgm.png\n/tmp/tmp8kkfz835.png\n/tmp/tmpuqe9xjeb.png\n/tmp/tmpnef37_ym.png\n/tmp/tmpc_gnanuh.png\n/tmp/tmp6xkrb4tf.png\n١يجب على التاجر أن يحفظ الدفاتر بعد اختتامها مدّة عشر سنوات\nفي الفقرة السابقة بالصورة بأية وسيلة إلكترونية تعتمدها وزارة الاقتصاد والتجارة\nبدلاأ من الأصل وتكون للصورة حجية الأصل فى الإثبات\n/tmp/tmpjmrv4jlk.png\n/tmp/tmpsj5awgia.png\n/tmp/tmpmzlq1z4x.png\nلا ثسلّم الدفاتر بكاملها إلى القضاء إلآ في أحوال الإرث وقسمة الأموال\nالمشتركة والشركة والصلح الواقي والإفلاس\n/tmp/tmp24461gjk.png\n/tmp/tmpn43gy_2b.png\n/tmp/tmpbfdzj9u3.png\nالمادة٢١\n/tmp/tmpbhnujr97.png\nفيما عدا الأحوال المذكورة في المادة السابقة يمكن على الدوام عرض الدفاتر\nالتجارية أو المطالبة بإبرازها لاستخلاص ما يتعلّق منها بالنزاع\nوللقاضى أن يأمر من تلقاء نفسه الدفاتر المذكورة للغاية ذاتها\n/tmp/tmp425xe98_.png\n٢ـوللقاضى أن يأمر من تلقاء نفسه الدفاتر المذكورة للغاية ذاتها\n/tmp/tmpbd8n8oeb.png\nالمادة٢٢\n/tmp/tmpeivr3uhz.png\nيمكن للتجار مسك حساباتهم إلكترونياً وفقا للتعليمات التنفيذية التي تصدر\nعن وزارة الاقتصاد والتجارة\n/tmp/tmpk_gsj9tk.png\nالفصل الثالث\n/tmp/tmp_jtz2zo8.png\nسجل\n/tmp/tmp85ygjeoc.png\nالمادة ٢٣\n/tmp/tmp1ypxcgsm.png\nسجل التجارة يمكن الجمهور من الحصول على المعلومات الوافية عن كل\nالمؤسسات التجارية التي تعمل في سورية\n٢وهو أيضاً أداة للشهر يقصد بها جعل من درجاته نافذة في حق الغير عند وجود\nنص قانوني صريح بهذا المعنى\n/tmp/tmparxq09t3.png\n/tmp/tmp583_53e9.png\n٢ـوهو أيضاً أداة للشهر يقصد بها جعل من درجاته نافذة في حق الغير عند وجود\n/tmp/tmpu807gxva.png\nالمادة ٤٤\n/tmp/tmpve6ye0zu.png\n١ينظم لدى وزارة الاقتصاد والتجارة سجل خاص بفروع المؤسسات التجارية\nوالشركات التي يوجد مركزها خارج سورية\n/tmp/tmpxkvaij2o.png\n٢ينظم لدى وزارة الاقتصاد والتجارة فى كل محافظة سجل لتسجيل أسماء التجار\nوالشركات التجارية والشركات المدنية وباقي المؤسسات التجارية يُطّلق عليها\n/tmp/tmpdpe_j5r8.png\nيتولى مسك السجل موظف يُطلق عليه أمين سجل التجارة وعليه أن يباشر\nوظيفته أن يحلف اليمين أمام محكمة البداية المدنية، على أن يقوم بوظيفته\nبشرف وأمانة\n/tmp/tmp1tlbt78g.png\n/tmp/tmplbn24u15.png\nتسجل أسماء التجار الذي تكون متاجرهم الرئيسية في سورية، مهما كانت\nجنسيتهم\n/tmp/tmpj74_b650.png\nالمادة ٢٥\n١يجب على كل تاجر أن يطلب من أمين سجل التجارة في المحافظة التي يوجد\nفيها مركزه الرئيسي أن يسجل اسمه في سجل التجارة في خلال شهر واحد من\nتاريخ فتح المحل أو شرائه\nعلى التاجر أن يقدم تصريحاً في نسختين موقعتين منه يذكر فيه ما يلي\nأ-اسمه ونسبته\nباسمه التجاري إذا اختلف عن اسمه وعنوانه التجاري\nجتاريخ ولادته ومحلها وموطنه\nد جنسيته الأصلية، وإذا كان قد حصل على جنسية أخرى، فيبين طريقة\nحصوله عليها مع ذكر التاريخ\nهوإذا كان الأمر يختص بامرأة متزوجة تابعة لجنسية أجنبية يقضي قانون\nالأحوال الشخصية الذي تخضع له بألا تتعاطى التجارة إلأ بترخيص صريح\nمن زوجها، فيذكر الترخيص المعطى لها وفاقاً قانون المشار إليه\nوالنظام المالي للزوجين إذا اختلف عن أحكام القانون السوري والاتفاقية\nالمعقودة بينهما وذلك في حال وجودها\nز موضوع التجارة\nحالمتاجر التي يستثمرها التاجر أو التي سبق له استثمارها في سورية ومكانها\nط شعائر المتجر إن وجد\nيأسماء المفوضين بالنيابة عنهم ونسبتهم وتاريخ ولادتهم ومحلها\nوجنسيتهم\n٣ـينقل أمين السجل محتوى التصريح إلى سجل التجارة ويسلم التاجر إحدى نسختي\nالتصريح بعد أن يصادق في آخرها على أنها مطابقة للأصل\n/tmp/tmpsjvah4ch.png\n/tmp/tmp6w110fzb.png\n/tmp/tmpj2iclc_e.png\nالمادة٢٦\n/tmp/tmp0u4o697w.png\n١يجب أن يذكر في سجل التجارة\nأـ كل تعديل يتعلّق بالأمور التي تقضي المادة السابقة بقيدها في السجل\nبشهادات الاختراع التي يستثمرها التاجر والعلامات التي يستعملها للمصنع\nأو التجارة\nجالأحكام والقرارات القاضية بتعيين وصيّ عليه أو قيّم أو مساعد قضائي\nللتاجر المسجل أو بالحجر عليه أو برفع هذه التدابير عنه\nدالأحكام والقرارات المعلنة للإفلاس أو المتضمنة تصديق الصلح أو فسخه\nأو إبطاله أو المعلنة لمعذرة المفلس أو القاضية بإغلاق التفليسة لعدم كفاية\nالموجودات أو بالعدول عن إغلاقها أو بإعادة الإعتبار\nهالتفرغ عن المحل التجاري\nويجري القيد بناءَ على طلب التاجر في الأحوال المشار إليها في الفقراتأ،\nب، هويجري في الأحوال المشار إليها في الفقرتين ج، د بناء على طلب\nكاتب المحكمة التى أصدرت القرارات المراد قيدها\nتسجيل الشركات التجارية التي يكون مركزها الرئيسي في سورية\nالمادة ٧\n١إن الشركات التي يكون مركزها الرئيسي في سورية مهما كانت جنسيتهاء يجب\nتسجيلها في سجل التجارة المختص بمنطقة مركزها الرئيسي، ويجب على\nمديريها وأعضاء مجلس إدارتها أن يطلبوا التسجيل في خلال الشهر الذي يلي\nتأسيسها\nويقدم طالبو التسجيل إلى أمين سجل التجارة صورة مصدقة عن صك تأسيس\nالشركة أو نظامها الأساسى وخلاصة لهذا الصك أو النظام معدّة للشهر ومنظمة\nعلى نسختين ومشتملة على الطوابع وعلى تواقيع طالبي التسجيل ومتضمنه\nبوجه خاص البيانات الآتية\n/tmp/tmpe2_pxstk.png\nجالأحكام والقرارات القاضية بتعيين وصيّ عليه أو قيم أو مساعد قضائي\n٢ويجري القيد بناءَ على طلب التاجر في الأحوال المشار إليها في الفقرات أ،\n/tmp/tmp8dktnm_6.png\nالمادة٢٧\n/tmp/tmp53y5jq2z.png\nإن الشركات التي يكون مركزها الرئيسي في سورية مهما كانت جنسيتها، يجب\n/tmp/tmpg9_ivc9o.png\n٢حويقدم طالبو التسجيل إلى أمين سجل التجارة صورة مصدقة عن صك تأسيس\nالشركة أو نظامها الأساسي وخلاصة لهذا الصك أو النظام مُعدّة للشهر ومنظمة\n/tmp/tmpchmju_0o.png\n/tmp/tmpphoems5j.png\nأ اسم ونسبة كل من الشركاء ما عدا المساهمين وجنسية كل منهم موضحة\nوفقاً لما ورد في الفقرة د من المادة ٢٥وتاريخ ولادته ومحلها\nباسم الشركة التجاري أو عنوانها\nجموضوع الشركة\nد الأماكن التي فيها مركز الشركة أو فروعها ومتاجرها في سورية أو خارجها\nهـأسماء الشركاء أو غير المرخص لهم بإدارة الشركة وتدبير أمورها أو التوقيع\nعنها\nو رأس مال الشركة وكيفية تسديده\nز ميعاد ابتداء الشركة وميعاد انتهائها\nحماهية الشركة\nيجب أن يذكر أيضاً في سجل التجارة\n١ـكل تعديل يختص بالأمور واجب تسجيلها أو الوثائق الواجب إيداعها بمقتضى\n٢الاسم والنسبة وتاريخ الولادة ومحلها والجنسية لكل من مديري الشركة وأعضاء\nمجلس إدارتها ومديريها المعينين لمدّة وجودها أما طلب التسجيل فيقدمه المديرون\nوأعضاء مجلس الإدارة القائمون بوظائفهم في وقت وجوب التسجيل\n٣شهادات الاختراع المستثمرة والعلامات التجارية الصناعية التي تستعملها الشركة\n٤الأحكام أو القرارات القاضية بحل الشركة أو إبطالها\nالأحكام أو القرارات المعلنة إفلاس الشركة أو تصديق الصلح الواقي والمقررات\nالمختصة بهما\nالشركات التجارية المؤسسة خارج الأراضي السورية ولها فروع أو وكالات في\nسورية وكذلك التجار الذين لهم مركز رئيسي في الخارج وفروع أو وكالات في سورية\nمهما كانت جنسيتهم\n/tmp/tmpz1ufhu5f.png\nهأسماء الشركاء أو غير المرخص لهم بإدارة الشركة وتدبير أمورها أو التوقيع\nزـ ميعاد ابتداء الشركة وميعاد انتهائها\n/tmp/tmpq8by9rif.png\nالمادة٢٨\n/tmp/tmpftww4ddg.png\n١كل تعديل يختص بالأمور واجب تسجيلها أو الوثائق الواجب إيداعها بمقتضى\n/tmp/tmpl5m7pcrv.png\n/tmp/tmp4igiy9lv.png\n/tmp/tmpehpy216h.png\n/tmp/tmptn5o1vhp.png\nالمادة ٢٩\n/tmp/tmpbhhzd8mh.png\nيخضع تسجيل مثل تلك الفروع أو الوكالات لأحكام القانون الخاص بتسجيلها\n/tmp/tmp5vg6u83p.png\n/tmp/tmpe05k2l76.png\n/tmp/tmp5quwc2s0.png\n١يحدث فى أمانة سجل التجارة سجل خاص بالشركات المدنية التي يقع\nمركزها الرئيسي في المحافظة تسجل فيه الشركات وفق أحكام المادتين ٢٧\nو٢٨من هذا القانون باستثناء ما يتوقف العمل به على الصفة التجارية\nللشركة\n/tmp/tmp62v8ff84.png\n٢ تسجل الشركات المدنية التي يقع مركزها خارج سورية أو لها فرع أو وكالة في\nسجل خاص تابع لسجل الفروع والوكالات العائدة للمؤسسات أو الشركات القائمة\nخارج سورية وذلك وفق القانون الخاص بها\n/tmp/tmp4z0aw1jm.png\n٣ـ على الشركات المذكورة في الفقرتين السابقتين تسجيل نفسها في السجل المذكور\nوإيداع صك تأسيسها ونظامها الأساسي ديوان محكمة البداية في مركزها إذا\nأرادت الاحتجاج بشخصيتها الإعتبارية حيال الغير\n/tmp/tmp1r6vtf_a.png\n/tmp/tmp48jvpjfo.png\nإذا توفي تاجر أو انقطع عن تعاطى تجارته أو إذا انحلّت إحدى الشركات وجب\nشطب التسجيل المختص بهما فى سجل التجارة\n/tmp/tmp4zlhlm6f.png\n٢ويجري هذا الشطب مباشرة بمقتضى قرار يصدره أمين سجل التجارة\n/tmp/tmph2lnrvec.png\nالمادة ٣٢\n/tmp/tmpwec3pl71.png\n١كل قيد فى سجل التجارة لم يحدد له ميعاد فى المواد السابقة يجب طلب إجرائه\nفي خلال شهر يبتدئ من تاريخ الوثيقة أو العمل الذي يراد قيده\nأما الأحكام والقرارات فيبتدى ميعادها من يوم صدورها\n/tmp/tmpsc4k6zqy.png\nأما الأحكام والقرارات فيبتدئ ميعادها من يوم صدورها\n/tmp/tmp4be37uxy.png\n/tmp/tmpa3gr7cys.png\n/tmp/tmp235psaja.png\nالمادة ٣٣\n/tmp/tmpsmgos5e1.png\nإن جميع التسجيلات والقيود في سجل التجارة تجري بعد تصريح يقدم وفاقاً\nللصيغ التي نص عليها\n/tmp/tmprsw2szcj.png\nالمادة ٣٤\n/tmp/tmpmdw4d4xs.png\nعلى أمين سجل التجارة أن يرفض إجراء القيود المطلوبة إذا تبين له أن\nالتصريحات المقدمة لا تشتمل على كل البيانات المنصوص عليها أو كانت تتعارض\nمع الوثائق الثبوتية المرفقة بها أو مع أحكام القانون\n/tmp/tmpkdmjvo1h.png\nالمادة ٣٥\n/tmp/tmp70pvgiiu.png\n١يجوز لكل شخص أن يطلب إعطاءه نسخة عن القيود المدرجة في السجل مقابل\n/tmp/tmp7q2rr41t.png\nرسم يحدد من الوزير المختص\n٢ولأمين السجل عند الإقتضاء أن يعطى شهادة بعدم وجود قيود\n٣ويصدّق أمين السجل مطابقة النسخ للأصل\n/tmp/tmp28e6d5xf.png\n/tmp/tmpih65tqo1.png\n٢ـولأمين السجل عند الإقتضاء أن يعطي شهادة بعدم وجود قيود\n/tmp/tmpxj0d49g6.png\n٣ـويصدّق أمين السجل مطابقة النسخ للأصل\n/tmp/tmp_n3n47k_.png\nالمادة٣٦\n/tmp/tmplsh2owny.png\nلا يجوز أن يذكر في النسخ التي يسلمها أمين السجل\n/tmp/tmpjbwmstg9.png\nالأحكام المعلنة للإفلاس إذا كان المفلس قد استرد اعتباره\nالأحكام القاضية بالحجر أو تعيين مساعد قضائى إذا كان قد صدر القرار برفع\nالحجر أو المساعدة القضائية\n/tmp/tmpeedl7u4r.png\n١الأحكام المعلنة للإفلاس إذا كان المفلس قد استرد اعتباره\n/tmp/tmpj_mxon2_.png\nـ الأحكام القاضية بالحجر أو تعيين مساعد قضائي إذا كان قد صدر القرار برفع\n/tmp/tmpqt7npsrv.png\n/tmp/tmprutao0p6.png\nالمادة٣٧\n/tmp/tmpm3d_4aau.png\nكل تاجر وكل شركة ملزمين بالتسجيل يجب عليهما أن يذكرا المكان الذي\nسجلا فيه ورقم هذا التسجيل في مراسلاتهما وفواتيرهما ومذكرات التسليم والتعريفات\nوالمنشورات وسائر الأوراق الصادرة عنهما\n/tmp/tmp7jsbp88a.png\nالمادة٣٨\n/tmp/tmpcolw59nx.png\n١ـكل تاجر وكل شخص يكلف بإدارة شركة لا يطلب في المراعيد المنصوص\nعليها إجراء القيود الإجبارية أو لايذكر ما يجب ذكره على المراسلات أو الفواتير\n/tmp/tmp1_9lh2w7.png\n/tmp/tmphdp4dsmp.png\nوغيرها من الأوراق الصادرة عن محله يعاقب بغرامة تتراوح بين ١٠٠٠٠\nعشرة آلاف و٥٠٠٠٠ وخمسين ألف ليرة سورية\n/tmp/tmpnxnecfj8.png\nعشرة آلاف و٥٠٠ وخمسين ألف ليرة سورية\n٢ـتحكم بهذه الغرامة محكمة البداية المدنية بناءَ على طلب أمين سجل التجارة أو\nالنيابة العامة بعد سماع أقوال صاحب الشأن أو دعوته بحسب الأصول\n٣ـوإذا لم يجر المحكوم عليه أثناء القيد فى أثناء هذا الميعاد يحكم بغرامة جديدة\n٤ـ أما أمناء السجل الذين لا يعملون بمقتضى هذه الأحكام فيخضعون للعقوبات\nالمسلكية المنصوص عليها في القانون الأساسي للعاملين في الدولة\n/tmp/tmp988jwk7g.png\nةيي  ي  ية و  ي    و  ة  ويي    ول ل  ي   د\nو ة   ي يه    هي   و ل    لي  ي هي   يلي\n/tmp/tmp_s055lh5.png\n/tmp/tmpnr18lo_l.png\n±\n٤–أما أمناء السجل الذين لا يعملون بمقتضى هذه الأحكام فيخضعون للعقوبات\n/tmp/tmpzbiagvzw.png\n/tmp/tmp8xkklxdu.png\nالمادة ٣٩\n/tmp/tmpydgrg49_.png\n١ـكل بيان غير صحيح يقدم عن سوع نية للتسجيل أو للقيد فى سجل التجارة\nيعاقب مقدمه بغرامة تتراوح بين ١٠٠٠ ألف و٥٠٠٠ خمسة لاف ليرة\nسورية وبالحبس من شهر واحد إلى ستة أشهر، أو بإحدى هاتين العقوبتين\nولا يحول ذلك دون العقوبات التى يمكن الحكم بها وفاقاً للقوانين الخاصة ولقانون\nالعقوبات من أجل الجرائم الناشئة عن البيان غير الصحيح\n٣وللمحكمة الجزائية التي تصدر الحكم أن تأمر بتصحيح البيان المشار إليه على\nالوجه الذي تعينه\nالبيانات المسجلة سواء أكانت اختيارية أم إجبارية، تعتبر نافذة في حق الغير\nاعتباراً من تاريخ تسجيلها\n٢ولا يحول تطبيق العقوبات المقدمة دون نفاذ القاعدة المنصوص عليها بالفقرة\n/tmp/tmp93k2yu73.png\n١كل بيان غير صحيح يقدم عن سوء نية للتسجيل أو للقيد في سجل التجارة\nيعاقب مقدمه بغرامة تتراوح بين ١٠٠٠ ألف و٥٠٠٠خمسة آلاف ليرة\n/tmp/tmpsremq5yj.png\n١ـكل بيان غير صحيح يقدم عن سوء نية للتسجيل أو للقيد في سجل التجارة\n/tmp/tmp3a0qe_wa.png\n٢ـولا يحول ذلك دون العقوبات التى يمكن الحكم بها وفاقاً للقوانين الخاصة ولقانون\n/tmp/tmpma2t_rrh.png\n/tmp/tmpwhxht568.png\n/tmp/tmpvaj_xib0.png\n١البيانات المسجلة سواء أكانت اختيارية أم إجبارية، تعتبر نافذة في حق الغير\n٢ـولا يحول تطبيق العقوبات المقدمة دون نفاذ القاعدة المنصوص عليها بالفقرة\n/tmp/tmp_o6z_01v.png\n/tmp/tmp4m7f0km9.png\n/tmp/tmpnq5re4ls.png\nالمادة٤١\n/tmp/tmpm7rvq14h.png\nكل شخص طبيعي أو اعتباري يدعي بصفته التجارية أمام المحاكم أو يراجع\nلمصلحته بالصفة ذاتها الدوائر الإدارية أو المؤسسات العامة، لا يسمح ادعاؤه ولا\nتقبل مراجعته ما لم يكن مسجلاً في سجل التجارة\n/tmp/tmp7hqlxx_c.png\n/tmp/tmpmd_u39vf.png\nالمادة ٤٢\n/tmp/tmp_5rgkvsn.png\n١ تفصل محكمة البداية المدنية في المحافظة التي يوجد فيها سجل التجارة، في\nكل خلاف يقع بين أمين سجل التجارة وأصحاب العلاقة، بقرار يتخذ في غرفة\nالمذاكرة، وعليها إصدار قرارها خلال شهر من تاريخ الادعاء\n/tmp/tmpy4v0ysov.png\n٢يخضع قرار محكمة البداية المدنية للطعن بطريق الاستئناف وعلى محكمة\nالاستئناف أن تفصل فيه بصورة نهائية وبقرار غير قابل للطعن يصدر خلال\nثلاثة أشهر من تاريخ تقديم الطعن\n/tmp/tmp58_ekm8w.png\n/tmp/tmphhq6il6z.png\nالمادة ٤٣\n/tmp/tmp6832skcg.png\nالمتجر مجموعة عناصر مادية وغير مادية تهدف إلى مارسة مهنة تجارية\nيشتمل المتجر مبدئياً على الاسم التجاري والعنوان التجاري والشعار وحق\nالاتصال بالزيائن وحق الاستئجار المنصوص عليه فى قوانين الإيجار الخاصة\nوتعديلاتهاء، والتجهيزات والعدد الصناعية والأثاث والبراءات والإجازات والرسوم\nوالنماذج، ما لم يستثن بعض هذه العناصر من محتويات المتجر بالنص على\nذلك في سجل المتجر أو في العقود الواردة عليه\n/tmp/tmp3v2uflls.png\n/tmp/tmpelmrra1v.png\n١إن حقوق صاحب المتجر على مختلف عناصره تتظمها القوانين الخاصة بهذه\nالعناصر والمبادي الحقوقية العامة\nأما المتجر كمجموعة فيخضع لأحكام هذا القانون\n/tmp/tmpfmnz5jxw.png\n٢ـأما المتجر كمجموعة فيخضع لأحكام هذا القانون\n/tmp/tmpxyri6qc9.png\n/tmp/tmpiel0wvtk.png",
+    "metadata": {
+      "has_article_references": true
+    }
+  }
+]

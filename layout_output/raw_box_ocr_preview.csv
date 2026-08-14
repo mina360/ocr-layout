@@ -1,0 +1,216 @@
+﻿page,region_id,reading_order_start,reading_order_end,confidence,needs_review,review_reasons,crop_path,text_preview
+page_0003,page_0003_raw_0005,1,1,0.7248,False,,layout_output\raw_box_crops\page_0003\page_0003_raw_0005.png,قانون التجارة / رقم ٣٣ للعام ٢٠٠٧ / رئيس الجمهورية / بناءَ على أحكام الدستور / وعلى ما أقرّه مجلس الشعب في جلسته المنعقدة بتاريخ ١٤٨١١٧ه / الموافق١ / ي / ا / اع و ل ي يي ي ية / اة / ال قي ة يو ي ي للول و و ل ل ي / ليو ي ي ي و لي ة ع ي ٥ ة ة / المادة 
+page_0003,page_0003_raw_0010,2,2,0.9062,False,,layout_output\raw_box_crops\page_0003\page_0003_raw_0010.png,التجارة / قانون / رقم ٣٣ للعام ٢٠٠٧
+page_0003,page_0003_raw_0013,3,3,0.4348,True,low_clean_ocr_confidence,layout_output\raw_box_crops\page_0003\page_0003_raw_0013.png,اإر / يا
+page_0003,page_0003_raw_0006,4,4,0.7608,False,,layout_output\raw_box_crops\page_0003\page_0003_raw_0006.png,رقم ٣٣ للعام ٢٠٠٧
+page_0003,page_0003_raw_0018,5,5,0.8317,False,,layout_output\raw_box_crops\page_0003\page_0003_raw_0018.png,رئيس الجمهورية / بناءَ على أحكام الدستور / وعلى ما أقرّه مجلس الشعب في جلسته المنعقدة بتاريخ ١٤٢٨١١١٧ه / الموافق٢ / يصدر ما يلي / المادة / تطبق أحكام قانون التجارة المرفق اعتباراً من تاريخ سريانه / المادة / يلغى اعتباراً من التاريخ المنكور المرسوم ال
+page_0003,page_0003_raw_0021,6,6,0.8842,False,,layout_output\raw_box_crops\page_0003\page_0003_raw_0021.png,رئيس الجمهورية / بناءَ على أحكام الدستور / وعلى ما أقرّه مجلس الشعب في جلسته المنعقدة بتاريخ ١٤٨١١١ / الموافق٢
+page_0003,page_0003_raw_0017,7,7,0.9653,False,,layout_output\raw_box_crops\page_0003\page_0003_raw_0017.png,رئيس الجمهورية
+page_0003,page_0003_raw_0019,8,8,0.9253,False,,layout_output\raw_box_crops\page_0003\page_0003_raw_0019.png,بناءَ على أحكام الدستور
+page_0003,page_0003_raw_0015,9,9,0.7939,False,,layout_output\raw_box_crops\page_0003\page_0003_raw_0015.png,وعلى ما أقرّه مجلس الشعب في جلسته المنعقدة بتاريخ ١٤٨١١١٧ / الموافق١
+page_0003,page_0003_raw_0020,10,10,0.9674,False,,layout_output\raw_box_crops\page_0003\page_0003_raw_0020.png,يلي / يصدر
+page_0003,page_0003_raw_0011,11,11,0.9279,False,,layout_output\raw_box_crops\page_0003\page_0003_raw_0011.png,المادة
+page_0003,page_0003_raw_0007,12,12,0.9566,False,,layout_output\raw_box_crops\page_0003\page_0003_raw_0007.png,تطبق أحكام قانون التجارة المرفق اعتباراً من تاريخ سريانه
+page_0003,page_0003_raw_0012,13,13,0.9069,False,,layout_output\raw_box_crops\page_0003\page_0003_raw_0012.png,المادة٢
+page_0003,page_0003_raw_0008,14,14,0.9397,False,,layout_output\raw_box_crops\page_0003\page_0003_raw_0008.png,يلغى اعتباراً من التاريخ المذكور المرسوم التشريعي رقم ١٤٩ الصادر في / ١٩٤٩٦م وتعديلاته وجميع الأحكام المخالفة لقانون التجارة المرفق
+page_0003,page_0003_raw_0009,15,15,0.9765,False,,layout_output\raw_box_crops\page_0003\page_0003_raw_0009.png,المادة٣
+page_0003,page_0003_raw_0002,16,16,0.8991,False,,layout_output\raw_box_crops\page_0003\page_0003_raw_0002.png,ينشر هذا القانون في الجريدة الرسمية ويعمل به اعتباراً من تاريخ / ٢٠٨٤١
+page_0003,page_0003_raw_0023,17,17,0.9559,False,,layout_output\raw_box_crops\page_0003\page_0003_raw_0023.png,ينشر هذا القانون في الجريدة الرسمية ويعمل به اعتباراً من تاريخ
+page_0003,page_0003_raw_0022,18,18,,True,empty_clean_ocr_text,layout_output\raw_box_crops\page_0003\page_0003_raw_0022.png,v3_predict / /tmp/tmpo00rtgqp.png / min / general / /tmp/tmpo00rtgqp.png / min / general
+page_0003,page_0003_raw_0004,19,19,0.6468,False,,layout_output\raw_box_crops\page_0003\page_0003_raw_0004.png,مشق فيهلموافق
+page_0003,page_0003_raw_0003,20,20,0.9728,False,,layout_output\raw_box_crops\page_0003\page_0003_raw_0003.png,الجمهورية / رئيس / بشار الأسد
+page_0003,page_0003_raw_0016,21,21,0.9703,False,,layout_output\raw_box_crops\page_0003\page_0003_raw_0016.png,الجمهورية / رئيس
+page_0003,page_0003_raw_0014,22,22,0.9538,False,,layout_output\raw_box_crops\page_0003\page_0003_raw_0014.png,بشار الأسد
+page_0003,page_0003_raw_0001,23,23,0.987,False,,layout_output\raw_box_crops\page_0003\page_0003_raw_0001.png,٣
+page_0004,page_0004_raw_0032,1,1,0.9485,False,,layout_output\raw_box_crops\page_0004\page_0004_raw_0032.png,التجارة / قانون / الكتاب الأول / التجارة على وم والجار والموات التجاالمتجر / الباب الأول / أحكام عامة / المادة
+page_0004,page_0004_raw_0034,2,2,0.8931,False,,layout_output\raw_box_crops\page_0004\page_0004_raw_0034.png,أحكام عامة
+page_0004,page_0004_raw_0033,3,3,0.9598,False,,layout_output\raw_box_crops\page_0004\page_0004_raw_0033.png,المادة
+page_0004,page_0004_raw_0024,4,4,0.9593,False,,layout_output\raw_box_crops\page_0004\page_0004_raw_0024.png,يتضمن هذا القانون القواعد المختصة بالأعمال التجارية التي يقوم بها أي / شخص مهما كانت صفته القانونية ويتضمن من جهة أخرى الأحكام التي تطبق / على الأشخاص الذين اتخذوا التجارة مهنة
+page_0004,page_0004_raw_0028,5,5,0.9832,False,,layout_output\raw_box_crops\page_0004\page_0004_raw_0028.png,المادة
+page_0004,page_0004_raw_0027,6,6,0.9464,False,,layout_output\raw_box_crops\page_0004\page_0004_raw_0027.png,إذا انتفى النص من هذا القانون فتطبق على المواد التجارية أحكام القانون المدني / ـ على أن تطبق هذه الأحكام لا يكون إلأ على نسبة اتفاقها مع المبادئ المختصة / بالقانون التجاري والعرف التجاري
+page_0004,page_0004_raw_0031,7,7,0.8875,False,,layout_output\raw_box_crops\page_0004\page_0004_raw_0031.png,المادة ٣
+page_0004,page_0004_raw_0025,8,8,0.9393,False,,layout_output\raw_box_crops\page_0004\page_0004_raw_0025.png,إذا لم يوجد نص تشريعي يمكن تطبيقه، فللقاضي أن يسترشد بما استقر عليه / الاجتهاد القضائى وبمباديئ العدالة والإنصاف والاستقامة التجارية
+page_0004,page_0004_raw_0030,9,9,0.9309,False,,layout_output\raw_box_crops\page_0004\page_0004_raw_0030.png,المادة٤
+page_0004,page_0004_raw_0026,10,10,0.9451,False,,layout_output\raw_box_crops\page_0004\page_0004_raw_0026.png,١ على القاضي عند تحديد أثار العمل التجاري أن يطبق العرف المتوطد إلآإذا / ظهر أن المتعاقدين قصدوا مخالفة العرف أو كان العرف متعارضأً مع النصوص / التشريعية الإلزامية
+page_0004,page_0004_raw_0029,11,11,0.7917,False,,layout_output\raw_box_crops\page_0004\page_0004_raw_0029.png,3
+page_0005,page_0005_raw_0040,1,1,0.9173,False,,layout_output\raw_box_crops\page_0005\page_0005_raw_0040.png,٢ويعدّ العرف الخأص والعرف المحلي مرجحين على العرف العام
+page_0005,page_0005_raw_0041,2,2,0.9415,False,,layout_output\raw_box_crops\page_0005\page_0005_raw_0041.png,المادة
+page_0005,page_0005_raw_0035,3,3,0.9454,False,,layout_output\raw_box_crops\page_0005\page_0005_raw_0035.png,إن البورصات التجارية والمعارض والأسواق والمخازن العامة / والمستودعات وسائر المنشأت المُعدّة للتجارة تخضع على قدر الحاجة / لقوانين وأنظمة خاصة
+page_0005,page_0005_raw_0036,4,4,0.94,False,,layout_output\raw_box_crops\page_0005\page_0005_raw_0036.png,الثاز / الباب / الأعمال التجارية
+page_0005,page_0005_raw_0039,5,5,0.8713,False,,layout_output\raw_box_crops\page_0005\page_0005_raw_0039.png,المادة٦
+page_0005,page_0005_raw_0038,6,6,0.9512,False,,layout_output\raw_box_crops\page_0005\page_0005_raw_0038.png,ثُعدّ بحكم ماهيتها الذاتية أعمالاً تجارية / أ شراء المنقولات المادية وغير المادية لأجل بيعها بربح ما سواء بيعت على حالتها / أم بعد شغلها أو تحويلها / ب شراء تلك الأشياء المنقولة نفسها لأجل تأجيرها أو استثجارها لأجل تأجيرها / ثانية / جالبيع أو الاستئج
+page_0005,page_0005_raw_0043,7,7,0.8867,False,,layout_output\raw_box_crops\page_0005\page_0005_raw_0043.png,تعدّ بحكم ماهيتها الذاتية أعمالاً تجارية
+page_0005,page_0005_raw_0045,8,8,0.9418,False,,layout_output\raw_box_crops\page_0005\page_0005_raw_0045.png,أـ شراء المنقولات المادية وغير المادية لأجل بيعها بربح ما سواء بيعت على حالتها / أم بعد شغلها أو تحويلها
+page_0005,page_0005_raw_0042,9,9,0.8782,False,,layout_output\raw_box_crops\page_0005\page_0005_raw_0042.png,ب شراء تلك الأشياء المنقولة نفسها لأجل تأجيرها أو استئجارها لأجل تأجيرها / ثانية / -
+page_0005,page_0005_raw_0044,10,10,0.9606,False,,layout_output\raw_box_crops\page_0005\page_0005_raw_0044.png,جالبيع أو الاستئجار أو التأجير ثانية للأشياء المشتراة أو المستأجرة على الوجه / المبين فيما تقدم
+page_0005,page_0005_raw_0037,11,11,0.2692,True,low_clean_ocr_confidence,layout_output\raw_box_crops\page_0005\page_0005_raw_0037.png,.
+page_0006,page_0006_raw_0055,1,1,0.9329,False,,layout_output\raw_box_crops\page_0006\page_0006_raw_0055.png,ك مشروع النشر / ل مشروع المخازن العامة / ممشروع المناجم والبترول / نمشروع الاشغال العقارية / سمشروع شراء العقارات لبيعها بربح / عمشروع وكالة اشغال / فـكل مشروع لإنشاء وشراء بواخر معدّة للملاحة الداخلية أو الخارجية، بقصد / استثمارها تجارياً أو بيعها و
+page_0006,page_0006_raw_0062,2,2,0.5468,True,low_clean_ocr_confidence,layout_output\raw_box_crops\page_0006\page_0006_raw_0062.png,يو يإ Oو يي
+page_0006,page_0006_raw_0060,3,3,0.9628,False,,layout_output\raw_box_crops\page_0006\page_0006_raw_0060.png,لـمشروع المخازن العامة
+page_0006,page_0006_raw_0065,4,4,0.931,False,,layout_output\raw_box_crops\page_0006\page_0006_raw_0065.png,ممشروع المناجم والبترول
+page_0006,page_0006_raw_0059,5,5,0.9589,False,,layout_output\raw_box_crops\page_0006\page_0006_raw_0059.png,نمشروع الاشغال العقارية
+page_0006,page_0006_raw_0058,6,6,0.9313,False,,layout_output\raw_box_crops\page_0006\page_0006_raw_0058.png,س مشروع شراء العقارات لبيعها بربح
+page_0006,page_0006_raw_0061,7,7,0.9105,False,,layout_output\raw_box_crops\page_0006\page_0006_raw_0061.png,عمشروع وكالة اشغال
+page_0006,page_0006_raw_0056,8,8,0.9529,False,,layout_output\raw_box_crops\page_0006\page_0006_raw_0056.png,فـكل مشروع لإنشاء وشراء بواخر مُعدّة للملاحة الداخلية أو الخارجية، بقصد / استثمارها تجارياً أو بيعها وكل بيع للبواخر المشتراة على هذا الوجه
+page_0006,page_0006_raw_0053,9,9,0.9332,False,,layout_output\raw_box_crops\page_0006\page_0006_raw_0053.png,صـ جميع الإرساليات البحرية وكل عملية تتعلّق بها كالشراء أو بيع لوازمها من / حبال وأشرعة ومؤن
+page_0006,page_0006_raw_0054,10,10,0.4992,True,low_clean_ocr_confidence,layout_output\raw_box_crops\page_0006\page_0006_raw_0054.png,للل يي ي لوو يل ل ل لي ي لوي ي
+page_0006,page_0006_raw_0057,11,11,0.9587,False,,layout_output\raw_box_crops\page_0006\page_0006_raw_0057.png,خوسائر العقود المختصة بالتجارة البحرية كالاتفاقات والمقاولات على أجور البحار / وبدل خدمتهم واستخدامهم للعمل على بواخر تجارية
+page_0006,page_0006_raw_0063,12,12,0.9884,False,,layout_output\raw_box_crops\page_0006\page_0006_raw_0063.png,وبدل خدمتهم واستخدامهم للعمل على بواخر تجارية
+page_0006,page_0006_raw_0049,13,13,0.9493,False,,layout_output\raw_box_crops\page_0006\page_0006_raw_0049.png,المادة
+page_0006,page_0006_raw_0048,14,14,0.9517,False,,layout_output\raw_box_crops\page_0006\page_0006_raw_0048.png,وتُعدّ كذلك من الأعمال التجارية بحكم ماهيتها الذاتية، الأعمال التي يمكن / اعتبارها مجانسة للأعمال المتقدمة لتشابه صفاتها وغاياتها
+page_0006,page_0006_raw_0050,15,15,0.9387,False,,layout_output\raw_box_crops\page_0006\page_0006_raw_0050.png,المادة
+page_0006,page_0006_raw_0064,16,16,0.9628,False,,layout_output\raw_box_crops\page_0006\page_0006_raw_0064.png,١جميع الأعمال التي يقوم بها التاجر لحاجات تجارته ثعدّ تجارية أيضاً في نظر / القانون / ٢وعند قيام الشك، ثُعدّ أعمال التأجير صادرة منه لهذه الغاية إلآ إذا ثبت / العكس
+page_0006,page_0006_raw_0052,17,17,0.9724,False,,layout_output\raw_box_crops\page_0006\page_0006_raw_0052.png,جميع الأعمال التي يقوم بها التاجر لحاجات تجارته ثعّ تجارية أيضاً في نظر / القانون
+page_0006,page_0006_raw_0051,18,18,0.974,False,,layout_output\raw_box_crops\page_0006\page_0006_raw_0051.png,٢وعند قيام الشك، ثُعدّ أعمال التأجير صادرة منه لهذه الغاية إلآ إذا ثبت / العكس
+page_0006,page_0006_raw_0046,19,19,0.533,True,low_clean_ocr_confidence,layout_output\raw_box_crops\page_0006\page_0006_raw_0046.png,L
+page_0006,page_0006_raw_0047,20,20,0.8425,False,,layout_output\raw_box_crops\page_0006\page_0006_raw_0047.png,7
+page_0007,page_0007_raw_0071,1,1,0.7299,False,,layout_output\raw_box_crops\page_0007\page_0007_raw_0071.png,ا / اي
+page_0007,page_0007_raw_0073,2,2,0.9515,False,,layout_output\raw_box_crops\page_0007\page_0007_raw_0073.png,التجار
+page_0007,page_0007_raw_0076,3,3,0.8848,False,,layout_output\raw_box_crops\page_0007\page_0007_raw_0076.png,الفصل الأول
+page_0007,page_0007_raw_0072,4,4,0.9214,False,,layout_output\raw_box_crops\page_0007\page_0007_raw_0072.png,الفصل الأول / التجار على وجه عام والأهلية المطلوبة للاتجار / المادة ٩
+page_0007,page_0007_raw_0074,5,5,0.9551,False,,layout_output\raw_box_crops\page_0007\page_0007_raw_0074.png,المادة
+page_0007,page_0007_raw_0069,6,6,0.5837,True,low_clean_ocr_confidence,layout_output\raw_box_crops\page_0007\page_0007_raw_0069.png,ي لي ي ي و مل ي يي / ي ي ي ف / لةي و ي ي ي ي ل ي ييي و يو ل و ة / لي يق ي ي يي ي قووي يلع وي ي لي ل ل مّي ل ل ي ي ي / الع يل ي ل ي ولوم ل ل٥ ول ي ل٥ ي / المادة
+page_0007,page_0007_raw_0075,7,7,0.8658,False,,layout_output\raw_box_crops\page_0007\page_0007_raw_0075.png,المادة
+page_0007,page_0007_raw_0066,8,8,0.9544,False,,layout_output\raw_box_crops\page_0007\page_0007_raw_0066.png,إن الأفراد الذين يتعاطون تجارة صغيرة أو حرفة بسيطة ذات نفقات عامة / زهيدة بحيث يعتمدون في الغالب على مساعيهم البدنية للحصول على أرباح قليلة / لتأمين معيشهم أكثر من استادهم إلى رأس ما لهم النقدي، كالبائع الطواف أو البائع / بالمياومة أو الذين يقومون بن
+page_0007,page_0007_raw_0070,9,9,0.9955,False,,layout_output\raw_box_crops\page_0007\page_0007_raw_0070.png,المادة
+page_0007,page_0007_raw_0067,10,10,0.9391,False,,layout_output\raw_box_crops\page_0007\page_0007_raw_0067.png,كل من أعلن في الصحف أو النشرات أو أي واسطة أخرى عن نفسه كتاجر / أو عن المحل الذي أسسه أو يستثمره للاشتغال بالمعاملات التجارية يُعدّ تاجراً وإن / لم يتخذ التجارة مهنة مألوفة له
+page_0007,page_0007_raw_0068,11,11,0.658,False,,layout_output\raw_box_crops\page_0007\page_0007_raw_0068.png,V
+page_0008,page_0008_raw_0084,1,1,0.9104,False,,layout_output\raw_box_crops\page_0008\page_0008_raw_0084.png,المادة١
+page_0008,page_0008_raw_0077,2,2,0.8896,False,,layout_output\raw_box_crops\page_0008\page_0008_raw_0077.png,لا يُعدّ تاجراً من قام بمعاملة تجارية عرضاً إلآأن المعاملة تكون خاضعة / لأحكام قانون التجارة
+page_0008,page_0008_raw_0080,3,3,0.8559,False,,layout_output\raw_box_crops\page_0008\page_0008_raw_0080.png,المادة ١٣
+page_0008,page_0008_raw_0094,4,4,0.9536,False,,layout_output\raw_box_crops\page_0008\page_0008_raw_0094.png,١لا ثعدّ الدولة ودوائرها ولا الوحدات الإدارية واللجان والنوادي والجمعيات ذات / الشخصية الاعتبارية من التجار وإن قامت بمعاملات تجارية، إلآ أن معاملاتها / المذكورة تكون خاضعة لأحكام قانون التجارة / تعتبر المؤسسات العامة وشركات القطاع العام والمشترك تاج
+page_0008,page_0008_raw_0079,5,5,0.9395,False,,layout_output\raw_box_crops\page_0008\page_0008_raw_0079.png,١لا ثعدّ الدولة ودوائرها ولا الوحدات الإدارية واللجان والنوادي والجمعيات ذات / الشخصية الاعتبارية من التجار وإن قامت بمعاملات تجارية، إلآ أن معاملاتها / المذكورة تكون خاضعة لأحكام قانون التجارة
+page_0008,page_0008_raw_0081,6,6,0.9261,False,,layout_output\raw_box_crops\page_0008\page_0008_raw_0081.png,٢ـ تعتبر المؤسسات العامة وشركات القطاع العام والمشترك تاجراً، إذا كان موضوعها / تجارياً أو منحها القانون هذه الصفة
+page_0008,page_0008_raw_0095,7,7,0.9814,False,,layout_output\raw_box_crops\page_0008\page_0008_raw_0095.png,تجارياً أو منحها القانون هذه الصفة
+page_0008,page_0008_raw_0082,8,8,0.9159,False,,layout_output\raw_box_crops\page_0008\page_0008_raw_0082.png,المادة ٤
+page_0008,page_0008_raw_0078,9,9,0.9533,False,,layout_output\raw_box_crops\page_0008\page_0008_raw_0078.png,إذا اشتغل العاملون في الدولة الممنوعون من الاتجار قانوناً بالمعاملات / التجارية، فتشملهم الأحكام القانونية المتعلقة بالصلح الواقى والإفلاس
+page_0008,page_0008_raw_0092,10,10,0.8801,False,,layout_output\raw_box_crops\page_0008\page_0008_raw_0092.png,المادة ٥ / تخضع الأهلية التجارية لأحكام القانون المدني وللأحكام الخاصة بالتجار
+page_0008,page_0008_raw_0087,11,11,0.8668,False,,layout_output\raw_box_crops\page_0008\page_0008_raw_0087.png,المادة١٥
+page_0008,page_0008_raw_0086,12,12,0.9686,False,,layout_output\raw_box_crops\page_0008\page_0008_raw_0086.png,تخضع الأهلية التجارية لأحكام القانون المدني وللأحكام الخاصة بالتجار
+page_0008,page_0008_raw_0091,13,13,0.9861,False,,layout_output\raw_box_crops\page_0008\page_0008_raw_0091.png,الثاني / الفصل
+page_0008,page_0008_raw_0089,14,14,0.9669,False,,layout_output\raw_box_crops\page_0008\page_0008_raw_0089.png,التجارة / دفاتر
+page_0008,page_0008_raw_0090,15,15,0.9673,False,,layout_output\raw_box_crops\page_0008\page_0008_raw_0090.png,المادة
+page_0008,page_0008_raw_0088,16,16,0.6,False,,layout_output\raw_box_crops\page_0008\page_0008_raw_0088.png,على التاجر أن ينظم على الأقل الدفترين الإجباريين التاليين / tt / f
+page_0008,page_0008_raw_0085,17,17,0.9458,False,,layout_output\raw_box_crops\page_0008\page_0008_raw_0085.png,أ دفتر اليومية يقيد فيه يوماً فيوماً جميع الأعمال التي تعود بوجه من الوجوه / إلى مؤسسته التجارية وأن يقيد بالجملة شهراً فشهراً النفقات التي أنفقها على / نفسه وأسرته وإذا كان التاجر يتبع الأسلوب الآلى فى محاسبته أو مسك / الدفاتر يومية مساعدة منظمة وفق
+page_0008,page_0008_raw_0093,18,18,0.907,False,,layout_output\raw_box_crops\page_0008\page_0008_raw_0093.png,الدفاتر يومية مساعدة منظمة وفق أحكام المادتين ١٧و١٨ من هذا
+page_0008,page_0008_raw_0083,19,19,0.2798,True,low_clean_ocr_confidence,layout_output\raw_box_crops\page_0008\page_0008_raw_0083.png,٨
+page_0009,page_0009_raw_0112,1,1,0.8291,False,,layout_output\raw_box_crops\page_0009\page_0009_raw_0112.png,القانون، فله أن يقيد أعماله فى دفتر اليومية شهراً فشهراً، على أن يحتفظ / بجميع الوثائق التي تتيح التدقيق في الأعمال المذكورة / ب دفتر جرد يتضمن جرداً سنوياً للموجودات والمطاليب العائدة لمؤسسته وأن / يوقف حساباته سنوياً ليضع على أساسها الميزانية وحساب
+page_0009,page_0009_raw_0103,2,2,0.9547,False,,layout_output\raw_box_crops\page_0009\page_0009_raw_0103.png,القانون، فله أن يقيد أعماله فى دفتر اليومية شهراً فشهراً، على أن يحتفظ / بجميع الوثائق التي تتيح التدقيق في الأعمال المذكورة
+page_0009,page_0009_raw_0109,3,3,0.953,False,,layout_output\raw_box_crops\page_0009\page_0009_raw_0109.png,القانون، فله أن يقيد أعماله فى دفتر اليومية شهراً فشهراً، على أن يحتفظ / بجميع الوثائق التي تتيح التدقيق في الأعمال المذكورة / بدفتر جرد يتضمن جرداً سنوياً للموجودات والمطاليب العائدة لمؤسسته وأن / يوقف حساباته سنوياً ليضع على أساسها الميزانية وحساب 
+page_0009,page_0009_raw_0111,4,4,0.9497,False,,layout_output\raw_box_crops\page_0009\page_0009_raw_0111.png,القانون، فله أن يقيد أعماله فى دفتر اليومية شهراً فشهراً على أن يحتفظ
+page_0009,page_0009_raw_0114,5,5,0.9762,False,,layout_output\raw_box_crops\page_0009\page_0009_raw_0114.png,بجميع الوثائق التي تتيح التدقيق في الأعمال المذكورة
+page_0009,page_0009_raw_0104,6,6,0.9466,False,,layout_output\raw_box_crops\page_0009\page_0009_raw_0104.png,بدفتر جرد يتضمن جرداً سنوياً للموجودات والمطاليب العائدة لمؤسسته وأن / يوقف حساباته سنوياً ليضع على أساسها الميزانية وحساب الأرباح والخسائر / وينسخها في دفتر الجرد
+page_0009,page_0009_raw_0102,7,7,0.9626,False,,layout_output\raw_box_crops\page_0009\page_0009_raw_0102.png,وعليه أن يحفظ ويرتب المراسلات التي يتلقاها وصور المراسلات التي / يرسلها
+page_0009,page_0009_raw_0107,8,8,0.9573,False,,layout_output\raw_box_crops\page_0009\page_0009_raw_0107.png,٣يجب تتظيم دفتري اليومية والجرد باللغة العربية ولوزير الاقتصاد والتجارة أن / يعفي من هذا الشرط المؤسسات الأجنبية التي يحددها بقرار منه
+page_0009,page_0009_raw_0113,9,9,0.9738,False,,layout_output\raw_box_crops\page_0009\page_0009_raw_0113.png,يعفي من هذا الشرط المؤسسات الأجنبية التي يحددها بقرار منه
+page_0009,page_0009_raw_0097,10,10,0.9318,False,,layout_output\raw_box_crops\page_0009\page_0009_raw_0097.png,المادة١
+page_0009,page_0009_raw_0098,11,11,0.9538,False,,layout_output\raw_box_crops\page_0009\page_0009_raw_0098.png,يجب أن تنظم الدفاتر التجارية الإجبارية بحسب التاريخ وبلا بياض ولا فراغ / ولا نقل إلى الهامش ولا محو ولا تحشية بين السطور
+page_0009,page_0009_raw_0100,12,12,0.9161,False,,layout_output\raw_box_crops\page_0009\page_0009_raw_0100.png,المادة٨
+page_0009,page_0009_raw_0101,13,13,0.9503,False,,layout_output\raw_box_crops\page_0009\page_0009_raw_0101.png,يجب ترقيم الدفاتر المذكورة والتأشير عليها وتوقيعها من رئيس محكمة البداية / المدنية أو من قاضي الصلح في المدن التي لا توجد فيها محكمة بداية
+page_0009,page_0009_raw_0099,14,14,0.895,False,,layout_output\raw_box_crops\page_0009\page_0009_raw_0099.png,المادة٩
+page_0009,page_0009_raw_0105,15,15,0.9377,False,,layout_output\raw_box_crops\page_0009\page_0009_raw_0105.png,١يجب على التاجر أن يحفظ الدفاتر بعد اختتامها مدّة عشر سنوات / ٢للمؤسسات التجارية التى يعينها وزير الاقتصاد والتجارة أن تحتفظ للمدّة المذكورة / في الفقرة السابقة بالصورة بأية وسيلة إلكترونية تعتمدها وزارة الاقتصاد والتجارة / بدلاأ من الأصل وتكون للصور
+page_0009,page_0009_raw_0110,16,16,0.9636,False,,layout_output\raw_box_crops\page_0009\page_0009_raw_0110.png,يجب على التاجر أن يحفظ الدفاتر بعد اختتامها مدّة عشر سنوات
+page_0009,page_0009_raw_0108,17,17,0.9621,False,,layout_output\raw_box_crops\page_0009\page_0009_raw_0108.png,المادة٢
+page_0009,page_0009_raw_0106,18,18,0.9563,False,,layout_output\raw_box_crops\page_0009\page_0009_raw_0106.png,لا ثسلّم الدفاتر بكاملها إلى القضاء إلآ في أحوال الإرث وقسمة الأموال / المشتركة والشركة والصلح الواقي والإفلاس
+page_0009,page_0009_raw_0096,19,19,0.6758,False,,layout_output\raw_box_crops\page_0009\page_0009_raw_0096.png,4
+page_0010,page_0010_raw_0130,1,1,,True,empty_clean_ocr_text,layout_output\raw_box_crops\page_0010\page_0010_raw_0130.png,v3_predict / /tmp/tmpbfdzj9u3.png / min / general / /tmp/tmpbfdzj9u3.png / min / general
+page_0010,page_0010_raw_0124,2,2,0.8774,False,,layout_output\raw_box_crops\page_0010\page_0010_raw_0124.png,المادة٢١
+page_0010,page_0010_raw_0123,3,3,0.9351,False,,layout_output\raw_box_crops\page_0010\page_0010_raw_0123.png,فيما عدا الأحوال المذكورة في المادة السابقة يمكن على الدوام عرض الدفاتر / التجارية أو المطالبة بإبرازها لاستخلاص ما يتعلّق منها بالنزاع / وللقاضى أن يأمر من تلقاء نفسه الدفاتر المذكورة للغاية ذاتها
+page_0010,page_0010_raw_0129,4,4,0.9154,False,,layout_output\raw_box_crops\page_0010\page_0010_raw_0129.png,٢ـوللقاضى أن يأمر من تلقاء نفسه الدفاتر المذكورة للغاية ذاتها
+page_0010,page_0010_raw_0118,5,5,0.8737,False,,layout_output\raw_box_crops\page_0010\page_0010_raw_0118.png,المادة٢٢
+page_0010,page_0010_raw_0115,6,6,0.9647,False,,layout_output\raw_box_crops\page_0010\page_0010_raw_0115.png,يمكن للتجار مسك حساباتهم إلكترونياً وفقا للتعليمات التنفيذية التي تصدر / عن وزارة الاقتصاد والتجارة
+page_0010,page_0010_raw_0128,7,7,0.9878,False,,layout_output\raw_box_crops\page_0010\page_0010_raw_0128.png,الفصل الثالث
+page_0010,page_0010_raw_0127,8,8,0.957,False,,layout_output\raw_box_crops\page_0010\page_0010_raw_0127.png,التجارة / سجل
+page_0010,page_0010_raw_0125,9,9,0.9305,False,,layout_output\raw_box_crops\page_0010\page_0010_raw_0125.png,المادة ٢٣
+page_0010,page_0010_raw_0131,10,10,0.9383,False,,layout_output\raw_box_crops\page_0010\page_0010_raw_0131.png,سجل التجارة يمكن الجمهور من الحصول على المعلومات الوافية عن كل / المؤسسات التجارية التي تعمل في سورية / ٢وهو أيضاً أداة للشهر يقصد بها جعل من درجاته نافذة في حق الغير عند وجود / نص قانوني صريح بهذا المعنى
+page_0010,page_0010_raw_0122,11,11,0.9612,False,,layout_output\raw_box_crops\page_0010\page_0010_raw_0122.png,سجل التجارة يمكن الجمهور من الحصول على المعلومات الوافية عن كل / المؤسسات التجارية التي تعمل في سورية
+page_0010,page_0010_raw_0126,12,12,0.945,False,,layout_output\raw_box_crops\page_0010\page_0010_raw_0126.png,٢ـوهو أيضاً أداة للشهر يقصد بها جعل من درجاته نافذة في حق الغير عند وجود / نص قانوني صريح بهذا المعنى
+page_0010,page_0010_raw_0121,13,13,0.8654,False,,layout_output\raw_box_crops\page_0010\page_0010_raw_0121.png,المادة ٤٤
+page_0010,page_0010_raw_0119,14,14,0.9563,False,,layout_output\raw_box_crops\page_0010\page_0010_raw_0119.png,١ينظم لدى وزارة الاقتصاد والتجارة سجل خاص بفروع المؤسسات التجارية / والشركات التي يوجد مركزها خارج سورية
+page_0010,page_0010_raw_0116,15,15,0.9543,False,,layout_output\raw_box_crops\page_0010\page_0010_raw_0116.png,٢ينظم لدى وزارة الاقتصاد والتجارة فى كل محافظة سجل لتسجيل أسماء التجار / والشركات التجارية والشركات المدنية وباقي المؤسسات التجارية يُطّلق عليها / سجل التجارة
+page_0010,page_0010_raw_0117,16,16,0.9461,False,,layout_output\raw_box_crops\page_0010\page_0010_raw_0117.png,يتولى مسك السجل موظف يُطلق عليه أمين سجل التجارة وعليه أن يباشر / وظيفته أن يحلف اليمين أمام محكمة البداية المدنية، على أن يقوم بوظيفته / بشرف وأمانة
+page_0010,page_0010_raw_0120,17,17,,True,empty_clean_ocr_text,layout_output\raw_box_crops\page_0010\page_0010_raw_0120.png,v3_predict / /tmp/tmplbn24u15.png / min / general / /tmp/tmplbn24u15.png / min / general
+page_0011,page_0011_raw_0132,1,1,0.9473,False,,layout_output\raw_box_crops\page_0011\page_0011_raw_0132.png,تسجل أسماء التجار الذي تكون متاجرهم الرئيسية في سورية، مهما كانت / جنسيتهم
+page_0011,page_0011_raw_0134,2,2,0.945,False,,layout_output\raw_box_crops\page_0011\page_0011_raw_0134.png,المادة ٢٥ / ١يجب على كل تاجر أن يطلب من أمين سجل التجارة في المحافظة التي يوجد / فيها مركزه الرئيسي أن يسجل اسمه في سجل التجارة في خلال شهر واحد من / تاريخ فتح المحل أو شرائه / على التاجر أن يقدم تصريحاً في نسختين موقعتين منه يذكر فيه ما يلي / أ-اسمه
+page_0011,page_0011_raw_0135,3,3,0.8181,False,,layout_output\raw_box_crops\page_0011\page_0011_raw_0135.png,المادة ٢٥
+page_0011,page_0011_raw_0133,4,4,0.0,True,empty_clean_ocr_text,layout_output\raw_box_crops\page_0011\page_0011_raw_0133.png,v3_predict / /tmp/tmpj2iclc_e.png / min / general / /tmp/tmpj2iclc_e.png / min / general
+page_0012,page_0012_raw_0140,1,1,0.9171,False,,layout_output\raw_box_crops\page_0012\page_0012_raw_0140.png,المادة٢٦
+page_0012,page_0012_raw_0142,2,2,0.936,False,,layout_output\raw_box_crops\page_0012\page_0012_raw_0142.png,المادة٦ / ١يجب أن يذكر في سجل التجارة / أـ كل تعديل يتعلّق بالأمور التي تقضي المادة السابقة بقيدها في السجل / بشهادات الاختراع التي يستثمرها التاجر والعلامات التي يستعملها للمصنع / أو التجارة / جالأحكام والقرارات القاضية بتعيين وصيّ عليه أو قيّم أو م
+page_0012,page_0012_raw_0137,3,3,0.9475,False,,layout_output\raw_box_crops\page_0012\page_0012_raw_0137.png,١يجب أن يذكر في سجل التجارة / أـ كل تعديل يتعلّق بالأمور التي تقضي المادة السابقة بقيدها في السجل / بشهادات الاختراع التي يستثمرها التاجر والعلامات التي يستعملها للمصنع / أو التجارة / جالأحكام والقرارات القاضية بتعيين وصيّ عليه أو قيم أو مساعد قضائي 
+page_0012,page_0012_raw_0139,4,4,0.8777,False,,layout_output\raw_box_crops\page_0012\page_0012_raw_0139.png,المادة٢٧
+page_0012,page_0012_raw_0141,5,5,0.9693,False,,layout_output\raw_box_crops\page_0012\page_0012_raw_0141.png,إن الشركات التي يكون مركزها الرئيسي في سورية مهما كانت جنسيتها، يجب / تسجيلها في سجل التجارة المختص بمنطقة مركزها الرئيسي، ويجب على / مديريها وأعضاء مجلس إدارتها أن يطلبوا التسجيل في خلال الشهر الذي يلي / تأسيسها
+page_0012,page_0012_raw_0138,6,6,0.9427,False,,layout_output\raw_box_crops\page_0012\page_0012_raw_0138.png,٢حويقدم طالبو التسجيل إلى أمين سجل التجارة صورة مصدقة عن صك تأسيس / الشركة أو نظامها الأساسي وخلاصة لهذا الصك أو النظام مُعدّة للشهر ومنظمة / على نسختين ومشتملة على الطوابع وعلى تواقيع طالبي التسجيل ومتضمنه / بوجه خاص البيانات الآتية
+page_0012,page_0012_raw_0136,7,7,0.8189,False,,layout_output\raw_box_crops\page_0012\page_0012_raw_0136.png,١
+page_0013,page_0013_raw_0147,1,1,0.9551,False,,layout_output\raw_box_crops\page_0013\page_0013_raw_0147.png,أ اسم ونسبة كل من الشركاء ما عدا المساهمين وجنسية كل منهم موضحة / وفقاً لما ورد في الفقرة د من المادة ٢٥وتاريخ ولادته ومحلها / باسم الشركة التجاري أو عنوانها / جموضوع الشركة / د الأماكن التي فيها مركز الشركة أو فروعها ومتاجرها في سورية أو خارجها / هـ
+page_0013,page_0013_raw_0144,2,2,0.9525,False,,layout_output\raw_box_crops\page_0013\page_0013_raw_0144.png,أ اسم ونسبة كل من الشركاء ما عدا المساهمين وجنسية كل منهم موضحة / وفقاً لما ورد في الفقرة د من المادة ٢٥وتاريخ ولادته ومحلها / باسم الشركة التجاري أو عنوانها / جموضوع الشركة / د الأماكن التي فيها مركز الشركة أو فروعها ومتاجرها في سورية أو خارجها / هأ
+page_0013,page_0013_raw_0145,3,3,0.8959,False,,layout_output\raw_box_crops\page_0013\page_0013_raw_0145.png,المادة٢٨
+page_0013,page_0013_raw_0149,4,4,0.9526,False,,layout_output\raw_box_crops\page_0013\page_0013_raw_0149.png,يجب أن يذكر أيضاً فى سجل التجارة / ١كل تعديل يختص بالأمور واجب تسجيلها أو الوثائق الواجب إيداعها بمقتضى / المادة السابقة / ٢الاسم والنسبة وتاريخ الولادة ومحلها والجنسية لكل من مديري الشركة وأعضاء / مجلس إدارتها ومديريها المعينين لمدّة وجودها أما طلب 
+page_0013,page_0013_raw_0148,5,5,0.9569,False,,layout_output\raw_box_crops\page_0013\page_0013_raw_0148.png,الاسم والنسبة وتاريخ الولادة ومحلها والجنسية لكل من مديري الشركة وأعضاء / مجلس إدارتها ومديريها المعينين لمدّة وجودها أما طلب التسجيل فيقدمه المديرون / وأعضاء مجلس الإدارة القائمون بوظائفهم في وقت وجوب التسجيل
+page_0013,page_0013_raw_0146,6,6,0.9703,False,,layout_output\raw_box_crops\page_0013\page_0013_raw_0146.png,الشركات التجارية المؤسسة خارج الأراضي السورية ولها فروع أو وكالات في / سورية وكذلك التجار الذين لهم مركز رئيسي في الخارج وفروع أو وكالات في سورية / مهما كانت جنسيتهم
+page_0013,page_0013_raw_0143,7,7,0.7999,False,,layout_output\raw_box_crops\page_0013\page_0013_raw_0143.png,١٣
+page_0014,page_0014_raw_0161,1,1,0.9283,False,,layout_output\raw_box_crops\page_0014\page_0014_raw_0161.png,المادة ٢٩
+page_0014,page_0014_raw_0150,2,2,0.9665,False,,layout_output\raw_box_crops\page_0014\page_0014_raw_0150.png,يخضع تسجيل مثل تلك الفروع أو الوكالات لأحكام القانون الخاص بتسجيلها / في سورية
+page_0014,page_0014_raw_0158,3,3,0.8966,False,,layout_output\raw_box_crops\page_0014\page_0014_raw_0158.png,الشركات المدنية
+page_0014,page_0014_raw_0162,4,4,0.9479,False,,layout_output\raw_box_crops\page_0014\page_0014_raw_0162.png,المادة٣
+page_0014,page_0014_raw_0152,5,5,0.9437,False,,layout_output\raw_box_crops\page_0014\page_0014_raw_0152.png,١يحدث فى أمانة سجل التجارة سجل خاص بالشركات المدنية التي يقع / مركزها الرئيسي في المحافظة تسجل فيه الشركات وفق أحكام المادتين ٢٧ / و٢٨من هذا القانون باستثناء ما يتوقف العمل به على الصفة التجارية / للشركة
+page_0014,page_0014_raw_0156,6,6,0.9413,False,,layout_output\raw_box_crops\page_0014\page_0014_raw_0156.png,٢ تسجل الشركات المدنية التي يقع مركزها خارج سورية أو لها فرع أو وكالة في / سجل خاص تابع لسجل الفروع والوكالات العائدة للمؤسسات أو الشركات القائمة / خارج سورية وذلك وفق القانون الخاص بها
+page_0014,page_0014_raw_0153,7,7,0.9547,False,,layout_output\raw_box_crops\page_0014\page_0014_raw_0153.png,٣ـ على الشركات المذكورة في الفقرتين السابقتين تسجيل نفسها في السجل المذكور / وإيداع صك تأسيسها ونظامها الأساسي ديوان محكمة البداية في مركزها إذا / أرادت الاحتجاج بشخصيتها الإعتبارية حيال الغير
+page_0014,page_0014_raw_0157,8,8,0.911,False,,layout_output\raw_box_crops\page_0014\page_0014_raw_0157.png,المادة٣
+page_0014,page_0014_raw_0155,9,9,0.9529,False,,layout_output\raw_box_crops\page_0014\page_0014_raw_0155.png,إذا توفي تاجر أو انقطع عن تعاطى تجارته أو إذا انحلّت إحدى الشركات وجب / شطب التسجيل المختص بهما فى سجل التجارة
+page_0014,page_0014_raw_0160,10,10,0.9355,False,,layout_output\raw_box_crops\page_0014\page_0014_raw_0160.png,٢ويجري هذا الشطب مباشرة بمقتضى قرار يصدره أمين سجل التجارة
+page_0014,page_0014_raw_0159,11,11,0.9031,False,,layout_output\raw_box_crops\page_0014\page_0014_raw_0159.png,المادة ٣٢
+page_0014,page_0014_raw_0151,12,12,0.9454,False,,layout_output\raw_box_crops\page_0014\page_0014_raw_0151.png,١كل قيد فى سجل التجارة لم يحدد له ميعاد فى المواد السابقة يجب طلب إجرائه / في خلال شهر يبتدئ من تاريخ الوثيقة أو العمل الذي يراد قيده / أما الأحكام والقرارات فيبتدى ميعادها من يوم صدورها
+page_0014,page_0014_raw_0163,13,13,0.9677,False,,layout_output\raw_box_crops\page_0014\page_0014_raw_0163.png,أما الأحكام والقرارات فيبتدئ ميعادها من يوم صدورها
+page_0014,page_0014_raw_0154,14,14,0.6798,False,,layout_output\raw_box_crops\page_0014\page_0014_raw_0154.png,3
+page_0015,page_0015_raw_0185,1,1,,True,empty_clean_ocr_text,layout_output\raw_box_crops\page_0015\page_0015_raw_0185.png,v3_predict / /tmp/tmp235psaja.png / min / general / /tmp/tmp235psaja.png / min / general
+page_0015,page_0015_raw_0167,2,2,0.96,False,,layout_output\raw_box_crops\page_0015\page_0015_raw_0167.png,المادة ٣٣
+page_0015,page_0015_raw_0166,3,3,0.9494,False,,layout_output\raw_box_crops\page_0015\page_0015_raw_0166.png,إن جميع التسجيلات والقيود في سجل التجارة تجري بعد تصريح يقدم وفاقاً / للصيغ التي نص عليها
+page_0015,page_0015_raw_0169,4,4,0.9276,False,,layout_output\raw_box_crops\page_0015\page_0015_raw_0169.png,المادة ٣٤
+page_0015,page_0015_raw_0164,5,5,0.941,False,,layout_output\raw_box_crops\page_0015\page_0015_raw_0164.png,على أمين سجل التجارة أن يرفض إجراء القيود المطلوبة إذا تبين له أن / التصريحات المقدمة لا تشتمل على كل البيانات المنصوص عليها أو كانت تتعارض / مع الوثائق الثبوتية المرفقة بها أو مع أحكام القانون
+page_0015,page_0015_raw_0170,6,6,0.8743,False,,layout_output\raw_box_crops\page_0015\page_0015_raw_0170.png,المادة ٣٥
+page_0015,page_0015_raw_0184,7,7,0.946,False,,layout_output\raw_box_crops\page_0015\page_0015_raw_0184.png,١يجوز لكل شخص أن يطلب إعطاءه نسخة عن القيود المدرجة في السجل مقابل
+page_0015,page_0015_raw_0175,8,8,0.9455,False,,layout_output\raw_box_crops\page_0015\page_0015_raw_0175.png,يجوز لكل شخص أن يطلب إعطاءه نسخة عن القيود المدرجة فى السجل مقابل / رسم يحدد من الوزير المختص / ٢ولأمين السجل عند الإقتضاء أن يعطى شهادة بعدم وجود قيود / ٣ويصدّق أمين السجل مطابقة النسخ للأصل
+page_0015,page_0015_raw_0182,9,9,0.9385,False,,layout_output\raw_box_crops\page_0015\page_0015_raw_0182.png,رسم يحدد من الوزير المختص
+page_0015,page_0015_raw_0181,10,10,0.944,False,,layout_output\raw_box_crops\page_0015\page_0015_raw_0181.png,٢ـولأمين السجل عند الإقتضاء أن يعطي شهادة بعدم وجود قيود
+page_0015,page_0015_raw_0179,11,11,0.9352,False,,layout_output\raw_box_crops\page_0015\page_0015_raw_0179.png,٣ـويصدّق أمين السجل مطابقة النسخ للأصل
+page_0015,page_0015_raw_0172,12,12,0.8902,False,,layout_output\raw_box_crops\page_0015\page_0015_raw_0172.png,المادة٣٦
+page_0015,page_0015_raw_0178,13,13,0.9428,False,,layout_output\raw_box_crops\page_0015\page_0015_raw_0178.png,لا يجوز أن يذكر في النسخ التي يسلمها أمين السجل
+page_0015,page_0015_raw_0176,14,14,0.8446,False,,layout_output\raw_box_crops\page_0015\page_0015_raw_0176.png,لا يجوز أن يذكر في النسخ التي يسلمها أمين السجل / الأحكام المعلنة للإفلاس إذا كان المفلس قد استرد اعتباره / s / الأحكام القاضية بالحجر أو تعيين مساعد قضائى إذا كان قد صدر القرار برفع / الحجر أو المساعدة القضائية
+page_0015,page_0015_raw_0180,15,15,0.6353,False,,layout_output\raw_box_crops\page_0015\page_0015_raw_0180.png,١الأحكام المعلنة للإفلاس إذا كان المفلس قد استرد اعتباره / f
+page_0015,page_0015_raw_0177,16,16,0.9392,False,,layout_output\raw_box_crops\page_0015\page_0015_raw_0177.png,ـ الأحكام القاضية بالحجر أو تعيين مساعد قضائي إذا كان قد صدر القرار برفع / الحجر أو المساعدة القضائية
+page_0015,page_0015_raw_0183,17,17,0.9356,False,,layout_output\raw_box_crops\page_0015\page_0015_raw_0183.png,الحجر أو المساعدة القضائية
+page_0015,page_0015_raw_0174,18,18,0.9124,False,,layout_output\raw_box_crops\page_0015\page_0015_raw_0174.png,المادة٣٧
+page_0015,page_0015_raw_0165,19,19,0.9595,False,,layout_output\raw_box_crops\page_0015\page_0015_raw_0165.png,كل تاجر وكل شركة ملزمين بالتسجيل يجب عليهما أن يذكرا المكان الذي / سجلا فيه ورقم هذا التسجيل في مراسلاتهما وفواتيرهما ومذكرات التسليم والتعريفات / والمنشورات وسائر الأوراق الصادرة عنهما
+page_0015,page_0015_raw_0171,20,20,0.8914,False,,layout_output\raw_box_crops\page_0015\page_0015_raw_0171.png,المادة٣٨
+page_0015,page_0015_raw_0173,21,21,0.9368,False,,layout_output\raw_box_crops\page_0015\page_0015_raw_0173.png,١ـكل تاجر وكل شخص يكلف بإدارة شركة لا يطلب في المراعيد المنصوص / عليها إجراء القيود الإجبارية أو لايذكر ما يجب ذكره على المراسلات أو الفواتير
+page_0015,page_0015_raw_0168,22,22,0.5534,True,low_clean_ocr_confidence,layout_output\raw_box_crops\page_0015\page_0015_raw_0168.png,١
+page_0016,page_0016_raw_0192,1,1,0.9024,False,,layout_output\raw_box_crops\page_0016\page_0016_raw_0192.png,وغيرها من الأوراق الصادرة عن محله يعاقب بغرامة تتراوح بين ١٠٠٠٠ / عشرة آلاف و٥٠٠٠٠ وخمسين ألف ليرة سورية
+page_0016,page_0016_raw_0199,2,2,0.9404,False,,layout_output\raw_box_crops\page_0016\page_0016_raw_0199.png,وغيرها من الأوراق الصادرة عن محله يعاقب بغرامة تتراوح بين ١٠٠٠٠ / عشرة آلاف و٥٠٠ وخمسين ألف ليرة سورية / ٢ـتحكم بهذه الغرامة محكمة البداية المدنية بناءَ على طلب أمين سجل التجارة أو / النيابة العامة بعد سماع أقوال صاحب الشأن أو دعوته بحسب الأصول / ٣ـو
+page_0016,page_0016_raw_0198,3,3,0.4931,True,low_clean_ocr_confidence,layout_output\raw_box_crops\page_0016\page_0016_raw_0198.png,ةيي ي ية و ي و ة ويي ول ل ي د / و ة ي يه هي و ل لي ي هي يلي
+page_0016,page_0016_raw_0201,4,4,0.9514,False,,layout_output\raw_box_crops\page_0016\page_0016_raw_0201.png,النيابة العامة بعد سماع أقوال صاحب الشأن أو دعوته بحسب الأصول
+page_0016,page_0016_raw_0200,5,5,0.7652,False,,layout_output\raw_box_crops\page_0016\page_0016_raw_0200.png,٣ـوإذا لم يجر المحكوم عليه أثناء القيد فى أثناء هذا الميعاد يحكم بغرامة جديدة / ± / ٤–أما أمناء السجل الذين لا يعملون بمقتضى هذه الأحكام فيخضعون للعقوبات / المسلكية المنصوص عليها في القانون الأساسي للعاملين في الدولة
+page_0016,page_0016_raw_0202,6,6,0.963,False,,layout_output\raw_box_crops\page_0016\page_0016_raw_0202.png,المسلكية المنصوص عليها في القانون الأساسي للعاملين في الدولة
+page_0016,page_0016_raw_0193,7,7,0.8564,False,,layout_output\raw_box_crops\page_0016\page_0016_raw_0193.png,المادة ٣٩
+page_0016,page_0016_raw_0204,8,8,0.9509,False,,layout_output\raw_box_crops\page_0016\page_0016_raw_0204.png,١ـكل بيان غير صحيح يقدم عن سوع نية للتسجيل أو للقيد فى سجل التجارة / يعاقب مقدمه بغرامة تتراوح بين ١٠٠٠ ألف و٥٠٠٠ خمسة لاف ليرة / سورية وبالحبس من شهر واحد إلى ستة أشهر، أو بإحدى هاتين العقوبتين / ولا يحول ذلك دون العقوبات التى يمكن الحكم بها وفاقاً 
+page_0016,page_0016_raw_0197,9,9,0.9506,False,,layout_output\raw_box_crops\page_0016\page_0016_raw_0197.png,١كل بيان غير صحيح يقدم عن سوء نية للتسجيل أو للقيد في سجل التجارة / يعاقب مقدمه بغرامة تتراوح بين ١٠٠٠ ألف و٥٠٠٠خمسة آلاف ليرة / سورية وبالحبس من شهر واحد إلى ستة أشهر، أو بإحدى هاتين العقوبتين / ولا يحول ذلك دون العقوبات التى يمكن الحكم بها وفاقاً ل
+page_0016,page_0016_raw_0194,10,10,0.9312,False,,layout_output\raw_box_crops\page_0016\page_0016_raw_0194.png,١ـكل بيان غير صحيح يقدم عن سوء نية للتسجيل أو للقيد في سجل التجارة / يعاقب مقدمه بغرامة تتراوح بين ١٠٠٠ ألف و٥٠٠٠ خمسة آلاف ليرة / سورية وبالحبس من شهر واحد إلى ستة أشهر، أو بإحدى هاتين العقوبتين
+page_0016,page_0016_raw_0196,11,11,0.9471,False,,layout_output\raw_box_crops\page_0016\page_0016_raw_0196.png,٢ـولا يحول ذلك دون العقوبات التى يمكن الحكم بها وفاقاً للقوانين الخاصة ولقانون / العقوبات من أجل الجرائم الناشئة عن البيان غير الصحيح
+page_0016,page_0016_raw_0195,12,12,0.9587,False,,layout_output\raw_box_crops\page_0016\page_0016_raw_0195.png,٣وللمحكمة الجزائية التي تصدر الحكم أن تأمر بتصحيح البيان المشار إليه على / الوجه الذي تعينه
+page_0016,page_0016_raw_0188,13,13,0.8399,False,,layout_output\raw_box_crops\page_0016\page_0016_raw_0188.png,المادة ٤
+page_0016,page_0016_raw_0203,14,14,0.9542,False,,layout_output\raw_box_crops\page_0016\page_0016_raw_0203.png,١البيانات المسجلة سواء أكانت اختيارية أم إجبارية، تعتبر نافذة في حق الغير / اعتباراً من تاريخ تسجيلها / ٢ـولا يحول تطبيق العقوبات المقدمة دون نفاذ القاعدة المنصوص عليها بالفقرة / السابقة
+page_0016,page_0016_raw_0189,15,15,0.934,False,,layout_output\raw_box_crops\page_0016\page_0016_raw_0189.png,١البيانات المسجلة سواء أكانت اختيارية أم إجبارية، تعتبر نافذة في حق الغير / اعتباراً من تاريخ تسجيلها
+page_0016,page_0016_raw_0191,16,16,0.9416,False,,layout_output\raw_box_crops\page_0016\page_0016_raw_0191.png,٢ولا يحول تطبيق العقوبات المقدمة دون نفاذ القاعدة المنصوص عليها بالفقرة / السابقة
+page_0016,page_0016_raw_0190,17,17,0.9479,False,,layout_output\raw_box_crops\page_0016\page_0016_raw_0190.png,المادة٤١
+page_0016,page_0016_raw_0186,18,18,0.9445,False,,layout_output\raw_box_crops\page_0016\page_0016_raw_0186.png,كل شخص طبيعي أو اعتباري يدعي بصفته التجارية أمام المحاكم أو يراجع / لمصلحته بالصفة ذاتها الدوائر الإدارية أو المؤسسات العامة، لا يسمح ادعاؤه ولا / تقبل مراجعته ما لم يكن مسجلاً في سجل التجارة
+page_0016,page_0016_raw_0187,19,19,0.647,False,,layout_output\raw_box_crops\page_0016\page_0016_raw_0187.png,١٧
+page_0017,page_0017_raw_0210,1,1,0.8926,False,,layout_output\raw_box_crops\page_0017\page_0017_raw_0210.png,المادة ٤٢
+page_0017,page_0017_raw_0205,2,2,0.9549,False,,layout_output\raw_box_crops\page_0017\page_0017_raw_0205.png,١ تفصل محكمة البداية المدنية في المحافظة التي يوجد فيها سجل التجارة، في / كل خلاف يقع بين أمين سجل التجارة وأصحاب العلاقة، بقرار يتخذ في غرفة / المذاكرة، وعليها إصدار قرارها خلال شهر من تاريخ الادعاء
+page_0017,page_0017_raw_0206,3,3,0.9436,False,,layout_output\raw_box_crops\page_0017\page_0017_raw_0206.png,٢يخضع قرار محكمة البداية المدنية للطعن بطريق الاستئناف وعلى محكمة / الاستئناف أن تفصل فيه بصورة نهائية وبقرار غير قابل للطعن يصدر خلال / ثلاثة أشهر من تاريخ تقديم الطعن
+page_0017,page_0017_raw_0211,4,4,0.4917,True,low_clean_ocr_confidence,layout_output\raw_box_crops\page_0017\page_0017_raw_0211.png,رة / ل / لعل / ي ي لي
+page_0017,page_0017_raw_0215,5,5,0.9981,False,,layout_output\raw_box_crops\page_0017\page_0017_raw_0215.png,المتجر
+page_0017,page_0017_raw_0214,6,6,0.971,False,,layout_output\raw_box_crops\page_0017\page_0017_raw_0214.png,المادة ٤٣
+page_0017,page_0017_raw_0208,7,7,0.9446,False,,layout_output\raw_box_crops\page_0017\page_0017_raw_0208.png,المتجر مجموعة عناصر مادية وغير مادية تهدف إلى مارسة مهنة تجارية / يشتمل المتجر مبدئياً على الاسم التجاري والعنوان التجاري والشعار وحق / الاتصال بالزيائن وحق الاستئجار المنصوص عليه فى قوانين الإيجار الخاصة / وتعديلاتهاء، والتجهيزات والعدد الصناعية وال
+page_0017,page_0017_raw_0212,8,8,0.9575,False,,layout_output\raw_box_crops\page_0017\page_0017_raw_0212.png,المادة ٤٤
+page_0017,page_0017_raw_0209,9,9,0.9421,False,,layout_output\raw_box_crops\page_0017\page_0017_raw_0209.png,١إن حقوق صاحب المتجر على مختلف عناصره تتظمها القوانين الخاصة بهذه / العناصر والمبادي الحقوقية العامة / أما المتجر كمجموعة فيخضع لأحكام هذا القانون
+page_0017,page_0017_raw_0213,10,10,0.9556,False,,layout_output\raw_box_crops\page_0017\page_0017_raw_0213.png,٢ـأما المتجر كمجموعة فيخضع لأحكام هذا القانون
+page_0017,page_0017_raw_0207,11,11,0.6945,False,,layout_output\raw_box_crops\page_0017\page_0017_raw_0207.png,١٧

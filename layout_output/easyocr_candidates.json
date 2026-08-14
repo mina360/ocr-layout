@@ -1,0 +1,2301 @@
+[
+  {
+    "region_id": "page_0003_raw_0005",
+    "box_id": "page_0003_raw_0005",
+    "page": "page_0003",
+    "page_number": 3,
+    "crop_path": "layout_output\\raw_box_crops\\page_0003\\page_0003_raw_0005.png",
+    "bbox": [
+      332,
+      277,
+      1296,
+      1631
+    ],
+    "label": "image",
+    "layout_score": 0.42005831003189087,
+    "paddle_text": "قانون التجارة\nرقم ٣٣ للعام ٢٠٠٧\nرئيس الجمهورية\nبناءَ على أحكام الدستور\nوعلى ما أقرّه مجلس الشعب في جلسته المنعقدة بتاريخ ١٤٨١١٧ه\nالموافق١\nي\nا\nاع و ل ي يي ي ية\nاة\nال قي ة يو ي ي للول و و ل ل ي\nليو ي ي ي و لي ة ع ي ٥ ة ة\nالمادة ٣\nينشر هذا القانون في الجريدة الرسمية ويعمل به اعتباراً من تاريخ\n٢٠٠٨٤١\nم٩ق في٤ه الموافق ٢\nرئيس الجمهورية\nبشار الأسد",
+    "paddle_confidence": 0.7248,
+    "reasons": [
+      "low_paddle_confidence"
+    ]
+  },
+  {
+    "region_id": "page_0003_raw_0010",
+    "box_id": "page_0003_raw_0010",
+    "page": "page_0003",
+    "page_number": 3,
+    "crop_path": "layout_output\\raw_box_crops\\page_0003\\page_0003_raw_0010.png",
+    "bbox": [
+      591,
+      278,
+      1061,
+      483
+    ],
+    "label": "doc_title",
+    "layout_score": 0.366880863904953,
+    "paddle_text": "التجارة\nقانون\nرقم ٣٣ للعام ٢٠٠٧",
+    "paddle_confidence": 0.9062,
+    "reasons": [
+      "title_or_number_label",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0003_raw_0013",
+    "box_id": "page_0003_raw_0013",
+    "page": "page_0003",
+    "page_number": 3,
+    "crop_path": "layout_output\\raw_box_crops\\page_0003\\page_0003_raw_0013.png",
+    "bbox": [
+      659,
+      280,
+      993,
+      352
+    ],
+    "label": "doc_title",
+    "layout_score": 0.33481305837631226,
+    "paddle_text": "اإر\nيا",
+    "paddle_confidence": 0.4348,
+    "reasons": [
+      "low_paddle_confidence",
+      "title_or_number_label",
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0003_raw_0006",
+    "box_id": "page_0003_raw_0006",
+    "page": "page_0003",
+    "page_number": 3,
+    "crop_path": "layout_output\\raw_box_crops\\page_0003\\page_0003_raw_0006.png",
+    "bbox": [
+      592,
+      408,
+      1060,
+      482
+    ],
+    "label": "doc_title",
+    "layout_score": 0.3922847509384155,
+    "paddle_text": "رقم ٣٣ للعام ٢٠٠٧",
+    "paddle_confidence": 0.7608,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0003_raw_0017",
+    "box_id": "page_0003_raw_0017",
+    "page": "page_0003",
+    "page_number": 3,
+    "crop_path": "layout_output\\raw_box_crops\\page_0003\\page_0003_raw_0017.png",
+    "bbox": [
+      1031,
+      575,
+      1231,
+      615
+    ],
+    "label": "text",
+    "layout_score": 0.2981775999069214,
+    "paddle_text": "رئيس الجمهورية",
+    "paddle_confidence": 0.9653,
+    "reasons": [
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0003_raw_0019",
+    "box_id": "page_0003_raw_0019",
+    "page": "page_0003",
+    "page_number": 3,
+    "crop_path": "layout_output\\raw_box_crops\\page_0003\\page_0003_raw_0019.png",
+    "bbox": [
+      928,
+      641,
+      1232,
+      685
+    ],
+    "label": "text",
+    "layout_score": 0.29209908843040466,
+    "paddle_text": "بناءَ على أحكام الدستور",
+    "paddle_confidence": 0.9253,
+    "reasons": [
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0003_raw_0020",
+    "box_id": "page_0003_raw_0020",
+    "page": "page_0003",
+    "page_number": 3,
+    "crop_path": "layout_output\\raw_box_crops\\page_0003\\page_0003_raw_0020.png",
+    "bbox": [
+      730,
+      842,
+      914,
+      883
+    ],
+    "label": "text",
+    "layout_score": 0.28744637966156006,
+    "paddle_text": "يلي\nيصدر",
+    "paddle_confidence": 0.9674,
+    "reasons": [
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0003_raw_0011",
+    "box_id": "page_0003_raw_0011",
+    "page": "page_0003",
+    "page_number": 3,
+    "crop_path": "layout_output\\raw_box_crops\\page_0003\\page_0003_raw_0011.png",
+    "bbox": [
+      767,
+      914,
+      879,
+      946
+    ],
+    "label": "text",
+    "layout_score": 0.345867782831192,
+    "paddle_text": "المادة",
+    "paddle_confidence": 0.9279,
+    "reasons": [
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0003_raw_0012",
+    "box_id": "page_0003_raw_0012",
+    "page": "page_0003",
+    "page_number": 3,
+    "crop_path": "layout_output\\raw_box_crops\\page_0003\\page_0003_raw_0012.png",
+    "bbox": [
+      763,
+      1051,
+      877,
+      1084
+    ],
+    "label": "text",
+    "layout_score": 0.3369048833847046,
+    "paddle_text": "المادة٢",
+    "paddle_confidence": 0.9069,
+    "reasons": [
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0003_raw_0009",
+    "box_id": "page_0003_raw_0009",
+    "page": "page_0003",
+    "page_number": 3,
+    "crop_path": "layout_output\\raw_box_crops\\page_0003\\page_0003_raw_0009.png",
+    "bbox": [
+      759,
+      1248,
+      875,
+      1280
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.38648632168769836,
+    "paddle_text": "المادة٣",
+    "paddle_confidence": 0.9765,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0003_raw_0022",
+    "box_id": "page_0003_raw_0022",
+    "page": "page_0003",
+    "page_number": 3,
+    "crop_path": "layout_output\\raw_box_crops\\page_0003\\page_0003_raw_0022.png",
+    "bbox": [
+      1124,
+      1380,
+      1291,
+      1422
+    ],
+    "label": "text",
+    "layout_score": 0.2565719485282898,
+    "paddle_text": "",
+    "paddle_confidence": null,
+    "reasons": [
+      "empty_paddle_text",
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0003_raw_0004",
+    "box_id": "page_0003_raw_0004",
+    "page": "page_0003",
+    "page_number": 3,
+    "crop_path": "layout_output\\raw_box_crops\\page_0003\\page_0003_raw_0004.png",
+    "bbox": [
+      581,
+      1453,
+      1225,
+      1498
+    ],
+    "label": "text",
+    "layout_score": 0.44285377860069275,
+    "paddle_text": "مشق فيهلموافق",
+    "paddle_confidence": 0.6468,
+    "reasons": [
+      "low_paddle_confidence",
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0003_raw_0003",
+    "box_id": "page_0003_raw_0003",
+    "page": "page_0003",
+    "page_number": 3,
+    "crop_path": "layout_output\\raw_box_crops\\page_0003\\page_0003_raw_0003.png",
+    "bbox": [
+      369,
+      1525,
+      581,
+      1627
+    ],
+    "label": "text",
+    "layout_score": 0.4450923204421997,
+    "paddle_text": "الجمهورية\nرئيس\nبشار الأسد",
+    "paddle_confidence": 0.9728,
+    "reasons": [
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0003_raw_0016",
+    "box_id": "page_0003_raw_0016",
+    "page": "page_0003",
+    "page_number": 3,
+    "crop_path": "layout_output\\raw_box_crops\\page_0003\\page_0003_raw_0016.png",
+    "bbox": [
+      370,
+      1526,
+      580,
+      1567
+    ],
+    "label": "text",
+    "layout_score": 0.30036962032318115,
+    "paddle_text": "الجمهورية\nرئيس",
+    "paddle_confidence": 0.9703,
+    "reasons": [
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0003_raw_0014",
+    "box_id": "page_0003_raw_0014",
+    "page": "page_0003",
+    "page_number": 3,
+    "crop_path": "layout_output\\raw_box_crops\\page_0003\\page_0003_raw_0014.png",
+    "bbox": [
+      404,
+      1588,
+      544,
+      1627
+    ],
+    "label": "text",
+    "layout_score": 0.30760666728019714,
+    "paddle_text": "بشار الأسد",
+    "paddle_confidence": 0.9538,
+    "reasons": [
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0003_raw_0001",
+    "box_id": "page_0003_raw_0001",
+    "page": "page_0003",
+    "page_number": 3,
+    "crop_path": "layout_output\\raw_box_crops\\page_0003\\page_0003_raw_0001.png",
+    "bbox": [
+      802,
+      1780,
+      819,
+      1800
+    ],
+    "label": "number",
+    "layout_score": 0.8211987018585205,
+    "paddle_text": "٣",
+    "paddle_confidence": 0.987,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0004_raw_0034",
+    "box_id": "page_0004_raw_0034",
+    "page": "page_0004",
+    "page_number": 4,
+    "crop_path": "layout_output\\raw_box_crops\\page_0004\\page_0004_raw_0034.png",
+    "bbox": [
+      746,
+      692,
+      914,
+      749
+    ],
+    "label": "text",
+    "layout_score": 0.2569800019264221,
+    "paddle_text": "أحكام عامة",
+    "paddle_confidence": 0.8931,
+    "reasons": [
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0004_raw_0033",
+    "box_id": "page_0004_raw_0033",
+    "page": "page_0004",
+    "page_number": 4,
+    "crop_path": "layout_output\\raw_box_crops\\page_0004\\page_0004_raw_0033.png",
+    "bbox": [
+      777,
+      772,
+      889,
+      805
+    ],
+    "label": "figure_title",
+    "layout_score": 0.41266581416130066,
+    "paddle_text": "المادة",
+    "paddle_confidence": 0.9598,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0004_raw_0028",
+    "box_id": "page_0004_raw_0028",
+    "page": "page_0004",
+    "page_number": 4,
+    "crop_path": "layout_output\\raw_box_crops\\page_0004\\page_0004_raw_0028.png",
+    "bbox": [
+      779,
+      1039,
+      893,
+      1070
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.798930287361145,
+    "paddle_text": "المادة",
+    "paddle_confidence": 0.9832,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0004_raw_0031",
+    "box_id": "page_0004_raw_0031",
+    "page": "page_0004",
+    "page_number": 4,
+    "crop_path": "layout_output\\raw_box_crops\\page_0004\\page_0004_raw_0031.png",
+    "bbox": [
+      780,
+      1299,
+      895,
+      1329
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.744592010974884,
+    "paddle_text": "المادة ٣",
+    "paddle_confidence": 0.8875,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0004_raw_0030",
+    "box_id": "page_0004_raw_0030",
+    "page": "page_0004",
+    "page_number": 4,
+    "crop_path": "layout_output\\raw_box_crops\\page_0004\\page_0004_raw_0030.png",
+    "bbox": [
+      786,
+      1499,
+      897,
+      1528
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.754129946231842,
+    "paddle_text": "المادة٤",
+    "paddle_confidence": 0.9309,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0004_raw_0029",
+    "box_id": "page_0004_raw_0029",
+    "page": "page_0004",
+    "page_number": 4,
+    "crop_path": "layout_output\\raw_box_crops\\page_0004\\page_0004_raw_0029.png",
+    "bbox": [
+      836,
+      1777,
+      847,
+      1798
+    ],
+    "label": "number",
+    "layout_score": 0.7635974884033203,
+    "paddle_text": "3",
+    "paddle_confidence": 0.7917,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0005_raw_0040",
+    "box_id": "page_0005_raw_0040",
+    "page": "page_0005",
+    "page_number": 5,
+    "crop_path": "layout_output\\raw_box_crops\\page_0005\\page_0005_raw_0040.png",
+    "bbox": [
+      507,
+      239,
+      1310,
+      281
+    ],
+    "label": "text",
+    "layout_score": 0.5617988705635071,
+    "paddle_text": "٢ويعدّ العرف الخأص والعرف المحلي مرجحين على العرف العام",
+    "paddle_confidence": 0.9173,
+    "reasons": [
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0005_raw_0041",
+    "box_id": "page_0005_raw_0041",
+    "page": "page_0005",
+    "page_number": 5,
+    "crop_path": "layout_output\\raw_box_crops\\page_0005\\page_0005_raw_0041.png",
+    "bbox": [
+      774,
+      312,
+      888,
+      345
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.5005205869674683,
+    "paddle_text": "المادة",
+    "paddle_confidence": 0.9415,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0005_raw_0036",
+    "box_id": "page_0005_raw_0036",
+    "page": "page_0005",
+    "page_number": 5,
+    "crop_path": "layout_output\\raw_box_crops\\page_0005\\page_0005_raw_0036.png",
+    "bbox": [
+      703,
+      616,
+      957,
+      785
+    ],
+    "label": "image",
+    "layout_score": 0.7945266962051392,
+    "paddle_text": "الثاز\nالباب\nالأعمال التجارية",
+    "paddle_confidence": 0.94,
+    "reasons": [
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0005_raw_0039",
+    "box_id": "page_0005_raw_0039",
+    "page": "page_0005",
+    "page_number": 5,
+    "crop_path": "layout_output\\raw_box_crops\\page_0005\\page_0005_raw_0039.png",
+    "bbox": [
+      775,
+      812,
+      888,
+      844
+    ],
+    "label": "figure_title",
+    "layout_score": 0.6277923583984375,
+    "paddle_text": "المادة٦",
+    "paddle_confidence": 0.8713,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0005_raw_0037",
+    "box_id": "page_0005_raw_0037",
+    "page": "page_0005",
+    "page_number": 5,
+    "crop_path": "layout_output\\raw_box_crops\\page_0005\\page_0005_raw_0037.png",
+    "bbox": [
+      826,
+      1756,
+      839,
+      1773
+    ],
+    "label": "number",
+    "layout_score": 0.7656030058860779,
+    "paddle_text": ".",
+    "paddle_confidence": 0.2692,
+    "reasons": [
+      "low_paddle_confidence",
+      "title_or_number_label",
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0006_raw_0062",
+    "box_id": "page_0006_raw_0062",
+    "page": "page_0006",
+    "page_number": 6,
+    "crop_path": "layout_output\\raw_box_crops\\page_0006\\page_0006_raw_0062.png",
+    "bbox": [
+      1091,
+      240,
+      1313,
+      281
+    ],
+    "label": "text",
+    "layout_score": 0.280702143907547,
+    "paddle_text": "يو يإ Oو يي",
+    "paddle_confidence": 0.5468,
+    "reasons": [
+      "low_paddle_confidence",
+      "small_short_box",
+      "latin_noise"
+    ]
+  },
+  {
+    "region_id": "page_0006_raw_0060",
+    "box_id": "page_0006_raw_0060",
+    "page": "page_0006",
+    "page_number": 6,
+    "crop_path": "layout_output\\raw_box_crops\\page_0006\\page_0006_raw_0060.png",
+    "bbox": [
+      982,
+      302,
+      1313,
+      343
+    ],
+    "label": "text",
+    "layout_score": 0.29998818039894104,
+    "paddle_text": "لـمشروع المخازن العامة",
+    "paddle_confidence": 0.9628,
+    "reasons": [
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0006_raw_0065",
+    "box_id": "page_0006_raw_0065",
+    "page": "page_0006",
+    "page_number": 6,
+    "crop_path": "layout_output\\raw_box_crops\\page_0006\\page_0006_raw_0065.png",
+    "bbox": [
+      966,
+      366,
+      1313,
+      410
+    ],
+    "label": "text",
+    "layout_score": 0.25341182947158813,
+    "paddle_text": "ممشروع المناجم والبترول",
+    "paddle_confidence": 0.931,
+    "reasons": [
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0006_raw_0059",
+    "box_id": "page_0006_raw_0059",
+    "page": "page_0006",
+    "page_number": 6,
+    "crop_path": "layout_output\\raw_box_crops\\page_0006\\page_0006_raw_0059.png",
+    "bbox": [
+      965,
+      427,
+      1313,
+      467
+    ],
+    "label": "text",
+    "layout_score": 0.3101541996002197,
+    "paddle_text": "نمشروع الاشغال العقارية",
+    "paddle_confidence": 0.9589,
+    "reasons": [
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0006_raw_0061",
+    "box_id": "page_0006_raw_0061",
+    "page": "page_0006",
+    "page_number": 6,
+    "crop_path": "layout_output\\raw_box_crops\\page_0006\\page_0006_raw_0061.png",
+    "bbox": [
+      1008,
+      549,
+      1309,
+      593
+    ],
+    "label": "text",
+    "layout_score": 0.28363633155822754,
+    "paddle_text": "عمشروع وكالة اشغال",
+    "paddle_confidence": 0.9105,
+    "reasons": [
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0006_raw_0054",
+    "box_id": "page_0006_raw_0054",
+    "page": "page_0006",
+    "page_number": 6,
+    "crop_path": "layout_output\\raw_box_crops\\page_0006\\page_0006_raw_0054.png",
+    "bbox": [
+      469,
+      863,
+      1312,
+      906
+    ],
+    "label": "text",
+    "layout_score": 0.4064708948135376,
+    "paddle_text": "للل يي ي لوو يل ل ل لي ي لوي ي",
+    "paddle_confidence": 0.4992,
+    "reasons": [
+      "low_paddle_confidence",
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0006_raw_0049",
+    "box_id": "page_0006_raw_0049",
+    "page": "page_0006",
+    "page_number": 6,
+    "crop_path": "layout_output\\raw_box_crops\\page_0006\\page_0006_raw_0049.png",
+    "bbox": [
+      767,
+      1069,
+      883,
+      1099
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.6253847479820251,
+    "paddle_text": "المادة",
+    "paddle_confidence": 0.9493,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0006_raw_0050",
+    "box_id": "page_0006_raw_0050",
+    "page": "page_0006",
+    "page_number": 6,
+    "crop_path": "layout_output\\raw_box_crops\\page_0006\\page_0006_raw_0050.png",
+    "bbox": [
+      767,
+      1270,
+      882,
+      1300
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.5686819553375244,
+    "paddle_text": "المادة",
+    "paddle_confidence": 0.9387,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0006_raw_0046",
+    "box_id": "page_0006_raw_0046",
+    "page": "page_0006",
+    "page_number": 6,
+    "crop_path": "layout_output\\raw_box_crops\\page_0006\\page_0006_raw_0046.png",
+    "bbox": [
+      759,
+      1601,
+      887,
+      1627
+    ],
+    "label": "text",
+    "layout_score": 0.8278083801269531,
+    "paddle_text": "L",
+    "paddle_confidence": 0.533,
+    "reasons": [
+      "low_paddle_confidence",
+      "small_short_box",
+      "latin_noise"
+    ]
+  },
+  {
+    "region_id": "page_0006_raw_0047",
+    "box_id": "page_0006_raw_0047",
+    "page": "page_0006",
+    "page_number": 6,
+    "crop_path": "layout_output\\raw_box_crops\\page_0006\\page_0006_raw_0047.png",
+    "bbox": [
+      815,
+      1749,
+      829,
+      1769
+    ],
+    "label": "number",
+    "layout_score": 0.7796631455421448,
+    "paddle_text": "7",
+    "paddle_confidence": 0.8425,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0007_raw_0071",
+    "box_id": "page_0007_raw_0071",
+    "page": "page_0007",
+    "page_number": 7,
+    "crop_path": "layout_output\\raw_box_crops\\page_0007\\page_0007_raw_0071.png",
+    "bbox": [
+      674,
+      252,
+      994,
+      320
+    ],
+    "label": "header",
+    "layout_score": 0.5241960883140564,
+    "paddle_text": "ا\nاي",
+    "paddle_confidence": 0.7299,
+    "reasons": [
+      "low_paddle_confidence",
+      "title_or_number_label",
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0007_raw_0073",
+    "box_id": "page_0007_raw_0073",
+    "page": "page_0007",
+    "page_number": 7,
+    "crop_path": "layout_output\\raw_box_crops\\page_0007\\page_0007_raw_0073.png",
+    "bbox": [
+      782,
+      361,
+      894,
+      407
+    ],
+    "label": "text",
+    "layout_score": 0.39594942331314087,
+    "paddle_text": "التجار",
+    "paddle_confidence": 0.9515,
+    "reasons": [
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0007_raw_0076",
+    "box_id": "page_0007_raw_0076",
+    "page": "page_0007",
+    "page_number": 7,
+    "crop_path": "layout_output\\raw_box_crops\\page_0007\\page_0007_raw_0076.png",
+    "bbox": [
+      736,
+      464,
+      934,
+      514
+    ],
+    "label": "text",
+    "layout_score": 0.27084240317344666,
+    "paddle_text": "الفصل الأول",
+    "paddle_confidence": 0.8848,
+    "reasons": [
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0007_raw_0074",
+    "box_id": "page_0007_raw_0074",
+    "page": "page_0007",
+    "page_number": 7,
+    "crop_path": "layout_output\\raw_box_crops\\page_0007\\page_0007_raw_0074.png",
+    "bbox": [
+      779,
+      614,
+      892,
+      646
+    ],
+    "label": "text",
+    "layout_score": 0.37645769119262695,
+    "paddle_text": "المادة",
+    "paddle_confidence": 0.9551,
+    "reasons": [
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0007_raw_0069",
+    "box_id": "page_0007_raw_0069",
+    "page": "page_0007",
+    "page_number": 7,
+    "crop_path": "layout_output\\raw_box_crops\\page_0007\\page_0007_raw_0069.png",
+    "bbox": [
+      350,
+      686,
+      1310,
+      1087
+    ],
+    "label": "text",
+    "layout_score": 0.6368142366409302,
+    "paddle_text": "ي لي ي ي و مل ي يي\nي ي ي ف\nلةي و ي ي ي ي ل ي ييي و يو ل و ة\nلي يق ي ي يي ي قووي يلع وي ي لي ل ل مّي ل ل ي ي ي\nالع يل ي ل ي ولوم ل ل٥ ول ي ل٥ ي\nالمادة",
+    "paddle_confidence": 0.5837,
+    "reasons": [
+      "low_paddle_confidence"
+    ]
+  },
+  {
+    "region_id": "page_0007_raw_0075",
+    "box_id": "page_0007_raw_0075",
+    "page": "page_0007",
+    "page_number": 7,
+    "crop_path": "layout_output\\raw_box_crops\\page_0007\\page_0007_raw_0075.png",
+    "bbox": [
+      763,
+      1055,
+      898,
+      1087
+    ],
+    "label": "figure_title",
+    "layout_score": 0.30073025822639465,
+    "paddle_text": "المادة",
+    "paddle_confidence": 0.8658,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0007_raw_0070",
+    "box_id": "page_0007_raw_0070",
+    "page": "page_0007",
+    "page_number": 7,
+    "crop_path": "layout_output\\raw_box_crops\\page_0007\\page_0007_raw_0070.png",
+    "bbox": [
+      758,
+      1502,
+      894,
+      1533
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.5600416660308838,
+    "paddle_text": "المادة",
+    "paddle_confidence": 0.9955,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0007_raw_0068",
+    "box_id": "page_0007_raw_0068",
+    "page": "page_0007",
+    "page_number": 7,
+    "crop_path": "layout_output\\raw_box_crops\\page_0007\\page_0007_raw_0068.png",
+    "bbox": [
+      810,
+      1761,
+      829,
+      1783
+    ],
+    "label": "number",
+    "layout_score": 0.7969633936882019,
+    "paddle_text": "V",
+    "paddle_confidence": 0.658,
+    "reasons": [
+      "low_paddle_confidence",
+      "title_or_number_label",
+      "small_short_box",
+      "latin_noise"
+    ]
+  },
+  {
+    "region_id": "page_0008_raw_0084",
+    "box_id": "page_0008_raw_0084",
+    "page": "page_0008",
+    "page_number": 8,
+    "crop_path": "layout_output\\raw_box_crops\\page_0008\\page_0008_raw_0084.png",
+    "bbox": [
+      749,
+      249,
+      882,
+      280
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.7263544797897339,
+    "paddle_text": "المادة١",
+    "paddle_confidence": 0.9104,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0008_raw_0080",
+    "box_id": "page_0008_raw_0080",
+    "page": "page_0008",
+    "page_number": 8,
+    "crop_path": "layout_output\\raw_box_crops\\page_0008\\page_0008_raw_0080.png",
+    "bbox": [
+      750,
+      450,
+      885,
+      482
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.7683437466621399,
+    "paddle_text": "المادة ١٣",
+    "paddle_confidence": 0.8559,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0008_raw_0082",
+    "box_id": "page_0008_raw_0082",
+    "page": "page_0008",
+    "page_number": 8,
+    "crop_path": "layout_output\\raw_box_crops\\page_0008\\page_0008_raw_0082.png",
+    "bbox": [
+      755,
+      834,
+      889,
+      864
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.7641247510910034,
+    "paddle_text": "المادة ٤",
+    "paddle_confidence": 0.9159,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0008_raw_0087",
+    "box_id": "page_0008_raw_0087",
+    "page": "page_0008",
+    "page_number": 8,
+    "crop_path": "layout_output\\raw_box_crops\\page_0008\\page_0008_raw_0087.png",
+    "bbox": [
+      757,
+      1031,
+      893,
+      1061
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.6018073558807373,
+    "paddle_text": "المادة١٥",
+    "paddle_confidence": 0.8668,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0008_raw_0091",
+    "box_id": "page_0008_raw_0091",
+    "page": "page_0008",
+    "page_number": 8,
+    "crop_path": "layout_output\\raw_box_crops\\page_0008\\page_0008_raw_0091.png",
+    "bbox": [
+      723,
+      1196,
+      927,
+      1248
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.49097755551338196,
+    "paddle_text": "الثاني\nالفصل",
+    "paddle_confidence": 0.9861,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0008_raw_0089",
+    "box_id": "page_0008_raw_0089",
+    "page": "page_0008",
+    "page_number": 8,
+    "crop_path": "layout_output\\raw_box_crops\\page_0008\\page_0008_raw_0089.png",
+    "bbox": [
+      736,
+      1277,
+      916,
+      1321
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.5657481551170349,
+    "paddle_text": "التجارة\nدفاتر",
+    "paddle_confidence": 0.9669,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0008_raw_0090",
+    "box_id": "page_0008_raw_0090",
+    "page": "page_0008",
+    "page_number": 8,
+    "crop_path": "layout_output\\raw_box_crops\\page_0008\\page_0008_raw_0090.png",
+    "bbox": [
+      762,
+      1356,
+      897,
+      1389
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.5558823943138123,
+    "paddle_text": "المادة",
+    "paddle_confidence": 0.9673,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0008_raw_0088",
+    "box_id": "page_0008_raw_0088",
+    "page": "page_0008",
+    "page_number": 8,
+    "crop_path": "layout_output\\raw_box_crops\\page_0008\\page_0008_raw_0088.png",
+    "bbox": [
+      539,
+      1415,
+      1306,
+      1462
+    ],
+    "label": "text",
+    "layout_score": 0.5998273491859436,
+    "paddle_text": "على التاجر أن ينظم على الأقل الدفترين الإجباريين التاليين\ntt\nf",
+    "paddle_confidence": 0.6,
+    "reasons": [
+      "low_paddle_confidence"
+    ]
+  },
+  {
+    "region_id": "page_0008_raw_0093",
+    "box_id": "page_0008_raw_0093",
+    "page": "page_0008",
+    "page_number": 8,
+    "crop_path": "layout_output\\raw_box_crops\\page_0008\\page_0008_raw_0093.png",
+    "bbox": [
+      351,
+      1664,
+      1219,
+      1713
+    ],
+    "label": "text",
+    "layout_score": 0.3062170147895813,
+    "paddle_text": "الدفاتر يومية مساعدة منظمة وفق أحكام المادتين ١٧و١٨ من هذا",
+    "paddle_confidence": 0.907,
+    "reasons": [
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0008_raw_0083",
+    "box_id": "page_0008_raw_0083",
+    "page": "page_0008",
+    "page_number": 8,
+    "crop_path": "layout_output\\raw_box_crops\\page_0008\\page_0008_raw_0083.png",
+    "bbox": [
+      822,
+      1759,
+      840,
+      1784
+    ],
+    "label": "number",
+    "layout_score": 0.7560209631919861,
+    "paddle_text": "٨",
+    "paddle_confidence": 0.2798,
+    "reasons": [
+      "low_paddle_confidence",
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0009_raw_0097",
+    "box_id": "page_0009_raw_0097",
+    "page": "page_0009",
+    "page_number": 9,
+    "crop_path": "layout_output\\raw_box_crops\\page_0009\\page_0009_raw_0097.png",
+    "bbox": [
+      766,
+      832,
+      903,
+      862
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.6964437365531921,
+    "paddle_text": "المادة١",
+    "paddle_confidence": 0.9318,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0009_raw_0100",
+    "box_id": "page_0009_raw_0100",
+    "page": "page_0009",
+    "page_number": 9,
+    "crop_path": "layout_output\\raw_box_crops\\page_0009\\page_0009_raw_0100.png",
+    "bbox": [
+      765,
+      1031,
+      900,
+      1062
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.6417863368988037,
+    "paddle_text": "المادة٨",
+    "paddle_confidence": 0.9161,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0009_raw_0099",
+    "box_id": "page_0009_raw_0099",
+    "page": "page_0009",
+    "page_number": 9,
+    "crop_path": "layout_output\\raw_box_crops\\page_0009\\page_0009_raw_0099.png",
+    "bbox": [
+      763,
+      1227,
+      899,
+      1258
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.6606019735336304,
+    "paddle_text": "المادة٩",
+    "paddle_confidence": 0.895,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0009_raw_0108",
+    "box_id": "page_0009_raw_0108",
+    "page": "page_0009",
+    "page_number": 9,
+    "crop_path": "layout_output\\raw_box_crops\\page_0009\\page_0009_raw_0108.png",
+    "bbox": [
+      758,
+      1557,
+      895,
+      1589
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.45674827694892883,
+    "paddle_text": "المادة٢",
+    "paddle_confidence": 0.9621,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0009_raw_0096",
+    "box_id": "page_0009_raw_0096",
+    "page": "page_0009",
+    "page_number": 9,
+    "crop_path": "layout_output\\raw_box_crops\\page_0009\\page_0009_raw_0096.png",
+    "bbox": [
+      817,
+      1762,
+      830,
+      1783
+    ],
+    "label": "number",
+    "layout_score": 0.776057779788971,
+    "paddle_text": "4",
+    "paddle_confidence": 0.6758,
+    "reasons": [
+      "low_paddle_confidence",
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0010_raw_0130",
+    "box_id": "page_0010_raw_0130",
+    "page": "page_0010",
+    "page_number": 10,
+    "crop_path": "layout_output\\raw_box_crops\\page_0010\\page_0010_raw_0130.png",
+    "bbox": [
+      333,
+      2,
+      1281,
+      96
+    ],
+    "label": "text",
+    "layout_score": 0.30737823247909546,
+    "paddle_text": "",
+    "paddle_confidence": null,
+    "reasons": [
+      "empty_paddle_text"
+    ]
+  },
+  {
+    "region_id": "page_0010_raw_0124",
+    "box_id": "page_0010_raw_0124",
+    "page": "page_0010",
+    "page_number": 10,
+    "crop_path": "layout_output\\raw_box_crops\\page_0010\\page_0010_raw_0124.png",
+    "bbox": [
+      749,
+      247,
+      883,
+      280
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.7342394590377808,
+    "paddle_text": "المادة٢١",
+    "paddle_confidence": 0.8774,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0010_raw_0129",
+    "box_id": "page_0010_raw_0129",
+    "page": "page_0010",
+    "page_number": 10,
+    "crop_path": "layout_output\\raw_box_crops\\page_0010\\page_0010_raw_0129.png",
+    "bbox": [
+      520,
+      431,
+      1294,
+      476
+    ],
+    "label": "text",
+    "layout_score": 0.32976987957954407,
+    "paddle_text": "٢ـوللقاضى أن يأمر من تلقاء نفسه الدفاتر المذكورة للغاية ذاتها",
+    "paddle_confidence": 0.9154,
+    "reasons": [
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0010_raw_0118",
+    "box_id": "page_0010_raw_0118",
+    "page": "page_0010",
+    "page_number": 10,
+    "crop_path": "layout_output\\raw_box_crops\\page_0010\\page_0010_raw_0118.png",
+    "bbox": [
+      750,
+      510,
+      887,
+      541
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.7950047850608826,
+    "paddle_text": "المادة٢٢",
+    "paddle_confidence": 0.8737,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0010_raw_0128",
+    "box_id": "page_0010_raw_0128",
+    "page": "page_0010",
+    "page_number": 10,
+    "crop_path": "layout_output\\raw_box_crops\\page_0010\\page_0010_raw_0128.png",
+    "bbox": [
+      709,
+      715,
+      923,
+      767
+    ],
+    "label": "text",
+    "layout_score": 0.3848838210105896,
+    "paddle_text": "الفصل الثالث",
+    "paddle_confidence": 0.9878,
+    "reasons": [
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0010_raw_0127",
+    "box_id": "page_0010_raw_0127",
+    "page": "page_0010",
+    "page_number": 10,
+    "crop_path": "layout_output\\raw_box_crops\\page_0010\\page_0010_raw_0127.png",
+    "bbox": [
+      724,
+      796,
+      912,
+      840
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.45950281620025635,
+    "paddle_text": "التجارة\nسجل",
+    "paddle_confidence": 0.957,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0010_raw_0125",
+    "box_id": "page_0010_raw_0125",
+    "page": "page_0010",
+    "page_number": 10,
+    "crop_path": "layout_output\\raw_box_crops\\page_0010\\page_0010_raw_0125.png",
+    "bbox": [
+      752,
+      873,
+      890,
+      908
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.670905590057373,
+    "paddle_text": "المادة ٢٣",
+    "paddle_confidence": 0.9305,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0010_raw_0121",
+    "box_id": "page_0010_raw_0121",
+    "page": "page_0010",
+    "page_number": 10,
+    "crop_path": "layout_output\\raw_box_crops\\page_0010\\page_0010_raw_0121.png",
+    "bbox": [
+      756,
+      1187,
+      893,
+      1220
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.7776631712913513,
+    "paddle_text": "المادة ٤٤",
+    "paddle_confidence": 0.8654,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0010_raw_0120",
+    "box_id": "page_0010_raw_0120",
+    "page": "page_0010",
+    "page_number": 10,
+    "crop_path": "layout_output\\raw_box_crops\\page_0010\\page_0010_raw_0120.png",
+    "bbox": [
+      811,
+      1763,
+      844,
+      1784
+    ],
+    "label": "number",
+    "layout_score": 0.7879440188407898,
+    "paddle_text": "",
+    "paddle_confidence": null,
+    "reasons": [
+      "empty_paddle_text",
+      "title_or_number_label",
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0011_raw_0135",
+    "box_id": "page_0011_raw_0135",
+    "page": "page_0011",
+    "page_number": 11,
+    "crop_path": "layout_output\\raw_box_crops\\page_0011\\page_0011_raw_0135.png",
+    "bbox": [
+      779,
+      356,
+      917,
+      390
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.32611843943595886,
+    "paddle_text": "المادة ٢٥",
+    "paddle_confidence": 0.8181,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0011_raw_0133",
+    "box_id": "page_0011_raw_0133",
+    "page": "page_0011",
+    "page_number": 11,
+    "crop_path": "layout_output\\raw_box_crops\\page_0011\\page_0011_raw_0133.png",
+    "bbox": [
+      798,
+      1738,
+      832,
+      1760
+    ],
+    "label": "number",
+    "layout_score": 0.8093596696853638,
+    "paddle_text": "",
+    "paddle_confidence": null,
+    "reasons": [
+      "empty_paddle_text",
+      "title_or_number_label",
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0012_raw_0140",
+    "box_id": "page_0012_raw_0140",
+    "page": "page_0012",
+    "page_number": 12,
+    "crop_path": "layout_output\\raw_box_crops\\page_0012\\page_0012_raw_0140.png",
+    "bbox": [
+      735,
+      221,
+      871,
+      253
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.40353965759277344,
+    "paddle_text": "المادة٢٦",
+    "paddle_confidence": 0.9171,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0012_raw_0139",
+    "box_id": "page_0012_raw_0139",
+    "page": "page_0012",
+    "page_number": 12,
+    "crop_path": "layout_output\\raw_box_crops\\page_0012\\page_0012_raw_0139.png",
+    "bbox": [
+      755,
+      1161,
+      894,
+      1194
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.4352579414844513,
+    "paddle_text": "المادة٢٧",
+    "paddle_confidence": 0.8777,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0012_raw_0136",
+    "box_id": "page_0012_raw_0136",
+    "page": "page_0012",
+    "page_number": 12,
+    "crop_path": "layout_output\\raw_box_crops\\page_0012\\page_0012_raw_0136.png",
+    "bbox": [
+      818,
+      1729,
+      853,
+      1753
+    ],
+    "label": "number",
+    "layout_score": 0.7906366586685181,
+    "paddle_text": "١",
+    "paddle_confidence": 0.8189,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0013_raw_0145",
+    "box_id": "page_0013_raw_0145",
+    "page": "page_0013",
+    "page_number": 13,
+    "crop_path": "layout_output\\raw_box_crops\\page_0013\\page_0013_raw_0145.png",
+    "bbox": [
+      786,
+      896,
+      923,
+      928
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.3977346122264862,
+    "paddle_text": "المادة٢٨",
+    "paddle_confidence": 0.8959,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0013_raw_0143",
+    "box_id": "page_0013_raw_0143",
+    "page": "page_0013",
+    "page_number": 13,
+    "crop_path": "layout_output\\raw_box_crops\\page_0013\\page_0013_raw_0143.png",
+    "bbox": [
+      828,
+      1779,
+      866,
+      1801
+    ],
+    "label": "number",
+    "layout_score": 0.7840940356254578,
+    "paddle_text": "١٣",
+    "paddle_confidence": 0.7999,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0014_raw_0161",
+    "box_id": "page_0014_raw_0161",
+    "page": "page_0014",
+    "page_number": 14,
+    "crop_path": "layout_output\\raw_box_crops\\page_0014\\page_0014_raw_0161.png",
+    "bbox": [
+      739,
+      264,
+      873,
+      295
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.6444593667984009,
+    "paddle_text": "المادة ٢٩",
+    "paddle_confidence": 0.9283,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0014_raw_0158",
+    "box_id": "page_0014_raw_0158",
+    "page": "page_0014",
+    "page_number": 14,
+    "crop_path": "layout_output\\raw_box_crops\\page_0014\\page_0014_raw_0158.png",
+    "bbox": [
+      680,
+      459,
+      933,
+      524
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.6964360475540161,
+    "paddle_text": "الشركات المدنية",
+    "paddle_confidence": 0.8966,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0014_raw_0162",
+    "box_id": "page_0014_raw_0162",
+    "page": "page_0014",
+    "page_number": 14,
+    "crop_path": "layout_output\\raw_box_crops\\page_0014\\page_0014_raw_0162.png",
+    "bbox": [
+      737,
+      564,
+      876,
+      596
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.629942774772644,
+    "paddle_text": "المادة٣",
+    "paddle_confidence": 0.9479,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0014_raw_0157",
+    "box_id": "page_0014_raw_0157",
+    "page": "page_0014",
+    "page_number": 14,
+    "crop_path": "layout_output\\raw_box_crops\\page_0014\\page_0014_raw_0157.png",
+    "bbox": [
+      744,
+      1258,
+      881,
+      1287
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.7521674633026123,
+    "paddle_text": "المادة٣",
+    "paddle_confidence": 0.911,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0014_raw_0160",
+    "box_id": "page_0014_raw_0160",
+    "page": "page_0014",
+    "page_number": 14,
+    "crop_path": "layout_output\\raw_box_crops\\page_0014\\page_0014_raw_0160.png",
+    "bbox": [
+      445,
+      1443,
+      1291,
+      1485
+    ],
+    "label": "text",
+    "layout_score": 0.6487205624580383,
+    "paddle_text": "٢ويجري هذا الشطب مباشرة بمقتضى قرار يصدره أمين سجل التجارة",
+    "paddle_confidence": 0.9355,
+    "reasons": [
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0014_raw_0159",
+    "box_id": "page_0014_raw_0159",
+    "page": "page_0014",
+    "page_number": 14,
+    "crop_path": "layout_output\\raw_box_crops\\page_0014\\page_0014_raw_0159.png",
+    "bbox": [
+      746,
+      1519,
+      883,
+      1550
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.6895809769630432,
+    "paddle_text": "المادة ٣٢",
+    "paddle_confidence": 0.9031,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0014_raw_0154",
+    "box_id": "page_0014_raw_0154",
+    "page": "page_0014",
+    "page_number": 14,
+    "crop_path": "layout_output\\raw_box_crops\\page_0014\\page_0014_raw_0154.png",
+    "bbox": [
+      798,
+      1774,
+      833,
+      1798
+    ],
+    "label": "number",
+    "layout_score": 0.8153689503669739,
+    "paddle_text": "3",
+    "paddle_confidence": 0.6798,
+    "reasons": [
+      "low_paddle_confidence",
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0015_raw_0185",
+    "box_id": "page_0015_raw_0185",
+    "page": "page_0015",
+    "page_number": 15,
+    "crop_path": "layout_output\\raw_box_crops\\page_0015\\page_0015_raw_0185.png",
+    "bbox": [
+      384,
+      33,
+      407,
+      94
+    ],
+    "label": "header",
+    "layout_score": 0.2544642984867096,
+    "paddle_text": "",
+    "paddle_confidence": null,
+    "reasons": [
+      "empty_paddle_text",
+      "title_or_number_label",
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0015_raw_0167",
+    "box_id": "page_0015_raw_0167",
+    "page": "page_0015",
+    "page_number": 15,
+    "crop_path": "layout_output\\raw_box_crops\\page_0015\\page_0015_raw_0167.png",
+    "bbox": [
+      772,
+      240,
+      910,
+      273
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.8035228252410889,
+    "paddle_text": "المادة ٣٣",
+    "paddle_confidence": 0.96,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0015_raw_0169",
+    "box_id": "page_0015_raw_0169",
+    "page": "page_0015",
+    "page_number": 15,
+    "crop_path": "layout_output\\raw_box_crops\\page_0015\\page_0015_raw_0169.png",
+    "bbox": [
+      767,
+      420,
+      906,
+      450
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.7917926907539368,
+    "paddle_text": "المادة ٣٤",
+    "paddle_confidence": 0.9276,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0015_raw_0170",
+    "box_id": "page_0015_raw_0170",
+    "page": "page_0015",
+    "page_number": 15,
+    "crop_path": "layout_output\\raw_box_crops\\page_0015\\page_0015_raw_0170.png",
+    "bbox": [
+      762,
+      681,
+      900,
+      712
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.7832690477371216,
+    "paddle_text": "المادة ٣٥",
+    "paddle_confidence": 0.8743,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0015_raw_0182",
+    "box_id": "page_0015_raw_0182",
+    "page": "page_0015",
+    "page_number": 15,
+    "crop_path": "layout_output\\raw_box_crops\\page_0015\\page_0015_raw_0182.png",
+    "bbox": [
+      890,
+      803,
+      1267,
+      843
+    ],
+    "label": "text",
+    "layout_score": 0.3141794800758362,
+    "paddle_text": "رسم يحدد من الوزير المختص",
+    "paddle_confidence": 0.9385,
+    "reasons": [
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0015_raw_0181",
+    "box_id": "page_0015_raw_0181",
+    "page": "page_0015",
+    "page_number": 15,
+    "crop_path": "layout_output\\raw_box_crops\\page_0015\\page_0015_raw_0181.png",
+    "bbox": [
+      525,
+      850,
+      1305,
+      896
+    ],
+    "label": "text",
+    "layout_score": 0.35856419801712036,
+    "paddle_text": "٢ـولأمين السجل عند الإقتضاء أن يعطي شهادة بعدم وجود قيود",
+    "paddle_confidence": 0.944,
+    "reasons": [
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0015_raw_0179",
+    "box_id": "page_0015_raw_0179",
+    "page": "page_0015",
+    "page_number": 15,
+    "crop_path": "layout_output\\raw_box_crops\\page_0015\\page_0015_raw_0179.png",
+    "bbox": [
+      740,
+      911,
+      1307,
+      957
+    ],
+    "label": "text",
+    "layout_score": 0.3854779005050659,
+    "paddle_text": "٣ـويصدّق أمين السجل مطابقة النسخ للأصل",
+    "paddle_confidence": 0.9352,
+    "reasons": [
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0015_raw_0172",
+    "box_id": "page_0015_raw_0172",
+    "page": "page_0015",
+    "page_number": 15,
+    "crop_path": "layout_output\\raw_box_crops\\page_0015\\page_0015_raw_0172.png",
+    "bbox": [
+      756,
+      984,
+      895,
+      1014
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.7808124423027039,
+    "paddle_text": "المادة٣٦",
+    "paddle_confidence": 0.8902,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0015_raw_0180",
+    "box_id": "page_0015_raw_0180",
+    "page": "page_0015",
+    "page_number": 15,
+    "crop_path": "layout_output\\raw_box_crops\\page_0015\\page_0015_raw_0180.png",
+    "bbox": [
+      576,
+      1108,
+      1300,
+      1153
+    ],
+    "label": "text",
+    "layout_score": 0.3828423023223877,
+    "paddle_text": "١الأحكام المعلنة للإفلاس إذا كان المفلس قد استرد اعتباره\nf",
+    "paddle_confidence": 0.6353,
+    "reasons": [
+      "low_paddle_confidence",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0015_raw_0183",
+    "box_id": "page_0015_raw_0183",
+    "page": "page_0015",
+    "page_number": 15,
+    "crop_path": "layout_output\\raw_box_crops\\page_0015\\page_0015_raw_0183.png",
+    "bbox": [
+      900,
+      1236,
+      1255,
+      1278
+    ],
+    "label": "text",
+    "layout_score": 0.2996283173561096,
+    "paddle_text": "الحجر أو المساعدة القضائية",
+    "paddle_confidence": 0.9356,
+    "reasons": [
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0015_raw_0174",
+    "box_id": "page_0015_raw_0174",
+    "page": "page_0015",
+    "page_number": 15,
+    "crop_path": "layout_output\\raw_box_crops\\page_0015\\page_0015_raw_0174.png",
+    "bbox": [
+      742,
+      1296,
+      888,
+      1330
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.713429868221283,
+    "paddle_text": "المادة٣٧",
+    "paddle_confidence": 0.9124,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0015_raw_0171",
+    "box_id": "page_0015_raw_0171",
+    "page": "page_0015",
+    "page_number": 15,
+    "crop_path": "layout_output\\raw_box_crops\\page_0015\\page_0015_raw_0171.png",
+    "bbox": [
+      744,
+      1557,
+      881,
+      1588
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.7830072641372681,
+    "paddle_text": "المادة٣٨",
+    "paddle_confidence": 0.8914,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0015_raw_0168",
+    "box_id": "page_0015_raw_0168",
+    "page": "page_0015",
+    "page_number": 15,
+    "crop_path": "layout_output\\raw_box_crops\\page_0015\\page_0015_raw_0168.png",
+    "bbox": [
+      791,
+      1752,
+      827,
+      1774
+    ],
+    "label": "number",
+    "layout_score": 0.7918795347213745,
+    "paddle_text": "١",
+    "paddle_confidence": 0.5534,
+    "reasons": [
+      "low_paddle_confidence",
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0016_raw_0198",
+    "box_id": "page_0016_raw_0198",
+    "page": "page_0016",
+    "page_number": 16,
+    "crop_path": "layout_output\\raw_box_crops\\page_0016\\page_0016_raw_0198.png",
+    "bbox": [
+      343,
+      350,
+      1302,
+      460
+    ],
+    "label": "text",
+    "layout_score": 0.48565876483917236,
+    "paddle_text": "ةيي ي ية و ي و ة ويي ول ل ي د\nو ة ي يه هي و ل لي ي هي يلي",
+    "paddle_confidence": 0.4931,
+    "reasons": [
+      "low_paddle_confidence"
+    ]
+  },
+  {
+    "region_id": "page_0016_raw_0193",
+    "box_id": "page_0016_raw_0193",
+    "page": "page_0016",
+    "page_number": 16,
+    "crop_path": "layout_output\\raw_box_crops\\page_0016\\page_0016_raw_0193.png",
+    "bbox": [
+      760,
+      675,
+      899,
+      708
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.5910782217979431,
+    "paddle_text": "المادة ٣٩",
+    "paddle_confidence": 0.8564,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0016_raw_0188",
+    "box_id": "page_0016_raw_0188",
+    "page": "page_0016",
+    "page_number": 16,
+    "crop_path": "layout_output\\raw_box_crops\\page_0016\\page_0016_raw_0188.png",
+    "bbox": [
+      773,
+      1182,
+      909,
+      1214
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.7085491418838501,
+    "paddle_text": "المادة ٤",
+    "paddle_confidence": 0.8399,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0016_raw_0190",
+    "box_id": "page_0016_raw_0190",
+    "page": "page_0016",
+    "page_number": 16,
+    "crop_path": "layout_output\\raw_box_crops\\page_0016\\page_0016_raw_0190.png",
+    "bbox": [
+      780,
+      1484,
+      915,
+      1515
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.689178466796875,
+    "paddle_text": "المادة٤١",
+    "paddle_confidence": 0.9479,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0016_raw_0187",
+    "box_id": "page_0016_raw_0187",
+    "page": "page_0016",
+    "page_number": 16,
+    "crop_path": "layout_output\\raw_box_crops\\page_0016\\page_0016_raw_0187.png",
+    "bbox": [
+      833,
+      1746,
+      868,
+      1769
+    ],
+    "label": "number",
+    "layout_score": 0.7888772487640381,
+    "paddle_text": "١٧",
+    "paddle_confidence": 0.647,
+    "reasons": [
+      "low_paddle_confidence",
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0017_raw_0210",
+    "box_id": "page_0017_raw_0210",
+    "page": "page_0017",
+    "page_number": 17,
+    "crop_path": "layout_output\\raw_box_crops\\page_0017\\page_0017_raw_0210.png",
+    "bbox": [
+      794,
+      252,
+      928,
+      282
+    ],
+    "label": "paragraph_title",
+    "layout_score": 0.7034907341003418,
+    "paddle_text": "المادة ٤٢",
+    "paddle_confidence": 0.8926,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0017_raw_0211",
+    "box_id": "page_0017_raw_0211",
+    "page": "page_0017",
+    "page_number": 17,
+    "crop_path": "layout_output\\raw_box_crops\\page_0017\\page_0017_raw_0211.png",
+    "bbox": [
+      725,
+      727,
+      988,
+      1099
+    ],
+    "label": "image",
+    "layout_score": 0.6403467655181885,
+    "paddle_text": "رة\nل\nلعل\nي ي لي",
+    "paddle_confidence": 0.4917,
+    "reasons": [
+      "low_paddle_confidence"
+    ]
+  },
+  {
+    "region_id": "page_0017_raw_0215",
+    "box_id": "page_0017_raw_0215",
+    "page": "page_0017",
+    "page_number": 17,
+    "crop_path": "layout_output\\raw_box_crops\\page_0017\\page_0017_raw_0215.png",
+    "bbox": [
+      801,
+      842,
+      916,
+      892
+    ],
+    "label": "text",
+    "layout_score": 0.2562367618083954,
+    "paddle_text": "المتجر",
+    "paddle_confidence": 0.9981,
+    "reasons": [
+      "small_short_box"
+    ]
+  },
+  {
+    "region_id": "page_0017_raw_0214",
+    "box_id": "page_0017_raw_0214",
+    "page": "page_0017",
+    "page_number": 17,
+    "crop_path": "layout_output\\raw_box_crops\\page_0017\\page_0017_raw_0214.png",
+    "bbox": [
+      796,
+      1070,
+      921,
+      1100
+    ],
+    "label": "figure_title",
+    "layout_score": 0.3081570565700531,
+    "paddle_text": "المادة ٤٣",
+    "paddle_confidence": 0.971,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0017_raw_0212",
+    "box_id": "page_0017_raw_0212",
+    "page": "page_0017",
+    "page_number": 17,
+    "crop_path": "layout_output\\raw_box_crops\\page_0017\\page_0017_raw_0212.png",
+    "bbox": [
+      789,
+      1512,
+      925,
+      1542
+    ],
+    "label": "figure_title",
+    "layout_score": 0.5693135261535645,
+    "paddle_text": "المادة ٤٤",
+    "paddle_confidence": 0.9575,
+    "reasons": [
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0017_raw_0213",
+    "box_id": "page_0017_raw_0213",
+    "page": "page_0017",
+    "page_number": 17,
+    "crop_path": "layout_output\\raw_box_crops\\page_0017\\page_0017_raw_0213.png",
+    "bbox": [
+      700,
+      1682,
+      1334,
+      1723
+    ],
+    "label": "text",
+    "layout_score": 0.38238295912742615,
+    "paddle_text": "٢ـأما المتجر كمجموعة فيخضع لأحكام هذا القانون",
+    "paddle_confidence": 0.9556,
+    "reasons": [
+      "small_numeric_box"
+    ]
+  },
+  {
+    "region_id": "page_0017_raw_0207",
+    "box_id": "page_0017_raw_0207",
+    "page": "page_0017",
+    "page_number": 17,
+    "crop_path": "layout_output\\raw_box_crops\\page_0017\\page_0017_raw_0207.png",
+    "bbox": [
+      836,
+      1761,
+      874,
+      1784
+    ],
+    "label": "number",
+    "layout_score": 0.8278786540031433,
+    "paddle_text": "١٧",
+    "paddle_confidence": 0.6945,
+    "reasons": [
+      "low_paddle_confidence",
+      "title_or_number_label",
+      "small_short_box",
+      "small_numeric_box"
+    ]
+  }
+]

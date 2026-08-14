@@ -1,0 +1,216 @@
+﻿page,region_id,label,selected_engine,selection_reason,confidence,text_preview
+page_0003,page_0003_raw_0005,image,easyocr,easyocr_preferred_for_small_article_or_number,0.7418,قانون التجارة / ٧ / رقم ٣٣ للعام / رئيس الجمهورية / بناءً على / أحكام / الدستور . / جلسته المنعقدة بتاريخ ١٧ ١١ ٤٢٨ / ا هر / وعلى ما أقره مجلس الشعب / في / الموافق ٢٧ ١١ ٢٠٠٧م / يصدر مايلي : / المادة / تطبق / أحكام / قانون التجارة المرفق اعتبارا من تاريخ سريانه . / المادة / يلغى اعتباراً / التاريخ /
+page_0003,page_0003_raw_0010,doc_title,paddleocr_colab_rec_texts,paddle_kept,0.9062,التجارة / قانون / رقم ٣٣ للعام ٢٠٠٧
+page_0003,page_0003_raw_0013,doc_title,easyocr,easyocr_better_low_paddle,0.4357,قانون التجارة
+page_0003,page_0003_raw_0006,doc_title,easyocr,easyocr_preferred_for_small_article_or_number,0.7325,٧ / رقم ٣٣ للعام / م
+page_0003,page_0003_raw_0018,formula,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.8317,رئيس الجمهورية / بناءَ على أحكام الدستور / وعلى ما أقرّه مجلس الشعب في جلسته المنعقدة بتاريخ ١٤٢٨١١١٧ه / الموافق٢ / يصدر ما يلي / المادة / تطبق أحكام قانون التجارة المرفق اعتباراً من تاريخ سريانه / المادة / يلغى اعتباراً من التاريخ المنكور المرسوم التشريعي رقم ١٤٩ الصادر في / ١٩٤٩٦٢م وتعديلاته وجميع
+page_0003,page_0003_raw_0021,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.8842,رئيس الجمهورية / بناءَ على أحكام الدستور / وعلى ما أقرّه مجلس الشعب في جلسته المنعقدة بتاريخ ١٤٨١١١ / الموافق٢
+page_0003,page_0003_raw_0017,text,paddleocr_colab_rec_texts,paddle_kept,0.9653,رئيس الجمهورية
+page_0003,page_0003_raw_0019,text,paddleocr_colab_rec_texts,paddle_kept,0.9253,بناءَ على أحكام الدستور
+page_0003,page_0003_raw_0015,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.7939,وعلى ما أقرّه مجلس الشعب في جلسته المنعقدة بتاريخ ١٤٨١١١٧ / الموافق١
+page_0003,page_0003_raw_0020,text,paddleocr_colab_rec_texts,paddle_kept,0.9674,يلي / يصدر
+page_0003,page_0003_raw_0011,text,paddleocr_colab_rec_texts,paddle_kept,0.9279,المادة
+page_0003,page_0003_raw_0007,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9566,تطبق أحكام قانون التجارة المرفق اعتباراً من تاريخ سريانه
+page_0003,page_0003_raw_0012,text,easyocr,easyocr_preferred_for_small_article_or_number,0.9967,المادة
+page_0003,page_0003_raw_0008,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9397,يلغى اعتباراً من التاريخ المذكور المرسوم التشريعي رقم ١٤٩ الصادر في / ١٩٤٩٦م وتعديلاته وجميع الأحكام المخالفة لقانون التجارة المرفق
+page_0003,page_0003_raw_0009,paragraph_title,easyocr,easyocr_preferred_for_small_article_or_number,0.9981,المادة
+page_0003,page_0003_raw_0002,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.8991,ينشر هذا القانون في الجريدة الرسمية ويعمل به اعتباراً من تاريخ / ٢٠٨٤١
+page_0003,page_0003_raw_0023,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9559,ينشر هذا القانون في الجريدة الرسمية ويعمل به اعتباراً من تاريخ
+page_0003,page_0003_raw_0022,text,easyocr,paddle_empty_easy_available,0.8559,١ ٤ ٢٠٠٨
+page_0003,page_0003_raw_0004,text,easyocr,easyocr_better_low_paddle,0.7571,الموافق / _ / دمشق / ٢٩ ١ ٤٢٨ / اهر / ٩ ١٢ ٢٠٠٧م
+page_0003,page_0003_raw_0003,text,paddleocr_colab_rec_texts,paddle_kept,0.9728,الجمهورية / رئيس / بشار الأسد
+page_0003,page_0003_raw_0016,text,paddleocr_colab_rec_texts,paddle_kept,0.9703,الجمهورية / رئيس
+page_0003,page_0003_raw_0014,text,paddleocr_colab_rec_texts,paddle_kept,0.9538,بشار الأسد
+page_0003,page_0003_raw_0001,number,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.987,٣
+page_0004,page_0004_raw_0032,image,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9485,التجارة / قانون / الكتاب الأول / التجارة على وم والجار والموات التجاالمتجر / الباب الأول / أحكام عامة / المادة
+page_0004,page_0004_raw_0034,text,easyocr,easyocr_confidence_margin,0.9965,عامة / أحكام
+page_0004,page_0004_raw_0033,figure_title,paddleocr_colab_rec_texts,paddle_kept,0.9598,المادة
+page_0004,page_0004_raw_0024,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9593,يتضمن هذا القانون القواعد المختصة بالأعمال التجارية التي يقوم بها أي / شخص مهما كانت صفته القانونية ويتضمن من جهة أخرى الأحكام التي تطبق / على الأشخاص الذين اتخذوا التجارة مهنة
+page_0004,page_0004_raw_0028,paragraph_title,paddleocr_colab_rec_texts,paddle_kept,0.9832,المادة
+page_0004,page_0004_raw_0027,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9464,إذا انتفى النص من هذا القانون فتطبق على المواد التجارية أحكام القانون المدني / ـ على أن تطبق هذه الأحكام لا يكون إلأ على نسبة اتفاقها مع المبادئ المختصة / بالقانون التجاري والعرف التجاري
+page_0004,page_0004_raw_0031,paragraph_title,paddleocr_colab_rec_texts,paddle_kept,0.8875,المادة ٣
+page_0004,page_0004_raw_0025,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9393,إذا لم يوجد نص تشريعي يمكن تطبيقه، فللقاضي أن يسترشد بما استقر عليه / الاجتهاد القضائى وبمباديئ العدالة والإنصاف والاستقامة التجارية
+page_0004,page_0004_raw_0030,paragraph_title,easyocr,easyocr_preferred_for_small_article_or_number,0.9822,المادة
+page_0004,page_0004_raw_0026,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9451,١ على القاضي عند تحديد أثار العمل التجاري أن يطبق العرف المتوطد إلآإذا / ظهر أن المتعاقدين قصدوا مخالفة العرف أو كان العرف متعارضأً مع النصوص / التشريعية الإلزامية
+page_0004,page_0004_raw_0029,number,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.7917,3
+page_0005,page_0005_raw_0040,text,paddleocr_colab_rec_texts,paddle_kept,0.9173,٢ويعدّ العرف الخأص والعرف المحلي مرجحين على العرف العام
+page_0005,page_0005_raw_0041,paragraph_title,easyocr,easyocr_preferred_for_small_article_or_number,0.9719,المادة
+page_0005,page_0005_raw_0035,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9454,إن البورصات التجارية والمعارض والأسواق والمخازن العامة / والمستودعات وسائر المنشأت المُعدّة للتجارة تخضع على قدر الحاجة / لقوانين وأنظمة خاصة
+page_0005,page_0005_raw_0036,image,paddleocr_colab_rec_texts,paddle_kept,0.94,الثاز / الباب / الأعمال التجارية
+page_0005,page_0005_raw_0039,figure_title,paddleocr_colab_rec_texts,paddle_kept,0.8713,المادة٦
+page_0005,page_0005_raw_0038,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9512,ثُعدّ بحكم ماهيتها الذاتية أعمالاً تجارية / أ شراء المنقولات المادية وغير المادية لأجل بيعها بربح ما سواء بيعت على حالتها / أم بعد شغلها أو تحويلها / ب شراء تلك الأشياء المنقولة نفسها لأجل تأجيرها أو استثجارها لأجل تأجيرها / ثانية / جالبيع أو الاستئجار أو التأجير ثانية للأشياء المشتراة أو المستأجرة 
+page_0005,page_0005_raw_0043,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.8867,تعدّ بحكم ماهيتها الذاتية أعمالاً تجارية
+page_0005,page_0005_raw_0045,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9418,أـ شراء المنقولات المادية وغير المادية لأجل بيعها بربح ما سواء بيعت على حالتها / أم بعد شغلها أو تحويلها
+page_0005,page_0005_raw_0042,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.8782,ب شراء تلك الأشياء المنقولة نفسها لأجل تأجيرها أو استئجارها لأجل تأجيرها / ثانية / -
+page_0005,page_0005_raw_0044,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9606,جالبيع أو الاستئجار أو التأجير ثانية للأشياء المشتراة أو المستأجرة على الوجه / المبين فيما تقدم
+page_0005,page_0005_raw_0037,number,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.2692,.
+page_0006,page_0006_raw_0055,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9329,ك مشروع النشر / ل مشروع المخازن العامة / ممشروع المناجم والبترول / نمشروع الاشغال العقارية / سمشروع شراء العقارات لبيعها بربح / عمشروع وكالة اشغال / فـكل مشروع لإنشاء وشراء بواخر معدّة للملاحة الداخلية أو الخارجية، بقصد / استثمارها تجارياً أو بيعها وكل بيع للبواخر المشتراة على هذا الوجه / صـ جميع ال
+page_0006,page_0006_raw_0062,text,easyocr,easyocr_better_low_paddle,0.6859,ك - مشروع النشر
+page_0006,page_0006_raw_0060,text,paddleocr_colab_rec_texts,paddle_kept,0.9628,لـمشروع المخازن العامة
+page_0006,page_0006_raw_0065,text,paddleocr_colab_rec_texts,paddle_kept,0.931,ممشروع المناجم والبترول
+page_0006,page_0006_raw_0059,text,paddleocr_colab_rec_texts,paddle_kept,0.9589,نمشروع الاشغال العقارية
+page_0006,page_0006_raw_0058,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9313,س مشروع شراء العقارات لبيعها بربح
+page_0006,page_0006_raw_0061,text,paddleocr_colab_rec_texts,paddle_kept,0.9105,عمشروع وكالة اشغال
+page_0006,page_0006_raw_0056,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9529,فـكل مشروع لإنشاء وشراء بواخر مُعدّة للملاحة الداخلية أو الخارجية، بقصد / استثمارها تجارياً أو بيعها وكل بيع للبواخر المشتراة على هذا الوجه
+page_0006,page_0006_raw_0053,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9332,صـ جميع الإرساليات البحرية وكل عملية تتعلّق بها كالشراء أو بيع لوازمها من / حبال وأشرعة ومؤن
+page_0006,page_0006_raw_0054,text,easyocr,easyocr_better_low_paddle,0.8003,ث - إجارة / السفن / أو التزام النقل عليها والإقراض أو الاستقراض البحريء
+page_0006,page_0006_raw_0057,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9587,خوسائر العقود المختصة بالتجارة البحرية كالاتفاقات والمقاولات على أجور البحار / وبدل خدمتهم واستخدامهم للعمل على بواخر تجارية
+page_0006,page_0006_raw_0063,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9884,وبدل خدمتهم واستخدامهم للعمل على بواخر تجارية
+page_0006,page_0006_raw_0049,paragraph_title,easyocr,easyocr_preferred_for_small_article_or_number,0.9864,المادة
+page_0006,page_0006_raw_0048,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9517,وتُعدّ كذلك من الأعمال التجارية بحكم ماهيتها الذاتية، الأعمال التي يمكن / اعتبارها مجانسة للأعمال المتقدمة لتشابه صفاتها وغاياتها
+page_0006,page_0006_raw_0050,paragraph_title,easyocr,easyocr_preferred_for_small_article_or_number,0.9977,المادة
+page_0006,page_0006_raw_0064,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9628,١جميع الأعمال التي يقوم بها التاجر لحاجات تجارته ثعدّ تجارية أيضاً في نظر / القانون / ٢وعند قيام الشك، ثُعدّ أعمال التأجير صادرة منه لهذه الغاية إلآ إذا ثبت / العكس
+page_0006,page_0006_raw_0052,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9724,جميع الأعمال التي يقوم بها التاجر لحاجات تجارته ثعّ تجارية أيضاً في نظر / القانون
+page_0006,page_0006_raw_0051,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.974,٢وعند قيام الشك، ثُعدّ أعمال التأجير صادرة منه لهذه الغاية إلآ إذا ثبت / العكس
+page_0006,page_0006_raw_0046,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.533,L
+page_0006,page_0006_raw_0047,number,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.8425,7
+page_0007,page_0007_raw_0071,header,paddleocr_colab_rec_texts,paddle_kept,0.7299,ا / اي
+page_0007,page_0007_raw_0073,text,paddleocr_colab_rec_texts,paddle_kept,0.9515,التجار
+page_0007,page_0007_raw_0076,text,paddleocr_colab_rec_texts,paddle_kept,0.8848,الفصل الأول
+page_0007,page_0007_raw_0072,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9214,الفصل الأول / التجار على وجه عام والأهلية المطلوبة للاتجار / المادة ٩
+page_0007,page_0007_raw_0074,text,easyocr,easyocr_preferred_for_small_article_or_number,0.9929,المادة
+page_0007,page_0007_raw_0069,text,easyocr,easyocr_preferred_for_small_article_or_number,0.6784,"ا - التجار هم / أ- الأشخاص الذين تكون مهنتهم القيام بأعمال تجارية. / ب- الشركات التي يكون موضوعها تجارياً. / ٢- الشركات التي يكون موضوعها مدنيا ولكنها اتخذت صفة الشركات المساهمة أو / الشركات المحدودة المسؤولية فتخضع لجميع التزامات التجارالمعينة في الفصلين / الثاني / والثالث / الآتيين , / ولأحكام الص"
+page_0007,page_0007_raw_0075,figure_title,easyocr,easyocr_preferred_for_small_article_or_number,0.9953,المادة
+page_0007,page_0007_raw_0066,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9544,إن الأفراد الذين يتعاطون تجارة صغيرة أو حرفة بسيطة ذات نفقات عامة / زهيدة بحيث يعتمدون في الغالب على مساعيهم البدنية للحصول على أرباح قليلة / لتأمين معيشهم أكثر من استادهم إلى رأس ما لهم النقدي، كالبائع الطواف أو البائع / بالمياومة أو الذين يقومون بنقليات صغيرة على البر أو سطح الماء، لا يخضعون / للو
+page_0007,page_0007_raw_0070,paragraph_title,easyocr,easyocr_preferred_for_small_article_or_number,0.9981,المادة
+page_0007,page_0007_raw_0067,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9391,كل من أعلن في الصحف أو النشرات أو أي واسطة أخرى عن نفسه كتاجر / أو عن المحل الذي أسسه أو يستثمره للاشتغال بالمعاملات التجارية يُعدّ تاجراً وإن / لم يتخذ التجارة مهنة مألوفة له
+page_0007,page_0007_raw_0068,number,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.658,V
+page_0008,page_0008_raw_0084,paragraph_title,paddleocr_colab_rec_texts,paddle_kept,0.9104,المادة١
+page_0008,page_0008_raw_0077,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.8896,لا يُعدّ تاجراً من قام بمعاملة تجارية عرضاً إلآأن المعاملة تكون خاضعة / لأحكام قانون التجارة
+page_0008,page_0008_raw_0080,paragraph_title,paddleocr_colab_rec_texts,paddle_kept,0.8559,المادة ١٣
+page_0008,page_0008_raw_0094,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9536,١لا ثعدّ الدولة ودوائرها ولا الوحدات الإدارية واللجان والنوادي والجمعيات ذات / الشخصية الاعتبارية من التجار وإن قامت بمعاملات تجارية، إلآ أن معاملاتها / المذكورة تكون خاضعة لأحكام قانون التجارة / تعتبر المؤسسات العامة وشركات القطاع العام والمشترك تاجراً، إذا كان موضوعها / تجارياً أو منحها القانون هذ
+page_0008,page_0008_raw_0079,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9395,١لا ثعدّ الدولة ودوائرها ولا الوحدات الإدارية واللجان والنوادي والجمعيات ذات / الشخصية الاعتبارية من التجار وإن قامت بمعاملات تجارية، إلآ أن معاملاتها / المذكورة تكون خاضعة لأحكام قانون التجارة
+page_0008,page_0008_raw_0081,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9261,٢ـ تعتبر المؤسسات العامة وشركات القطاع العام والمشترك تاجراً، إذا كان موضوعها / تجارياً أو منحها القانون هذه الصفة
+page_0008,page_0008_raw_0095,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9814,تجارياً أو منحها القانون هذه الصفة
+page_0008,page_0008_raw_0082,paragraph_title,paddleocr_colab_rec_texts,paddle_kept,0.9159,المادة ٤
+page_0008,page_0008_raw_0078,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9533,إذا اشتغل العاملون في الدولة الممنوعون من الاتجار قانوناً بالمعاملات / التجارية، فتشملهم الأحكام القانونية المتعلقة بالصلح الواقى والإفلاس
+page_0008,page_0008_raw_0092,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.8801,المادة ٥ / تخضع الأهلية التجارية لأحكام القانون المدني وللأحكام الخاصة بالتجار
+page_0008,page_0008_raw_0087,paragraph_title,paddleocr_colab_rec_texts,paddle_kept,0.8668,المادة١٥
+page_0008,page_0008_raw_0086,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9686,تخضع الأهلية التجارية لأحكام القانون المدني وللأحكام الخاصة بالتجار
+page_0008,page_0008_raw_0091,paragraph_title,easyocr,easyocr_preferred_for_small_article_or_number,0.9776,الفصل / الثاني
+page_0008,page_0008_raw_0089,paragraph_title,paddleocr_colab_rec_texts,paddle_kept,0.9669,التجارة / دفاتر
+page_0008,page_0008_raw_0090,paragraph_title,paddleocr_colab_rec_texts,paddle_kept,0.9673,المادة
+page_0008,page_0008_raw_0088,text,easyocr,easyocr_better_low_paddle,0.725,التاجر / ا - على / أن ينظم على الأقلآ الدفترين الإجباريين التاليين :
+page_0008,page_0008_raw_0085,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9458,أ دفتر اليومية يقيد فيه يوماً فيوماً جميع الأعمال التي تعود بوجه من الوجوه / إلى مؤسسته التجارية وأن يقيد بالجملة شهراً فشهراً النفقات التي أنفقها على / نفسه وأسرته وإذا كان التاجر يتبع الأسلوب الآلى فى محاسبته أو مسك / الدفاتر يومية مساعدة منظمة وفق أحكام المادتين ١٧و١٨ من هذا
+page_0008,page_0008_raw_0093,text,paddleocr_colab_rec_texts,paddle_kept,0.907,الدفاتر يومية مساعدة منظمة وفق أحكام المادتين ١٧و١٨ من هذا
+page_0008,page_0008_raw_0083,number,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.2798,٨
+page_0009,page_0009_raw_0112,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.8291,القانون، فله أن يقيد أعماله فى دفتر اليومية شهراً فشهراً، على أن يحتفظ / بجميع الوثائق التي تتيح التدقيق في الأعمال المذكورة / ب دفتر جرد يتضمن جرداً سنوياً للموجودات والمطاليب العائدة لمؤسسته وأن / يوقف حساباته سنوياً ليضع على أساسها الميزانية وحساب الأرباح والخسائر / وينسخها في دفتر الجرد / وعليه 
+page_0009,page_0009_raw_0103,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9547,القانون، فله أن يقيد أعماله فى دفتر اليومية شهراً فشهراً، على أن يحتفظ / بجميع الوثائق التي تتيح التدقيق في الأعمال المذكورة
+page_0009,page_0009_raw_0109,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.953,القانون، فله أن يقيد أعماله فى دفتر اليومية شهراً فشهراً، على أن يحتفظ / بجميع الوثائق التي تتيح التدقيق في الأعمال المذكورة / بدفتر جرد يتضمن جرداً سنوياً للموجودات والمطاليب العائدة لمؤسسته وأن / يوقف حساباته سنوياً ليضع على أساسها الميزانية وحساب الأرباح والخسائر / وينسخها في دفتر الجرد / وعليه أ
+page_0009,page_0009_raw_0111,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9497,القانون، فله أن يقيد أعماله فى دفتر اليومية شهراً فشهراً على أن يحتفظ
+page_0009,page_0009_raw_0114,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9762,بجميع الوثائق التي تتيح التدقيق في الأعمال المذكورة
+page_0009,page_0009_raw_0104,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9466,بدفتر جرد يتضمن جرداً سنوياً للموجودات والمطاليب العائدة لمؤسسته وأن / يوقف حساباته سنوياً ليضع على أساسها الميزانية وحساب الأرباح والخسائر / وينسخها في دفتر الجرد
+page_0009,page_0009_raw_0102,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9626,وعليه أن يحفظ ويرتب المراسلات التي يتلقاها وصور المراسلات التي / يرسلها
+page_0009,page_0009_raw_0107,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9573,٣يجب تتظيم دفتري اليومية والجرد باللغة العربية ولوزير الاقتصاد والتجارة أن / يعفي من هذا الشرط المؤسسات الأجنبية التي يحددها بقرار منه
+page_0009,page_0009_raw_0113,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9738,يعفي من هذا الشرط المؤسسات الأجنبية التي يحددها بقرار منه
+page_0009,page_0009_raw_0097,paragraph_title,easyocr,easyocr_preferred_for_small_article_or_number,0.997,المادة
+page_0009,page_0009_raw_0098,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9538,يجب أن تنظم الدفاتر التجارية الإجبارية بحسب التاريخ وبلا بياض ولا فراغ / ولا نقل إلى الهامش ولا محو ولا تحشية بين السطور
+page_0009,page_0009_raw_0100,paragraph_title,paddleocr_colab_rec_texts,paddle_kept,0.9161,المادة٨
+page_0009,page_0009_raw_0101,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9503,يجب ترقيم الدفاتر المذكورة والتأشير عليها وتوقيعها من رئيس محكمة البداية / المدنية أو من قاضي الصلح في المدن التي لا توجد فيها محكمة بداية
+page_0009,page_0009_raw_0099,paragraph_title,easyocr,easyocr_preferred_for_small_article_or_number,0.8589,المادة / ٩
+page_0009,page_0009_raw_0105,formula,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9377,١يجب على التاجر أن يحفظ الدفاتر بعد اختتامها مدّة عشر سنوات / ٢للمؤسسات التجارية التى يعينها وزير الاقتصاد والتجارة أن تحتفظ للمدّة المذكورة / في الفقرة السابقة بالصورة بأية وسيلة إلكترونية تعتمدها وزارة الاقتصاد والتجارة / بدلاأ من الأصل وتكون للصورة حجية الأصل فى الإثبات
+page_0009,page_0009_raw_0110,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9636,يجب على التاجر أن يحفظ الدفاتر بعد اختتامها مدّة عشر سنوات
+page_0009,page_0009_raw_0108,paragraph_title,easyocr,easyocr_preferred_for_small_article_or_number,0.9893,المادة
+page_0009,page_0009_raw_0106,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9563,لا ثسلّم الدفاتر بكاملها إلى القضاء إلآ في أحوال الإرث وقسمة الأموال / المشتركة والشركة والصلح الواقي والإفلاس
+page_0009,page_0009_raw_0096,number,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.6758,4
+page_0010,page_0010_raw_0130,text,none,both_empty,,
+page_0010,page_0010_raw_0124,paragraph_title,paddleocr_colab_rec_texts,paddle_kept,0.8774,المادة٢١
+page_0010,page_0010_raw_0123,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9351,فيما عدا الأحوال المذكورة في المادة السابقة يمكن على الدوام عرض الدفاتر / التجارية أو المطالبة بإبرازها لاستخلاص ما يتعلّق منها بالنزاع / وللقاضى أن يأمر من تلقاء نفسه الدفاتر المذكورة للغاية ذاتها
+page_0010,page_0010_raw_0129,text,paddleocr_colab_rec_texts,paddle_kept,0.9154,٢ـوللقاضى أن يأمر من تلقاء نفسه الدفاتر المذكورة للغاية ذاتها
+page_0010,page_0010_raw_0118,paragraph_title,easyocr,easyocr_preferred_for_small_article_or_number,0.9598,المادة
+page_0010,page_0010_raw_0115,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9647,يمكن للتجار مسك حساباتهم إلكترونياً وفقا للتعليمات التنفيذية التي تصدر / عن وزارة الاقتصاد والتجارة
+page_0010,page_0010_raw_0128,text,paddleocr_colab_rec_texts,paddle_kept,0.9878,الفصل الثالث
+page_0010,page_0010_raw_0127,paragraph_title,paddleocr_colab_rec_texts,paddle_kept,0.957,التجارة / سجل
+page_0010,page_0010_raw_0125,paragraph_title,paddleocr_colab_rec_texts,paddle_kept,0.9305,المادة ٢٣
+page_0010,page_0010_raw_0131,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9383,سجل التجارة يمكن الجمهور من الحصول على المعلومات الوافية عن كل / المؤسسات التجارية التي تعمل في سورية / ٢وهو أيضاً أداة للشهر يقصد بها جعل من درجاته نافذة في حق الغير عند وجود / نص قانوني صريح بهذا المعنى
+page_0010,page_0010_raw_0122,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9612,سجل التجارة يمكن الجمهور من الحصول على المعلومات الوافية عن كل / المؤسسات التجارية التي تعمل في سورية
+page_0010,page_0010_raw_0126,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.945,٢ـوهو أيضاً أداة للشهر يقصد بها جعل من درجاته نافذة في حق الغير عند وجود / نص قانوني صريح بهذا المعنى
+page_0010,page_0010_raw_0121,paragraph_title,easyocr,easyocr_preferred_for_small_article_or_number,0.9478,المادة ٤
+page_0010,page_0010_raw_0119,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9563,١ينظم لدى وزارة الاقتصاد والتجارة سجل خاص بفروع المؤسسات التجارية / والشركات التي يوجد مركزها خارج سورية
+page_0010,page_0010_raw_0116,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9543,٢ينظم لدى وزارة الاقتصاد والتجارة فى كل محافظة سجل لتسجيل أسماء التجار / والشركات التجارية والشركات المدنية وباقي المؤسسات التجارية يُطّلق عليها / سجل التجارة
+page_0010,page_0010_raw_0117,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9461,يتولى مسك السجل موظف يُطلق عليه أمين سجل التجارة وعليه أن يباشر / وظيفته أن يحلف اليمين أمام محكمة البداية المدنية، على أن يقوم بوظيفته / بشرف وأمانة
+page_0010,page_0010_raw_0120,number,none,both_empty,,
+page_0011,page_0011_raw_0132,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9473,تسجل أسماء التجار الذي تكون متاجرهم الرئيسية في سورية، مهما كانت / جنسيتهم
+page_0011,page_0011_raw_0134,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.945,المادة ٢٥ / ١يجب على كل تاجر أن يطلب من أمين سجل التجارة في المحافظة التي يوجد / فيها مركزه الرئيسي أن يسجل اسمه في سجل التجارة في خلال شهر واحد من / تاريخ فتح المحل أو شرائه / على التاجر أن يقدم تصريحاً في نسختين موقعتين منه يذكر فيه ما يلي / أ-اسمه ونسبته / باسمه التجاري إذا اختلف عن اسمه وعنوانه 
+page_0011,page_0011_raw_0135,paragraph_title,easyocr,easyocr_preferred_for_small_article_or_number,0.9896,المادة
+page_0011,page_0011_raw_0133,number,none,both_empty,,
+page_0012,page_0012_raw_0140,paragraph_title,paddleocr_colab_rec_texts,paddle_kept,0.9171,المادة٢٦
+page_0012,page_0012_raw_0142,formula,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.936,المادة٦ / ١يجب أن يذكر في سجل التجارة / أـ كل تعديل يتعلّق بالأمور التي تقضي المادة السابقة بقيدها في السجل / بشهادات الاختراع التي يستثمرها التاجر والعلامات التي يستعملها للمصنع / أو التجارة / جالأحكام والقرارات القاضية بتعيين وصيّ عليه أو قيّم أو مساعد قضائي / للتاجر المسجل أو بالحجر عليه أو برفع 
+page_0012,page_0012_raw_0137,formula,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9475,١يجب أن يذكر في سجل التجارة / أـ كل تعديل يتعلّق بالأمور التي تقضي المادة السابقة بقيدها في السجل / بشهادات الاختراع التي يستثمرها التاجر والعلامات التي يستعملها للمصنع / أو التجارة / جالأحكام والقرارات القاضية بتعيين وصيّ عليه أو قيم أو مساعد قضائي / للتاجر المسجل أو بالحجر عليه أو برفع هذه التدابي
+page_0012,page_0012_raw_0139,paragraph_title,easyocr,easyocr_preferred_for_small_article_or_number,0.9816,المادة
+page_0012,page_0012_raw_0141,reference_content,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9693,إن الشركات التي يكون مركزها الرئيسي في سورية مهما كانت جنسيتها، يجب / تسجيلها في سجل التجارة المختص بمنطقة مركزها الرئيسي، ويجب على / مديريها وأعضاء مجلس إدارتها أن يطلبوا التسجيل في خلال الشهر الذي يلي / تأسيسها
+page_0012,page_0012_raw_0138,reference_content,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9427,٢حويقدم طالبو التسجيل إلى أمين سجل التجارة صورة مصدقة عن صك تأسيس / الشركة أو نظامها الأساسي وخلاصة لهذا الصك أو النظام مُعدّة للشهر ومنظمة / على نسختين ومشتملة على الطوابع وعلى تواقيع طالبي التسجيل ومتضمنه / بوجه خاص البيانات الآتية
+page_0012,page_0012_raw_0136,number,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.8189,١
+page_0013,page_0013_raw_0147,reference,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9551,أ اسم ونسبة كل من الشركاء ما عدا المساهمين وجنسية كل منهم موضحة / وفقاً لما ورد في الفقرة د من المادة ٢٥وتاريخ ولادته ومحلها / باسم الشركة التجاري أو عنوانها / جموضوع الشركة / د الأماكن التي فيها مركز الشركة أو فروعها ومتاجرها في سورية أو خارجها / هـأسماء الشركاء أو غير المرخص لهم بإدارة الشركة وتدب
+page_0013,page_0013_raw_0144,formula,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9525,أ اسم ونسبة كل من الشركاء ما عدا المساهمين وجنسية كل منهم موضحة / وفقاً لما ورد في الفقرة د من المادة ٢٥وتاريخ ولادته ومحلها / باسم الشركة التجاري أو عنوانها / جموضوع الشركة / د الأماكن التي فيها مركز الشركة أو فروعها ومتاجرها في سورية أو خارجها / هأسماء الشركاء أو غير المرخص لهم بإدارة الشركة وتدبي
+page_0013,page_0013_raw_0145,paragraph_title,easyocr,easyocr_preferred_for_small_article_or_number,0.9918,المادة
+page_0013,page_0013_raw_0149,formula,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9526,يجب أن يذكر أيضاً فى سجل التجارة / ١كل تعديل يختص بالأمور واجب تسجيلها أو الوثائق الواجب إيداعها بمقتضى / المادة السابقة / ٢الاسم والنسبة وتاريخ الولادة ومحلها والجنسية لكل من مديري الشركة وأعضاء / مجلس إدارتها ومديريها المعينين لمدّة وجودها أما طلب التسجيل فيقدمه المديرون / وأعضاء مجلس الإدارة القا
+page_0013,page_0013_raw_0148,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9569,الاسم والنسبة وتاريخ الولادة ومحلها والجنسية لكل من مديري الشركة وأعضاء / مجلس إدارتها ومديريها المعينين لمدّة وجودها أما طلب التسجيل فيقدمه المديرون / وأعضاء مجلس الإدارة القائمون بوظائفهم في وقت وجوب التسجيل
+page_0013,page_0013_raw_0146,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9703,الشركات التجارية المؤسسة خارج الأراضي السورية ولها فروع أو وكالات في / سورية وكذلك التجار الذين لهم مركز رئيسي في الخارج وفروع أو وكالات في سورية / مهما كانت جنسيتهم
+page_0013,page_0013_raw_0143,number,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.7999,١٣
+page_0014,page_0014_raw_0161,paragraph_title,easyocr,easyocr_preferred_for_small_article_or_number,0.9964,المادة / ٢٩
+page_0014,page_0014_raw_0150,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9665,يخضع تسجيل مثل تلك الفروع أو الوكالات لأحكام القانون الخاص بتسجيلها / في سورية
+page_0014,page_0014_raw_0158,paragraph_title,paddleocr_colab_rec_texts,paddle_kept,0.8966,الشركات المدنية
+page_0014,page_0014_raw_0162,paragraph_title,easyocr,easyocr_preferred_for_small_article_or_number,0.9516,المادة / ٣
+page_0014,page_0014_raw_0152,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9437,١يحدث فى أمانة سجل التجارة سجل خاص بالشركات المدنية التي يقع / مركزها الرئيسي في المحافظة تسجل فيه الشركات وفق أحكام المادتين ٢٧ / و٢٨من هذا القانون باستثناء ما يتوقف العمل به على الصفة التجارية / للشركة
+page_0014,page_0014_raw_0156,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9413,٢ تسجل الشركات المدنية التي يقع مركزها خارج سورية أو لها فرع أو وكالة في / سجل خاص تابع لسجل الفروع والوكالات العائدة للمؤسسات أو الشركات القائمة / خارج سورية وذلك وفق القانون الخاص بها
+page_0014,page_0014_raw_0153,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9547,٣ـ على الشركات المذكورة في الفقرتين السابقتين تسجيل نفسها في السجل المذكور / وإيداع صك تأسيسها ونظامها الأساسي ديوان محكمة البداية في مركزها إذا / أرادت الاحتجاج بشخصيتها الإعتبارية حيال الغير
+page_0014,page_0014_raw_0157,paragraph_title,paddleocr_colab_rec_texts,paddle_kept,0.911,المادة٣
+page_0014,page_0014_raw_0155,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9529,إذا توفي تاجر أو انقطع عن تعاطى تجارته أو إذا انحلّت إحدى الشركات وجب / شطب التسجيل المختص بهما فى سجل التجارة
+page_0014,page_0014_raw_0160,text,paddleocr_colab_rec_texts,paddle_kept,0.9355,٢ويجري هذا الشطب مباشرة بمقتضى قرار يصدره أمين سجل التجارة
+page_0014,page_0014_raw_0159,paragraph_title,paddleocr_colab_rec_texts,paddle_kept,0.9031,المادة ٣٢
+page_0014,page_0014_raw_0151,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9454,١كل قيد فى سجل التجارة لم يحدد له ميعاد فى المواد السابقة يجب طلب إجرائه / في خلال شهر يبتدئ من تاريخ الوثيقة أو العمل الذي يراد قيده / أما الأحكام والقرارات فيبتدى ميعادها من يوم صدورها
+page_0014,page_0014_raw_0163,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9677,أما الأحكام والقرارات فيبتدئ ميعادها من يوم صدورها
+page_0014,page_0014_raw_0154,number,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.6798,3
+page_0015,page_0015_raw_0185,header,none,both_empty,,
+page_0015,page_0015_raw_0167,paragraph_title,easyocr,easyocr_preferred_for_small_article_or_number,0.9974,المادة ٣٣
+page_0015,page_0015_raw_0166,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9494,إن جميع التسجيلات والقيود في سجل التجارة تجري بعد تصريح يقدم وفاقاً / للصيغ التي نص عليها
+page_0015,page_0015_raw_0169,paragraph_title,easyocr,easyocr_preferred_for_small_article_or_number,0.9981,المادة / ٣٤
+page_0015,page_0015_raw_0164,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.941,على أمين سجل التجارة أن يرفض إجراء القيود المطلوبة إذا تبين له أن / التصريحات المقدمة لا تشتمل على كل البيانات المنصوص عليها أو كانت تتعارض / مع الوثائق الثبوتية المرفقة بها أو مع أحكام القانون
+page_0015,page_0015_raw_0170,paragraph_title,paddleocr_colab_rec_texts,paddle_kept,0.8743,المادة ٣٥
+page_0015,page_0015_raw_0184,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.946,١يجوز لكل شخص أن يطلب إعطاءه نسخة عن القيود المدرجة في السجل مقابل
+page_0015,page_0015_raw_0175,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9455,يجوز لكل شخص أن يطلب إعطاءه نسخة عن القيود المدرجة فى السجل مقابل / رسم يحدد من الوزير المختص / ٢ولأمين السجل عند الإقتضاء أن يعطى شهادة بعدم وجود قيود / ٣ويصدّق أمين السجل مطابقة النسخ للأصل
+page_0015,page_0015_raw_0182,text,paddleocr_colab_rec_texts,paddle_kept,0.9385,رسم يحدد من الوزير المختص
+page_0015,page_0015_raw_0181,text,paddleocr_colab_rec_texts,paddle_kept,0.944,٢ـولأمين السجل عند الإقتضاء أن يعطي شهادة بعدم وجود قيود
+page_0015,page_0015_raw_0179,text,paddleocr_colab_rec_texts,paddle_kept,0.9352,٣ـويصدّق أمين السجل مطابقة النسخ للأصل
+page_0015,page_0015_raw_0172,paragraph_title,paddleocr_colab_rec_texts,paddle_kept,0.8902,المادة٣٦
+page_0015,page_0015_raw_0178,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9428,لا يجوز أن يذكر في النسخ التي يسلمها أمين السجل
+page_0015,page_0015_raw_0176,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.8446,لا يجوز أن يذكر في النسخ التي يسلمها أمين السجل / الأحكام المعلنة للإفلاس إذا كان المفلس قد استرد اعتباره / s / الأحكام القاضية بالحجر أو تعيين مساعد قضائى إذا كان قد صدر القرار برفع / الحجر أو المساعدة القضائية
+page_0015,page_0015_raw_0180,text,easyocr,easyocr_better_low_paddle,0.7371,١ - الأحكام المعلنة للإفلاس إذا / كان / المفلس قد استرد اعتبار
+page_0015,page_0015_raw_0177,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9392,ـ الأحكام القاضية بالحجر أو تعيين مساعد قضائي إذا كان قد صدر القرار برفع / الحجر أو المساعدة القضائية
+page_0015,page_0015_raw_0183,text,paddleocr_colab_rec_texts,paddle_kept,0.9356,الحجر أو المساعدة القضائية
+page_0015,page_0015_raw_0174,paragraph_title,easyocr,easyocr_preferred_for_small_article_or_number,0.9978,المادة ٣٧
+page_0015,page_0015_raw_0165,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9595,كل تاجر وكل شركة ملزمين بالتسجيل يجب عليهما أن يذكرا المكان الذي / سجلا فيه ورقم هذا التسجيل في مراسلاتهما وفواتيرهما ومذكرات التسليم والتعريفات / والمنشورات وسائر الأوراق الصادرة عنهما
+page_0015,page_0015_raw_0171,paragraph_title,easyocr,easyocr_preferred_for_small_article_or_number,0.9909,المادة ٣٨
+page_0015,page_0015_raw_0173,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9368,١ـكل تاجر وكل شخص يكلف بإدارة شركة لا يطلب في المراعيد المنصوص / عليها إجراء القيود الإجبارية أو لايذكر ما يجب ذكره على المراسلات أو الفواتير
+page_0015,page_0015_raw_0168,number,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.5534,١
+page_0016,page_0016_raw_0192,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9024,وغيرها من الأوراق الصادرة عن محله يعاقب بغرامة تتراوح بين ١٠٠٠٠ / عشرة آلاف و٥٠٠٠٠ وخمسين ألف ليرة سورية
+page_0016,page_0016_raw_0199,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9404,وغيرها من الأوراق الصادرة عن محله يعاقب بغرامة تتراوح بين ١٠٠٠٠ / عشرة آلاف و٥٠٠ وخمسين ألف ليرة سورية / ٢ـتحكم بهذه الغرامة محكمة البداية المدنية بناءَ على طلب أمين سجل التجارة أو / النيابة العامة بعد سماع أقوال صاحب الشأن أو دعوته بحسب الأصول / ٣ـوإذا لم يجر المحكوم عليه أثناء القيد فى أثناء هذا ا
+page_0016,page_0016_raw_0198,text,easyocr,easyocr_better_low_paddle,0.8316,٢- تحكم بهذه الغرامة محكمة البداية المدنية بناء على طلب / أمين / سجل التجارة أو / النيابة العامة بعد سماع أقوال صاحب الشأن أو دعوته بحسب / الأصول .
+page_0016,page_0016_raw_0201,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9514,النيابة العامة بعد سماع أقوال صاحب الشأن أو دعوته بحسب الأصول
+page_0016,page_0016_raw_0200,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.7652,٣ـوإذا لم يجر المحكوم عليه أثناء القيد فى أثناء هذا الميعاد يحكم بغرامة جديدة / ± / ٤–أما أمناء السجل الذين لا يعملون بمقتضى هذه الأحكام فيخضعون للعقوبات / المسلكية المنصوص عليها في القانون الأساسي للعاملين في الدولة
+page_0016,page_0016_raw_0202,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.963,المسلكية المنصوص عليها في القانون الأساسي للعاملين في الدولة
+page_0016,page_0016_raw_0193,paragraph_title,paddleocr_colab_rec_texts,paddle_kept,0.8564,المادة ٣٩
+page_0016,page_0016_raw_0204,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9509,١ـكل بيان غير صحيح يقدم عن سوع نية للتسجيل أو للقيد فى سجل التجارة / يعاقب مقدمه بغرامة تتراوح بين ١٠٠٠ ألف و٥٠٠٠ خمسة لاف ليرة / سورية وبالحبس من شهر واحد إلى ستة أشهر، أو بإحدى هاتين العقوبتين / ولا يحول ذلك دون العقوبات التى يمكن الحكم بها وفاقاً للقوانين الخاصة ولقانون / العقوبات من أجل الجرائم 
+page_0016,page_0016_raw_0197,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9506,١كل بيان غير صحيح يقدم عن سوء نية للتسجيل أو للقيد في سجل التجارة / يعاقب مقدمه بغرامة تتراوح بين ١٠٠٠ ألف و٥٠٠٠خمسة آلاف ليرة / سورية وبالحبس من شهر واحد إلى ستة أشهر، أو بإحدى هاتين العقوبتين / ولا يحول ذلك دون العقوبات التى يمكن الحكم بها وفاقاً للقوانين الخاصة ولقانون / العقوبات من أجل الجرائم ا
+page_0016,page_0016_raw_0194,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9312,١ـكل بيان غير صحيح يقدم عن سوء نية للتسجيل أو للقيد في سجل التجارة / يعاقب مقدمه بغرامة تتراوح بين ١٠٠٠ ألف و٥٠٠٠ خمسة آلاف ليرة / سورية وبالحبس من شهر واحد إلى ستة أشهر، أو بإحدى هاتين العقوبتين
+page_0016,page_0016_raw_0196,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9471,٢ـولا يحول ذلك دون العقوبات التى يمكن الحكم بها وفاقاً للقوانين الخاصة ولقانون / العقوبات من أجل الجرائم الناشئة عن البيان غير الصحيح
+page_0016,page_0016_raw_0195,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9587,٣وللمحكمة الجزائية التي تصدر الحكم أن تأمر بتصحيح البيان المشار إليه على / الوجه الذي تعينه
+page_0016,page_0016_raw_0188,paragraph_title,easyocr,easyocr_preferred_for_small_article_or_number,0.8588,المادة / ٤
+page_0016,page_0016_raw_0203,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9542,١البيانات المسجلة سواء أكانت اختيارية أم إجبارية، تعتبر نافذة في حق الغير / اعتباراً من تاريخ تسجيلها / ٢ـولا يحول تطبيق العقوبات المقدمة دون نفاذ القاعدة المنصوص عليها بالفقرة / السابقة
+page_0016,page_0016_raw_0189,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.934,١البيانات المسجلة سواء أكانت اختيارية أم إجبارية، تعتبر نافذة في حق الغير / اعتباراً من تاريخ تسجيلها
+page_0016,page_0016_raw_0191,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9416,٢ولا يحول تطبيق العقوبات المقدمة دون نفاذ القاعدة المنصوص عليها بالفقرة / السابقة
+page_0016,page_0016_raw_0190,paragraph_title,easyocr,easyocr_preferred_for_small_article_or_number,0.9849,المادة
+page_0016,page_0016_raw_0186,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9445,كل شخص طبيعي أو اعتباري يدعي بصفته التجارية أمام المحاكم أو يراجع / لمصلحته بالصفة ذاتها الدوائر الإدارية أو المؤسسات العامة، لا يسمح ادعاؤه ولا / تقبل مراجعته ما لم يكن مسجلاً في سجل التجارة
+page_0016,page_0016_raw_0187,number,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.647,١٧
+page_0017,page_0017_raw_0210,paragraph_title,paddleocr_colab_rec_texts,paddle_kept,0.8926,المادة ٤٢
+page_0017,page_0017_raw_0205,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9549,١ تفصل محكمة البداية المدنية في المحافظة التي يوجد فيها سجل التجارة، في / كل خلاف يقع بين أمين سجل التجارة وأصحاب العلاقة، بقرار يتخذ في غرفة / المذاكرة، وعليها إصدار قرارها خلال شهر من تاريخ الادعاء
+page_0017,page_0017_raw_0206,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9436,٢يخضع قرار محكمة البداية المدنية للطعن بطريق الاستئناف وعلى محكمة / الاستئناف أن تفصل فيه بصورة نهائية وبقرار غير قابل للطعن يصدر خلال / ثلاثة أشهر من تاريخ تقديم الطعن
+page_0017,page_0017_raw_0211,image,easyocr,easyocr_better_low_paddle,0.9191,الباب / الربع / المتجر / الفصل الأول / مفهوم / المتجر / المادة / ٤٣
+page_0017,page_0017_raw_0215,text,paddleocr_colab_rec_texts,paddle_kept,0.9981,المتجر
+page_0017,page_0017_raw_0214,figure_title,easyocr,easyocr_preferred_for_small_article_or_number,0.9863,المادة ٤٣
+page_0017,page_0017_raw_0208,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9446,المتجر مجموعة عناصر مادية وغير مادية تهدف إلى مارسة مهنة تجارية / يشتمل المتجر مبدئياً على الاسم التجاري والعنوان التجاري والشعار وحق / الاتصال بالزيائن وحق الاستئجار المنصوص عليه فى قوانين الإيجار الخاصة / وتعديلاتهاء، والتجهيزات والعدد الصناعية والأثاث والبراءات والإجازات والرسوم / والنماذج، ما لم
+page_0017,page_0017_raw_0212,figure_title,paddleocr_colab_rec_texts,paddle_kept,0.9575,المادة ٤٤
+page_0017,page_0017_raw_0209,text,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.9421,١إن حقوق صاحب المتجر على مختلف عناصره تتظمها القوانين الخاصة بهذه / العناصر والمبادي الحقوقية العامة / أما المتجر كمجموعة فيخضع لأحكام هذا القانون
+page_0017,page_0017_raw_0213,text,paddleocr_colab_rec_texts,paddle_kept,0.9556,٢ـأما المتجر كمجموعة فيخضع لأحكام هذا القانون
+page_0017,page_0017_raw_0207,number,paddleocr_colab_rec_texts,paddle_only_or_easy_not_run,0.6945,١٧

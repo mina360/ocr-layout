@@ -1,0 +1,2989 @@
+[
+  {
+    "page": "page_0003",
+    "page_number": 3,
+    "width": 1297,
+    "height": 1800,
+    "page_number_candidates": [
+      {
+        "box": {
+          "box_id": "page_0003_raw_0014",
+          "page": "page_0003",
+          "page_number": 3,
+          "label": "text",
+          "bbox": [
+            404,
+            1588,
+            544,
+            1627
+          ],
+          "text": "",
+          "layout_score": 0.30760666728019714,
+          "ocr_score": null,
+          "crop_path": null,
+          "source": {
+            "page": "page_0003",
+            "label": "text",
+            "cls_id": "2",
+            "score": "0.30760666728019714",
+            "x1": "404.343017578125",
+            "y1": "1588.7166748046875",
+            "x2": "544.1790771484375",
+            "y2": "1627.5609130859375",
+            "width": "139.8360595703125",
+            "height": "38.84423828125"
+          }
+        },
+        "reading_order": 22,
+        "is_page_number_candidate": true,
+        "is_noise_candidate": false
+      },
+      {
+        "box": {
+          "box_id": "page_0003_raw_0001",
+          "page": "page_0003",
+          "page_number": 3,
+          "label": "number",
+          "bbox": [
+            802,
+            1780,
+            819,
+            1800
+          ],
+          "text": "",
+          "layout_score": 0.8211987018585205,
+          "ocr_score": null,
+          "crop_path": null,
+          "source": {
+            "page": "page_0003",
+            "label": "number",
+            "cls_id": "3",
+            "score": "0.8211987018585205",
+            "x1": "802.9467163085938",
+            "y1": "1780.2275390625",
+            "x2": "819.9925537109375",
+            "y2": "1800.846923828125",
+            "width": "17.04583740234375",
+            "height": "20.619384765625"
+          }
+        },
+        "reading_order": 23,
+        "is_page_number_candidate": true,
+        "is_noise_candidate": false
+      }
+    ],
+    "regions": [
+      {
+        "region_id": "page_0003_region_001",
+        "page": "page_0003",
+        "page_number": 3,
+        "reading_order_start": 1,
+        "reading_order_end": 5,
+        "bbox": [
+          332,
+          277,
+          1297,
+          1631
+        ],
+        "child_box_ids": [
+          "page_0003_raw_0018",
+          "page_0003_raw_0008",
+          "page_0003_raw_0005",
+          "page_0003_raw_0002",
+          "page_0003_raw_0022"
+        ],
+        "region_role": "body_text",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": true,
+        "merge_reasons": [
+          "start_region",
+          "contiguous_close_boxes",
+          "body_continuation"
+        ],
+        "review_reasons": [
+          "region_covers_large_page_area",
+          "very_tall_multi_box_region",
+          "multiple_low_layout_scores"
+        ],
+        "suggested_actions": [
+          "review_split_region",
+          "review_boxes_or_redetect_layout"
+        ],
+        "quality_score": 0.35
+      },
+      {
+        "region_id": "page_0003_region_002",
+        "page": "page_0003",
+        "page_number": 3,
+        "reading_order_start": 6,
+        "reading_order_end": 9,
+        "bbox": [
+          341,
+          572,
+          1235,
+          817
+        ],
+        "child_box_ids": [
+          "page_0003_raw_0021",
+          "page_0003_raw_0015",
+          "page_0003_raw_0019",
+          "page_0003_raw_0017"
+        ],
+        "region_role": "body_text",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": true,
+        "merge_reasons": [
+          "new_region_after_gap_or_column_change",
+          "body_continuation"
+        ],
+        "review_reasons": [
+          "multiple_low_layout_scores"
+        ],
+        "suggested_actions": [
+          "review_boxes_or_redetect_layout"
+        ],
+        "quality_score": 0.85
+      },
+      {
+        "region_id": "page_0003_region_003",
+        "page": "page_0003",
+        "page_number": 3,
+        "reading_order_start": 10,
+        "reading_order_end": 12,
+        "bbox": [
+          335,
+          976,
+          1228,
+          1498
+        ],
+        "child_box_ids": [
+          "page_0003_raw_0007",
+          "page_0003_raw_0023",
+          "page_0003_raw_0004"
+        ],
+        "region_role": "body_text",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "new_region_after_gap_or_column_change",
+          "body_continuation"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      },
+      {
+        "region_id": "page_0003_region_004",
+        "page": "page_0003",
+        "page_number": 3,
+        "reading_order_start": 13,
+        "reading_order_end": 15,
+        "bbox": [
+          591,
+          278,
+          1061,
+          483
+        ],
+        "child_box_ids": [
+          "page_0003_raw_0010",
+          "page_0003_raw_0006",
+          "page_0003_raw_0013"
+        ],
+        "region_role": "document_title",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": true,
+        "merge_reasons": [
+          "new_region_at_layout_boundary",
+          "title_fragment_continuation"
+        ],
+        "review_reasons": [
+          "many_boundary_boxes_in_one_region"
+        ],
+        "suggested_actions": [
+          "review_split_region"
+        ],
+        "quality_score": 0.7
+      },
+      {
+        "region_id": "page_0003_region_005",
+        "page": "page_0003",
+        "page_number": 3,
+        "reading_order_start": 16,
+        "reading_order_end": 18,
+        "bbox": [
+          730,
+          842,
+          914,
+          1084
+        ],
+        "child_box_ids": [
+          "page_0003_raw_0020",
+          "page_0003_raw_0011",
+          "page_0003_raw_0012"
+        ],
+        "region_role": "body_text",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": true,
+        "merge_reasons": [
+          "new_region_after_gap_or_column_change",
+          "body_continuation"
+        ],
+        "review_reasons": [
+          "multiple_low_layout_scores"
+        ],
+        "suggested_actions": [
+          "review_boxes_or_redetect_layout"
+        ],
+        "quality_score": 0.85
+      },
+      {
+        "region_id": "page_0003_region_006",
+        "page": "page_0003",
+        "page_number": 3,
+        "reading_order_start": 19,
+        "reading_order_end": 19,
+        "bbox": [
+          759,
+          1248,
+          875,
+          1280
+        ],
+        "child_box_ids": [
+          "page_0003_raw_0009"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": true,
+        "merge_reasons": [
+          "new_region_at_layout_boundary"
+        ],
+        "review_reasons": [
+          "single_boundary_region"
+        ],
+        "suggested_actions": [
+          "review_merge_with_next_or_keep_as_title"
+        ],
+        "quality_score": 0.9
+      },
+      {
+        "region_id": "page_0003_region_007",
+        "page": "page_0003",
+        "page_number": 3,
+        "reading_order_start": 20,
+        "reading_order_end": 21,
+        "bbox": [
+          369,
+          1525,
+          581,
+          1627
+        ],
+        "child_box_ids": [
+          "page_0003_raw_0003",
+          "page_0003_raw_0016"
+        ],
+        "region_role": "body_text",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "new_region_after_gap_or_column_change",
+          "body_continuation"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      }
+    ]
+  },
+  {
+    "page": "page_0004",
+    "page_number": 4,
+    "width": 1323,
+    "height": 1798,
+    "page_number_candidates": [
+      {
+        "box": {
+          "box_id": "page_0004_raw_0029",
+          "page": "page_0004",
+          "page_number": 4,
+          "label": "number",
+          "bbox": [
+            836,
+            1777,
+            847,
+            1798
+          ],
+          "text": "",
+          "layout_score": 0.7635974884033203,
+          "ocr_score": null,
+          "crop_path": null,
+          "source": {
+            "page": "page_0004",
+            "label": "number",
+            "cls_id": "3",
+            "score": "0.7635974884033203",
+            "x1": "836.0015258789062",
+            "y1": "1777.7835693359375",
+            "x2": "847.0056762695312",
+            "y2": "1798.8165283203125",
+            "width": "11.004150390625",
+            "height": "21.032958984375"
+          }
+        },
+        "reading_order": 11,
+        "is_page_number_candidate": true,
+        "is_noise_candidate": false
+      }
+    ],
+    "regions": [
+      {
+        "region_id": "page_0004_region_001",
+        "page": "page_0004",
+        "page_number": 4,
+        "reading_order_start": 1,
+        "reading_order_end": 2,
+        "bbox": [
+          380,
+          252,
+          1266,
+          805
+        ],
+        "child_box_ids": [
+          "page_0004_raw_0032",
+          "page_0004_raw_0034"
+        ],
+        "region_role": "body_text",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "start_region",
+          "contiguous_close_boxes"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      },
+      {
+        "region_id": "page_0004_region_002",
+        "page": "page_0004",
+        "page_number": 4,
+        "reading_order_start": 3,
+        "reading_order_end": 4,
+        "bbox": [
+          353,
+          772,
+          1319,
+          1001
+        ],
+        "child_box_ids": [
+          "page_0004_raw_0033",
+          "page_0004_raw_0024"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "new_region_at_layout_boundary",
+          "title_followed_by_body"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      },
+      {
+        "region_id": "page_0004_region_003",
+        "page": "page_0004",
+        "page_number": 4,
+        "reading_order_start": 5,
+        "reading_order_end": 6,
+        "bbox": [
+          355,
+          1039,
+          1315,
+          1263
+        ],
+        "child_box_ids": [
+          "page_0004_raw_0028",
+          "page_0004_raw_0027"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "new_region_at_layout_boundary",
+          "title_followed_by_body"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      },
+      {
+        "region_id": "page_0004_region_004",
+        "page": "page_0004",
+        "page_number": 4,
+        "reading_order_start": 7,
+        "reading_order_end": 8,
+        "bbox": [
+          358,
+          1299,
+          1323,
+          1465
+        ],
+        "child_box_ids": [
+          "page_0004_raw_0031",
+          "page_0004_raw_0025"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "new_region_at_layout_boundary",
+          "title_followed_by_body"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      },
+      {
+        "region_id": "page_0004_region_005",
+        "page": "page_0004",
+        "page_number": 4,
+        "reading_order_start": 9,
+        "reading_order_end": 10,
+        "bbox": [
+          360,
+          1499,
+          1317,
+          1720
+        ],
+        "child_box_ids": [
+          "page_0004_raw_0030",
+          "page_0004_raw_0026"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "new_region_at_layout_boundary",
+          "title_followed_by_body"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      }
+    ]
+  },
+  {
+    "page": "page_0005",
+    "page_number": 5,
+    "width": 1320,
+    "height": 1773,
+    "page_number_candidates": [
+      {
+        "box": {
+          "box_id": "page_0005_raw_0037",
+          "page": "page_0005",
+          "page_number": 5,
+          "label": "number",
+          "bbox": [
+            826,
+            1756,
+            839,
+            1773
+          ],
+          "text": "",
+          "layout_score": 0.7656030058860779,
+          "ocr_score": null,
+          "crop_path": null,
+          "source": {
+            "page": "page_0005",
+            "label": "number",
+            "cls_id": "3",
+            "score": "0.7656030058860779",
+            "x1": "826.0073852539062",
+            "y1": "1756.238525390625",
+            "x2": "839.0655517578125",
+            "y2": "1773.559814453125",
+            "width": "13.05816650390625",
+            "height": "17.3212890625"
+          }
+        },
+        "reading_order": 11,
+        "is_page_number_candidate": true,
+        "is_noise_candidate": false
+      }
+    ],
+    "regions": [
+      {
+        "region_id": "page_0005_region_001",
+        "page": "page_0005",
+        "page_number": 5,
+        "reading_order_start": 1,
+        "reading_order_end": 1,
+        "bbox": [
+          507,
+          239,
+          1310,
+          281
+        ],
+        "child_box_ids": [
+          "page_0005_raw_0040"
+        ],
+        "region_role": "body_text",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "start_region"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      },
+      {
+        "region_id": "page_0005_region_002",
+        "page": "page_0005",
+        "page_number": 5,
+        "reading_order_start": 2,
+        "reading_order_end": 3,
+        "bbox": [
+          348,
+          312,
+          1315,
+          539
+        ],
+        "child_box_ids": [
+          "page_0005_raw_0041",
+          "page_0005_raw_0035"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "new_region_at_layout_boundary",
+          "title_followed_by_body"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      },
+      {
+        "region_id": "page_0005_region_003",
+        "page": "page_0005",
+        "page_number": 5,
+        "reading_order_start": 4,
+        "reading_order_end": 4,
+        "bbox": [
+          703,
+          616,
+          957,
+          785
+        ],
+        "child_box_ids": [
+          "page_0005_raw_0036"
+        ],
+        "region_role": "body_text",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "new_region_after_gap_or_column_change"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      },
+      {
+        "region_id": "page_0005_region_004",
+        "page": "page_0005",
+        "page_number": 5,
+        "reading_order_start": 5,
+        "reading_order_end": 10,
+        "bbox": [
+          348,
+          812,
+          1320,
+          1727
+        ],
+        "child_box_ids": [
+          "page_0005_raw_0039",
+          "page_0005_raw_0038",
+          "page_0005_raw_0045",
+          "page_0005_raw_0042",
+          "page_0005_raw_0044",
+          "page_0005_raw_0043"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": true,
+        "merge_reasons": [
+          "new_region_at_layout_boundary",
+          "title_followed_by_body",
+          "body_continuation"
+        ],
+        "review_reasons": [
+          "multiple_low_layout_scores"
+        ],
+        "suggested_actions": [
+          "review_boxes_or_redetect_layout"
+        ],
+        "quality_score": 0.85
+      }
+    ]
+  },
+  {
+    "page": "page_0006",
+    "page_number": 6,
+    "width": 1315,
+    "height": 1769,
+    "page_number_candidates": [
+      {
+        "box": {
+          "box_id": "page_0006_raw_0046",
+          "page": "page_0006",
+          "page_number": 6,
+          "label": "text",
+          "bbox": [
+            759,
+            1601,
+            887,
+            1627
+          ],
+          "text": "",
+          "layout_score": 0.8278083801269531,
+          "ocr_score": null,
+          "crop_path": null,
+          "source": {
+            "page": "page_0006",
+            "label": "text",
+            "cls_id": "2",
+            "score": "0.8278083801269531",
+            "x1": "759.3450317382812",
+            "y1": "1601.225341796875",
+            "x2": "887.4336547851562",
+            "y2": "1627.52490234375",
+            "width": "128.088623046875",
+            "height": "26.299560546875"
+          }
+        },
+        "reading_order": 19,
+        "is_page_number_candidate": true,
+        "is_noise_candidate": false
+      },
+      {
+        "box": {
+          "box_id": "page_0006_raw_0047",
+          "page": "page_0006",
+          "page_number": 6,
+          "label": "number",
+          "bbox": [
+            815,
+            1749,
+            829,
+            1769
+          ],
+          "text": "",
+          "layout_score": 0.7796631455421448,
+          "ocr_score": null,
+          "crop_path": null,
+          "source": {
+            "page": "page_0006",
+            "label": "number",
+            "cls_id": "3",
+            "score": "0.7796631455421448",
+            "x1": "815.3919067382812",
+            "y1": "1749.455322265625",
+            "x2": "829.2412719726562",
+            "y2": "1769.679443359375",
+            "width": "13.849365234375",
+            "height": "20.22412109375"
+          }
+        },
+        "reading_order": 20,
+        "is_page_number_candidate": true,
+        "is_noise_candidate": false
+      }
+    ],
+    "regions": [
+      {
+        "region_id": "page_0006_region_001",
+        "page": "page_0006",
+        "page_number": 6,
+        "reading_order_start": 1,
+        "reading_order_end": 7,
+        "bbox": [
+          344,
+          238,
+          1315,
+          1040
+        ],
+        "child_box_ids": [
+          "page_0006_raw_0055",
+          "page_0006_raw_0062",
+          "page_0006_raw_0060",
+          "page_0006_raw_0065",
+          "page_0006_raw_0059",
+          "page_0006_raw_0053",
+          "page_0006_raw_0054"
+        ],
+        "region_role": "body_text",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": true,
+        "merge_reasons": [
+          "start_region",
+          "body_continuation"
+        ],
+        "review_reasons": [
+          "large_gap_between_child_boxes",
+          "multiple_low_layout_scores"
+        ],
+        "suggested_actions": [
+          "review_split_region",
+          "review_boxes_or_redetect_layout"
+        ],
+        "quality_score": 0.67
+      },
+      {
+        "region_id": "page_0006_region_002",
+        "page": "page_0006",
+        "page_number": 6,
+        "reading_order_start": 8,
+        "reading_order_end": 10,
+        "bbox": [
+          347,
+          489,
+          1311,
+          713
+        ],
+        "child_box_ids": [
+          "page_0006_raw_0058",
+          "page_0006_raw_0056",
+          "page_0006_raw_0061"
+        ],
+        "region_role": "body_text",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": true,
+        "merge_reasons": [
+          "new_region_after_gap_or_column_change",
+          "body_continuation"
+        ],
+        "review_reasons": [
+          "multiple_low_layout_scores"
+        ],
+        "suggested_actions": [
+          "review_boxes_or_redetect_layout"
+        ],
+        "quality_score": 0.85
+      },
+      {
+        "region_id": "page_0006_region_003",
+        "page": "page_0006",
+        "page_number": 6,
+        "reading_order_start": 11,
+        "reading_order_end": 12,
+        "bbox": [
+          346,
+          933,
+          1307,
+          1038
+        ],
+        "child_box_ids": [
+          "page_0006_raw_0057",
+          "page_0006_raw_0063"
+        ],
+        "region_role": "body_text",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "new_region_after_gap_or_column_change",
+          "body_continuation"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      },
+      {
+        "region_id": "page_0006_region_004",
+        "page": "page_0006",
+        "page_number": 6,
+        "reading_order_start": 13,
+        "reading_order_end": 14,
+        "bbox": [
+          343,
+          1069,
+          1309,
+          1233
+        ],
+        "child_box_ids": [
+          "page_0006_raw_0049",
+          "page_0006_raw_0048"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "new_region_at_layout_boundary",
+          "title_followed_by_body"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      },
+      {
+        "region_id": "page_0006_region_005",
+        "page": "page_0006",
+        "page_number": 6,
+        "reading_order_start": 15,
+        "reading_order_end": 18,
+        "bbox": [
+          344,
+          1270,
+          1303,
+          1557
+        ],
+        "child_box_ids": [
+          "page_0006_raw_0050",
+          "page_0006_raw_0064",
+          "page_0006_raw_0052",
+          "page_0006_raw_0051"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "new_region_at_layout_boundary",
+          "title_followed_by_body",
+          "body_continuation"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      }
+    ]
+  },
+  {
+    "page": "page_0007",
+    "page_number": 7,
+    "width": 1311,
+    "height": 1783,
+    "page_number_candidates": [
+      {
+        "box": {
+          "box_id": "page_0007_raw_0068",
+          "page": "page_0007",
+          "page_number": 7,
+          "label": "number",
+          "bbox": [
+            810,
+            1761,
+            829,
+            1783
+          ],
+          "text": "",
+          "layout_score": 0.7969633936882019,
+          "ocr_score": null,
+          "crop_path": null,
+          "source": {
+            "page": "page_0007",
+            "label": "number",
+            "cls_id": "3",
+            "score": "0.7969633936882019",
+            "x1": "810.5433959960938",
+            "y1": "1761.5611572265625",
+            "x2": "829.1685791015625",
+            "y2": "1783.6431884765625",
+            "width": "18.62518310546875",
+            "height": "22.08203125"
+          }
+        },
+        "reading_order": 11,
+        "is_page_number_candidate": true,
+        "is_noise_candidate": false
+      }
+    ],
+    "regions": [
+      {
+        "region_id": "page_0007_region_001",
+        "page": "page_0007",
+        "page_number": 7,
+        "reading_order_start": 1,
+        "reading_order_end": 6,
+        "bbox": [
+          350,
+          252,
+          1310,
+          1087
+        ],
+        "child_box_ids": [
+          "page_0007_raw_0071",
+          "page_0007_raw_0073",
+          "page_0007_raw_0072",
+          "page_0007_raw_0076",
+          "page_0007_raw_0074",
+          "page_0007_raw_0069"
+        ],
+        "region_role": "section_header",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "start_region",
+          "title_followed_by_body",
+          "body_continuation"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      },
+      {
+        "region_id": "page_0007_region_002",
+        "page": "page_0007",
+        "page_number": 7,
+        "reading_order_start": 7,
+        "reading_order_end": 8,
+        "bbox": [
+          344,
+          1055,
+          1311,
+          1474
+        ],
+        "child_box_ids": [
+          "page_0007_raw_0075",
+          "page_0007_raw_0066"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "new_region_at_layout_boundary",
+          "title_followed_by_body"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      },
+      {
+        "region_id": "page_0007_region_003",
+        "page": "page_0007",
+        "page_number": 7,
+        "reading_order_start": 9,
+        "reading_order_end": 10,
+        "bbox": [
+          342,
+          1502,
+          1308,
+          1735
+        ],
+        "child_box_ids": [
+          "page_0007_raw_0070",
+          "page_0007_raw_0067"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "new_region_at_layout_boundary",
+          "title_followed_by_body"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      }
+    ]
+  },
+  {
+    "page": "page_0008",
+    "page_number": 8,
+    "width": 1306,
+    "height": 1784,
+    "page_number_candidates": [
+      {
+        "box": {
+          "box_id": "page_0008_raw_0083",
+          "page": "page_0008",
+          "page_number": 8,
+          "label": "number",
+          "bbox": [
+            822,
+            1759,
+            840,
+            1784
+          ],
+          "text": "",
+          "layout_score": 0.7560209631919861,
+          "ocr_score": null,
+          "crop_path": null,
+          "source": {
+            "page": "page_0008",
+            "label": "number",
+            "cls_id": "3",
+            "score": "0.7560209631919861",
+            "x1": "822.4650268554688",
+            "y1": "1759.912841796875",
+            "x2": "840.464111328125",
+            "y2": "1784.0604248046875",
+            "width": "17.99908447265625",
+            "height": "24.1475830078125"
+          }
+        },
+        "reading_order": 19,
+        "is_page_number_candidate": true,
+        "is_noise_candidate": false
+      }
+    ],
+    "regions": [
+      {
+        "region_id": "page_0008_region_001",
+        "page": "page_0008",
+        "page_number": 8,
+        "reading_order_start": 1,
+        "reading_order_end": 2,
+        "bbox": [
+          332,
+          249,
+          1298,
+          411
+        ],
+        "child_box_ids": [
+          "page_0008_raw_0084",
+          "page_0008_raw_0077"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "start_region",
+          "title_followed_by_body"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      },
+      {
+        "region_id": "page_0008_region_002",
+        "page": "page_0008",
+        "page_number": 8,
+        "reading_order_start": 3,
+        "reading_order_end": 7,
+        "bbox": [
+          335,
+          450,
+          1297,
+          799
+        ],
+        "child_box_ids": [
+          "page_0008_raw_0080",
+          "page_0008_raw_0094",
+          "page_0008_raw_0081",
+          "page_0008_raw_0079",
+          "page_0008_raw_0095"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": true,
+        "merge_reasons": [
+          "new_region_at_layout_boundary",
+          "title_followed_by_body",
+          "body_continuation"
+        ],
+        "review_reasons": [
+          "multiple_low_layout_scores"
+        ],
+        "suggested_actions": [
+          "review_boxes_or_redetect_layout"
+        ],
+        "quality_score": 0.85
+      },
+      {
+        "region_id": "page_0008_region_003",
+        "page": "page_0008",
+        "page_number": 8,
+        "reading_order_start": 8,
+        "reading_order_end": 11,
+        "bbox": [
+          341,
+          834,
+          1306,
+          1140
+        ],
+        "child_box_ids": [
+          "page_0008_raw_0082",
+          "page_0008_raw_0078",
+          "page_0008_raw_0092",
+          "page_0008_raw_0086"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "new_region_at_layout_boundary",
+          "title_followed_by_body",
+          "body_continuation"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      },
+      {
+        "region_id": "page_0008_region_004",
+        "page": "page_0008",
+        "page_number": 8,
+        "reading_order_start": 12,
+        "reading_order_end": 12,
+        "bbox": [
+          757,
+          1031,
+          893,
+          1061
+        ],
+        "child_box_ids": [
+          "page_0008_raw_0087"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": true,
+        "merge_reasons": [
+          "new_region_at_layout_boundary"
+        ],
+        "review_reasons": [
+          "single_boundary_region"
+        ],
+        "suggested_actions": [
+          "review_merge_with_next_or_keep_as_title"
+        ],
+        "quality_score": 0.9
+      },
+      {
+        "region_id": "page_0008_region_005",
+        "page": "page_0008",
+        "page_number": 8,
+        "reading_order_start": 13,
+        "reading_order_end": 18,
+        "bbox": [
+          347,
+          1196,
+          1306,
+          1713
+        ],
+        "child_box_ids": [
+          "page_0008_raw_0091",
+          "page_0008_raw_0089",
+          "page_0008_raw_0090",
+          "page_0008_raw_0088",
+          "page_0008_raw_0085",
+          "page_0008_raw_0093"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": true,
+        "merge_reasons": [
+          "new_region_at_layout_boundary",
+          "title_fragment_continuation",
+          "title_followed_by_body",
+          "body_continuation"
+        ],
+        "review_reasons": [
+          "many_boundary_boxes_in_one_region",
+          "mixed_multiple_titles_with_body"
+        ],
+        "suggested_actions": [
+          "review_split_region",
+          "review_split_or_keep"
+        ],
+        "quality_score": 0.48
+      }
+    ]
+  },
+  {
+    "page": "page_0009",
+    "page_number": 9,
+    "width": 1319,
+    "height": 1783,
+    "page_number_candidates": [
+      {
+        "box": {
+          "box_id": "page_0009_raw_0108",
+          "page": "page_0009",
+          "page_number": 9,
+          "label": "paragraph_title",
+          "bbox": [
+            758,
+            1557,
+            895,
+            1589
+          ],
+          "text": "",
+          "layout_score": 0.45674827694892883,
+          "ocr_score": null,
+          "crop_path": null,
+          "source": {
+            "page": "page_0009",
+            "label": "paragraph_title",
+            "cls_id": "0",
+            "score": "0.45674827694892883",
+            "x1": "758.8514404296875",
+            "y1": "1557.3370361328125",
+            "x2": "895.5661010742188",
+            "y2": "1589.2388916015625",
+            "width": "136.71466064453125",
+            "height": "31.90185546875"
+          }
+        },
+        "reading_order": 18,
+        "is_page_number_candidate": true,
+        "is_noise_candidate": false
+      },
+      {
+        "box": {
+          "box_id": "page_0009_raw_0096",
+          "page": "page_0009",
+          "page_number": 9,
+          "label": "number",
+          "bbox": [
+            817,
+            1762,
+            830,
+            1783
+          ],
+          "text": "",
+          "layout_score": 0.776057779788971,
+          "ocr_score": null,
+          "crop_path": null,
+          "source": {
+            "page": "page_0009",
+            "label": "number",
+            "cls_id": "3",
+            "score": "0.776057779788971",
+            "x1": "817.0003051757812",
+            "y1": "1762.0230712890625",
+            "x2": "830.1212158203125",
+            "y2": "1783.9058837890625",
+            "width": "13.12091064453125",
+            "height": "21.8828125"
+          }
+        },
+        "reading_order": 19,
+        "is_page_number_candidate": true,
+        "is_noise_candidate": false
+      }
+    ],
+    "regions": [
+      {
+        "region_id": "page_0009_region_001",
+        "page": "page_0009",
+        "page_number": 9,
+        "reading_order_start": 1,
+        "reading_order_end": 5,
+        "bbox": [
+          346,
+          237,
+          1319,
+          1772
+        ],
+        "child_box_ids": [
+          "page_0009_raw_0098",
+          "page_0009_raw_0112",
+          "page_0009_raw_0109",
+          "page_0009_raw_0107",
+          "page_0009_raw_0101"
+        ],
+        "region_role": "body_text",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": true,
+        "merge_reasons": [
+          "start_region",
+          "body_continuation"
+        ],
+        "review_reasons": [
+          "large_gap_between_child_boxes",
+          "region_covers_large_page_area",
+          "very_tall_multi_box_region",
+          "multiple_low_layout_scores"
+        ],
+        "suggested_actions": [
+          "review_split_region",
+          "review_boxes_or_redetect_layout"
+        ],
+        "quality_score": 0.17
+      },
+      {
+        "region_id": "page_0009_region_002",
+        "page": "page_0009",
+        "page_number": 9,
+        "reading_order_start": 6,
+        "reading_order_end": 6,
+        "bbox": [
+          352,
+          570,
+          1313,
+          680
+        ],
+        "child_box_ids": [
+          "page_0009_raw_0102"
+        ],
+        "region_role": "body_text",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "new_region_after_gap_or_column_change"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      },
+      {
+        "region_id": "page_0009_region_003",
+        "page": "page_0009",
+        "page_number": 9,
+        "reading_order_start": 7,
+        "reading_order_end": 7,
+        "bbox": [
+          344,
+          1611,
+          1309,
+          1730
+        ],
+        "child_box_ids": [
+          "page_0009_raw_0106"
+        ],
+        "region_role": "body_text",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "new_region_after_gap_or_column_change"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      },
+      {
+        "region_id": "page_0009_region_004",
+        "page": "page_0009",
+        "page_number": 9,
+        "reading_order_start": 8,
+        "reading_order_end": 9,
+        "bbox": [
+          345,
+          1291,
+          1307,
+          1528
+        ],
+        "child_box_ids": [
+          "page_0009_raw_0105",
+          "page_0009_raw_0110"
+        ],
+        "region_role": "body_text",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "new_region_after_gap_or_column_change",
+          "contiguous_close_boxes"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      },
+      {
+        "region_id": "page_0009_region_005",
+        "page": "page_0009",
+        "page_number": 9,
+        "reading_order_start": 10,
+        "reading_order_end": 11,
+        "bbox": [
+          353,
+          372,
+          1275,
+          805
+        ],
+        "child_box_ids": [
+          "page_0009_raw_0104",
+          "page_0009_raw_0113"
+        ],
+        "region_role": "body_text",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "new_region_after_gap_or_column_change",
+          "body_continuation"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      },
+      {
+        "region_id": "page_0009_region_006",
+        "page": "page_0009",
+        "page_number": 9,
+        "reading_order_start": 12,
+        "reading_order_end": 14,
+        "bbox": [
+          354,
+          239,
+          1229,
+          354
+        ],
+        "child_box_ids": [
+          "page_0009_raw_0103",
+          "page_0009_raw_0111",
+          "page_0009_raw_0114"
+        ],
+        "region_role": "body_text",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": true,
+        "merge_reasons": [
+          "new_region_after_gap_or_column_change",
+          "body_continuation"
+        ],
+        "review_reasons": [
+          "multiple_low_layout_scores"
+        ],
+        "suggested_actions": [
+          "review_boxes_or_redetect_layout"
+        ],
+        "quality_score": 0.85
+      },
+      {
+        "region_id": "page_0009_region_007",
+        "page": "page_0009",
+        "page_number": 9,
+        "reading_order_start": 15,
+        "reading_order_end": 15,
+        "bbox": [
+          766,
+          832,
+          903,
+          862
+        ],
+        "child_box_ids": [
+          "page_0009_raw_0097"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": true,
+        "merge_reasons": [
+          "new_region_at_layout_boundary"
+        ],
+        "review_reasons": [
+          "single_boundary_region"
+        ],
+        "suggested_actions": [
+          "review_merge_with_next_or_keep_as_title"
+        ],
+        "quality_score": 0.9
+      },
+      {
+        "region_id": "page_0009_region_008",
+        "page": "page_0009",
+        "page_number": 9,
+        "reading_order_start": 16,
+        "reading_order_end": 16,
+        "bbox": [
+          765,
+          1031,
+          900,
+          1062
+        ],
+        "child_box_ids": [
+          "page_0009_raw_0100"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": true,
+        "merge_reasons": [
+          "new_region_at_layout_boundary"
+        ],
+        "review_reasons": [
+          "single_boundary_region"
+        ],
+        "suggested_actions": [
+          "review_merge_with_next_or_keep_as_title"
+        ],
+        "quality_score": 0.9
+      },
+      {
+        "region_id": "page_0009_region_009",
+        "page": "page_0009",
+        "page_number": 9,
+        "reading_order_start": 17,
+        "reading_order_end": 17,
+        "bbox": [
+          763,
+          1227,
+          899,
+          1258
+        ],
+        "child_box_ids": [
+          "page_0009_raw_0099"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": true,
+        "merge_reasons": [
+          "new_region_at_layout_boundary"
+        ],
+        "review_reasons": [
+          "single_boundary_region"
+        ],
+        "suggested_actions": [
+          "review_merge_with_next_or_keep_as_title"
+        ],
+        "quality_score": 0.9
+      }
+    ]
+  },
+  {
+    "page": "page_0010",
+    "page_number": 10,
+    "width": 1305,
+    "height": 1784,
+    "page_number_candidates": [
+      {
+        "box": {
+          "box_id": "page_0010_raw_0120",
+          "page": "page_0010",
+          "page_number": 10,
+          "label": "number",
+          "bbox": [
+            811,
+            1763,
+            844,
+            1784
+          ],
+          "text": "",
+          "layout_score": 0.7879440188407898,
+          "ocr_score": null,
+          "crop_path": null,
+          "source": {
+            "page": "page_0010",
+            "label": "number",
+            "cls_id": "3",
+            "score": "0.7879440188407898",
+            "x1": "811.8599853515625",
+            "y1": "1763.1722412109375",
+            "x2": "844.2742309570312",
+            "y2": "1784.9256591796875",
+            "width": "32.41424560546875",
+            "height": "21.75341796875"
+          }
+        },
+        "reading_order": 17,
+        "is_page_number_candidate": true,
+        "is_noise_candidate": false
+      }
+    ],
+    "regions": [
+      {
+        "region_id": "page_0010_region_001",
+        "page": "page_0010",
+        "page_number": 10,
+        "reading_order_start": 1,
+        "reading_order_end": 1,
+        "bbox": [
+          333,
+          2,
+          1281,
+          96
+        ],
+        "child_box_ids": [
+          "page_0010_raw_0130"
+        ],
+        "region_role": "body_text",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "start_region"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      },
+      {
+        "region_id": "page_0010_region_002",
+        "page": "page_0010",
+        "page_number": 10,
+        "reading_order_start": 2,
+        "reading_order_end": 4,
+        "bbox": [
+          338,
+          247,
+          1295,
+          476
+        ],
+        "child_box_ids": [
+          "page_0010_raw_0124",
+          "page_0010_raw_0123",
+          "page_0010_raw_0129"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "new_region_at_layout_boundary",
+          "title_followed_by_body",
+          "body_continuation"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      },
+      {
+        "region_id": "page_0010_region_003",
+        "page": "page_0010",
+        "page_number": 10,
+        "reading_order_start": 5,
+        "reading_order_end": 7,
+        "bbox": [
+          340,
+          510,
+          1300,
+          767
+        ],
+        "child_box_ids": [
+          "page_0010_raw_0118",
+          "page_0010_raw_0115",
+          "page_0010_raw_0128"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "new_region_at_layout_boundary",
+          "title_followed_by_body",
+          "body_continuation"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      },
+      {
+        "region_id": "page_0010_region_004",
+        "page": "page_0010",
+        "page_number": 10,
+        "reading_order_start": 8,
+        "reading_order_end": 12,
+        "bbox": [
+          340,
+          796,
+          1300,
+          1167
+        ],
+        "child_box_ids": [
+          "page_0010_raw_0127",
+          "page_0010_raw_0125",
+          "page_0010_raw_0131",
+          "page_0010_raw_0126",
+          "page_0010_raw_0122"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": true,
+        "merge_reasons": [
+          "new_region_at_layout_boundary",
+          "title_fragment_continuation",
+          "title_followed_by_body",
+          "body_continuation"
+        ],
+        "review_reasons": [
+          "mixed_multiple_titles_with_body"
+        ],
+        "suggested_actions": [
+          "review_split_or_keep"
+        ],
+        "quality_score": 0.78
+      },
+      {
+        "region_id": "page_0010_region_005",
+        "page": "page_0010",
+        "page_number": 10,
+        "reading_order_start": 13,
+        "reading_order_end": 16,
+        "bbox": [
+          343,
+          1187,
+          1305,
+          1722
+        ],
+        "child_box_ids": [
+          "page_0010_raw_0121",
+          "page_0010_raw_0119",
+          "page_0010_raw_0116",
+          "page_0010_raw_0117"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "new_region_at_layout_boundary",
+          "title_followed_by_body",
+          "body_continuation"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      }
+    ]
+  },
+  {
+    "page": "page_0011",
+    "page_number": 11,
+    "width": 1333,
+    "height": 1760,
+    "page_number_candidates": [
+      {
+        "box": {
+          "box_id": "page_0011_raw_0133",
+          "page": "page_0011",
+          "page_number": 11,
+          "label": "number",
+          "bbox": [
+            798,
+            1738,
+            832,
+            1760
+          ],
+          "text": "",
+          "layout_score": 0.8093596696853638,
+          "ocr_score": null,
+          "crop_path": null,
+          "source": {
+            "page": "page_0011",
+            "label": "number",
+            "cls_id": "3",
+            "score": "0.8093596696853638",
+            "x1": "798.8505859375",
+            "y1": "1738.23193359375",
+            "x2": "832.299072265625",
+            "y2": "1760.9866943359375",
+            "width": "33.448486328125",
+            "height": "22.7547607421875"
+          }
+        },
+        "reading_order": 4,
+        "is_page_number_candidate": true,
+        "is_noise_candidate": false
+      }
+    ],
+    "regions": [
+      {
+        "region_id": "page_0011_region_001",
+        "page": "page_0011",
+        "page_number": 11,
+        "reading_order_start": 1,
+        "reading_order_end": 2,
+        "bbox": [
+          344,
+          217,
+          1333,
+          1713
+        ],
+        "child_box_ids": [
+          "page_0011_raw_0132",
+          "page_0011_raw_0134"
+        ],
+        "region_role": "body_text",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": true,
+        "merge_reasons": [
+          "start_region",
+          "body_continuation"
+        ],
+        "review_reasons": [
+          "region_covers_large_page_area"
+        ],
+        "suggested_actions": [
+          "review_split_region"
+        ],
+        "quality_score": 0.75
+      },
+      {
+        "region_id": "page_0011_region_002",
+        "page": "page_0011",
+        "page_number": 11,
+        "reading_order_start": 3,
+        "reading_order_end": 3,
+        "bbox": [
+          779,
+          356,
+          917,
+          390
+        ],
+        "child_box_ids": [
+          "page_0011_raw_0135"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": true,
+        "merge_reasons": [
+          "new_region_at_layout_boundary"
+        ],
+        "review_reasons": [
+          "single_boundary_region"
+        ],
+        "suggested_actions": [
+          "review_merge_with_next_or_keep_as_title"
+        ],
+        "quality_score": 0.9
+      }
+    ]
+  },
+  {
+    "page": "page_0012",
+    "page_number": 12,
+    "width": 1307,
+    "height": 1753,
+    "page_number_candidates": [
+      {
+        "box": {
+          "box_id": "page_0012_raw_0136",
+          "page": "page_0012",
+          "page_number": 12,
+          "label": "number",
+          "bbox": [
+            818,
+            1729,
+            853,
+            1753
+          ],
+          "text": "",
+          "layout_score": 0.7906366586685181,
+          "ocr_score": null,
+          "crop_path": null,
+          "source": {
+            "page": "page_0012",
+            "label": "number",
+            "cls_id": "3",
+            "score": "0.7906366586685181",
+            "x1": "818.6961669921875",
+            "y1": "1729.154052734375",
+            "x2": "853.5515747070312",
+            "y2": "1753.167724609375",
+            "width": "34.85540771484375",
+            "height": "24.013671875"
+          }
+        },
+        "reading_order": 7,
+        "is_page_number_candidate": true,
+        "is_noise_candidate": false
+      }
+    ],
+    "regions": [
+      {
+        "region_id": "page_0012_region_001",
+        "page": "page_0012",
+        "page_number": 12,
+        "reading_order_start": 1,
+        "reading_order_end": 3,
+        "bbox": [
+          330,
+          236,
+          1307,
+          1698
+        ],
+        "child_box_ids": [
+          "page_0012_raw_0138",
+          "page_0012_raw_0142",
+          "page_0012_raw_0141"
+        ],
+        "region_role": "body_text",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": true,
+        "merge_reasons": [
+          "start_region",
+          "contiguous_close_boxes"
+        ],
+        "review_reasons": [
+          "region_covers_large_page_area"
+        ],
+        "suggested_actions": [
+          "review_split_region"
+        ],
+        "quality_score": 0.75
+      },
+      {
+        "region_id": "page_0012_region_002",
+        "page": "page_0012",
+        "page_number": 12,
+        "reading_order_start": 4,
+        "reading_order_end": 4,
+        "bbox": [
+          326,
+          261,
+          1291,
+          1134
+        ],
+        "child_box_ids": [
+          "page_0012_raw_0137"
+        ],
+        "region_role": "body_text",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "new_region_after_gap_or_column_change"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      },
+      {
+        "region_id": "page_0012_region_003",
+        "page": "page_0012",
+        "page_number": 12,
+        "reading_order_start": 5,
+        "reading_order_end": 5,
+        "bbox": [
+          755,
+          1161,
+          894,
+          1194
+        ],
+        "child_box_ids": [
+          "page_0012_raw_0139"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": true,
+        "merge_reasons": [
+          "new_region_at_layout_boundary"
+        ],
+        "review_reasons": [
+          "single_boundary_region"
+        ],
+        "suggested_actions": [
+          "review_merge_with_next_or_keep_as_title"
+        ],
+        "quality_score": 0.9
+      },
+      {
+        "region_id": "page_0012_region_004",
+        "page": "page_0012",
+        "page_number": 12,
+        "reading_order_start": 6,
+        "reading_order_end": 6,
+        "bbox": [
+          735,
+          221,
+          871,
+          253
+        ],
+        "child_box_ids": [
+          "page_0012_raw_0140"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": true,
+        "merge_reasons": [
+          "new_region_at_layout_boundary"
+        ],
+        "review_reasons": [
+          "single_boundary_region"
+        ],
+        "suggested_actions": [
+          "review_merge_with_next_or_keep_as_title"
+        ],
+        "quality_score": 0.9
+      }
+    ]
+  },
+  {
+    "page": "page_0013",
+    "page_number": 13,
+    "width": 1334,
+    "height": 1801,
+    "page_number_candidates": [
+      {
+        "box": {
+          "box_id": "page_0013_raw_0143",
+          "page": "page_0013",
+          "page_number": 13,
+          "label": "number",
+          "bbox": [
+            828,
+            1779,
+            866,
+            1801
+          ],
+          "text": "",
+          "layout_score": 0.7840940356254578,
+          "ocr_score": null,
+          "crop_path": null,
+          "source": {
+            "page": "page_0013",
+            "label": "number",
+            "cls_id": "3",
+            "score": "0.7840940356254578",
+            "x1": "828.4365844726562",
+            "y1": "1779.3704833984375",
+            "x2": "866.611083984375",
+            "y2": "1801.405517578125",
+            "width": "38.17449951171875",
+            "height": "22.0350341796875"
+          }
+        },
+        "reading_order": 7,
+        "is_page_number_candidate": true,
+        "is_noise_candidate": false
+      }
+    ],
+    "regions": [
+      {
+        "region_id": "page_0013_region_001",
+        "page": "page_0013",
+        "page_number": 13,
+        "reading_order_start": 1,
+        "reading_order_end": 4,
+        "bbox": [
+          364,
+          261,
+          1334,
+          1756
+        ],
+        "child_box_ids": [
+          "page_0013_raw_0146",
+          "page_0013_raw_0149",
+          "page_0013_raw_0147",
+          "page_0013_raw_0148"
+        ],
+        "region_role": "body_text",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": true,
+        "merge_reasons": [
+          "start_region",
+          "contiguous_close_boxes"
+        ],
+        "review_reasons": [
+          "region_covers_large_page_area",
+          "multiple_low_layout_scores"
+        ],
+        "suggested_actions": [
+          "review_split_region",
+          "review_boxes_or_redetect_layout"
+        ],
+        "quality_score": 0.6
+      },
+      {
+        "region_id": "page_0013_region_002",
+        "page": "page_0013",
+        "page_number": 13,
+        "reading_order_start": 5,
+        "reading_order_end": 5,
+        "bbox": [
+          370,
+          261,
+          1298,
+          873
+        ],
+        "child_box_ids": [
+          "page_0013_raw_0144"
+        ],
+        "region_role": "body_text",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "new_region_after_gap_or_column_change"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      },
+      {
+        "region_id": "page_0013_region_003",
+        "page": "page_0013",
+        "page_number": 13,
+        "reading_order_start": 6,
+        "reading_order_end": 6,
+        "bbox": [
+          786,
+          896,
+          923,
+          928
+        ],
+        "child_box_ids": [
+          "page_0013_raw_0145"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": true,
+        "merge_reasons": [
+          "new_region_at_layout_boundary"
+        ],
+        "review_reasons": [
+          "single_boundary_region"
+        ],
+        "suggested_actions": [
+          "review_merge_with_next_or_keep_as_title"
+        ],
+        "quality_score": 0.9
+      }
+    ]
+  },
+  {
+    "page": "page_0014",
+    "page_number": 14,
+    "width": 1292,
+    "height": 1798,
+    "page_number_candidates": [
+      {
+        "box": {
+          "box_id": "page_0014_raw_0154",
+          "page": "page_0014",
+          "page_number": 14,
+          "label": "number",
+          "bbox": [
+            798,
+            1774,
+            833,
+            1798
+          ],
+          "text": "",
+          "layout_score": 0.8153689503669739,
+          "ocr_score": null,
+          "crop_path": null,
+          "source": {
+            "page": "page_0014",
+            "label": "number",
+            "cls_id": "3",
+            "score": "0.8153689503669739",
+            "x1": "798.4629516601562",
+            "y1": "1774.331298828125",
+            "x2": "833.43115234375",
+            "y2": "1798.4033203125",
+            "width": "34.96820068359375",
+            "height": "24.072021484375"
+          }
+        },
+        "reading_order": 14,
+        "is_page_number_candidate": true,
+        "is_noise_candidate": false
+      }
+    ],
+    "regions": [
+      {
+        "region_id": "page_0014_region_001",
+        "page": "page_0014",
+        "page_number": 14,
+        "reading_order_start": 1,
+        "reading_order_end": 2,
+        "bbox": [
+          324,
+          264,
+          1291,
+          438
+        ],
+        "child_box_ids": [
+          "page_0014_raw_0161",
+          "page_0014_raw_0150"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "start_region",
+          "title_followed_by_body"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      },
+      {
+        "region_id": "page_0014_region_002",
+        "page": "page_0014",
+        "page_number": 14,
+        "reading_order_start": 3,
+        "reading_order_end": 7,
+        "bbox": [
+          305,
+          459,
+          1290,
+          1225
+        ],
+        "child_box_ids": [
+          "page_0014_raw_0158",
+          "page_0014_raw_0162",
+          "page_0014_raw_0152",
+          "page_0014_raw_0156",
+          "page_0014_raw_0153"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": true,
+        "merge_reasons": [
+          "new_region_at_layout_boundary",
+          "title_fragment_continuation",
+          "title_followed_by_body",
+          "body_continuation"
+        ],
+        "review_reasons": [
+          "mixed_multiple_titles_with_body"
+        ],
+        "suggested_actions": [
+          "review_split_or_keep"
+        ],
+        "quality_score": 0.78
+      },
+      {
+        "region_id": "page_0014_region_003",
+        "page": "page_0014",
+        "page_number": 14,
+        "reading_order_start": 8,
+        "reading_order_end": 10,
+        "bbox": [
+          331,
+          1258,
+          1291,
+          1485
+        ],
+        "child_box_ids": [
+          "page_0014_raw_0157",
+          "page_0014_raw_0155",
+          "page_0014_raw_0160"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "new_region_at_layout_boundary",
+          "title_followed_by_body",
+          "body_continuation"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      },
+      {
+        "region_id": "page_0014_region_004",
+        "page": "page_0014",
+        "page_number": 14,
+        "reading_order_start": 11,
+        "reading_order_end": 13,
+        "bbox": [
+          333,
+          1519,
+          1292,
+          1747
+        ],
+        "child_box_ids": [
+          "page_0014_raw_0159",
+          "page_0014_raw_0151",
+          "page_0014_raw_0163"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "new_region_at_layout_boundary",
+          "title_followed_by_body",
+          "body_continuation"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      }
+    ]
+  },
+  {
+    "page": "page_0015",
+    "page_number": 15,
+    "width": 1322,
+    "height": 1774,
+    "page_number_candidates": [
+      {
+        "box": {
+          "box_id": "page_0015_raw_0171",
+          "page": "page_0015",
+          "page_number": 15,
+          "label": "paragraph_title",
+          "bbox": [
+            744,
+            1557,
+            881,
+            1588
+          ],
+          "text": "",
+          "layout_score": 0.7830072641372681,
+          "ocr_score": null,
+          "crop_path": null,
+          "source": {
+            "page": "page_0015",
+            "label": "paragraph_title",
+            "cls_id": "0",
+            "score": "0.7830072641372681",
+            "x1": "744.24853515625",
+            "y1": "1557.6353759765625",
+            "x2": "881.4019775390625",
+            "y2": "1588.9959716796875",
+            "width": "137.1534423828125",
+            "height": "31.360595703125"
+          }
+        },
+        "reading_order": 20,
+        "is_page_number_candidate": true,
+        "is_noise_candidate": false
+      },
+      {
+        "box": {
+          "box_id": "page_0015_raw_0168",
+          "page": "page_0015",
+          "page_number": 15,
+          "label": "number",
+          "bbox": [
+            791,
+            1752,
+            827,
+            1774
+          ],
+          "text": "",
+          "layout_score": 0.7918795347213745,
+          "ocr_score": null,
+          "crop_path": null,
+          "source": {
+            "page": "page_0015",
+            "label": "number",
+            "cls_id": "3",
+            "score": "0.7918795347213745",
+            "x1": "791.1441040039062",
+            "y1": "1752.9349365234375",
+            "x2": "827.0729370117188",
+            "y2": "1774.2440185546875",
+            "width": "35.9288330078125",
+            "height": "21.30908203125"
+          }
+        },
+        "reading_order": 22,
+        "is_page_number_candidate": true,
+        "is_noise_candidate": false
+      }
+    ],
+    "regions": [
+      {
+        "region_id": "page_0015_region_001",
+        "page": "page_0015",
+        "page_number": 15,
+        "reading_order_start": 1,
+        "reading_order_end": 1,
+        "bbox": [
+          384,
+          33,
+          407,
+          94
+        ],
+        "child_box_ids": [
+          "page_0015_raw_0185"
+        ],
+        "region_role": "section_header",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": true,
+        "merge_reasons": [
+          "start_region"
+        ],
+        "review_reasons": [
+          "single_boundary_region"
+        ],
+        "suggested_actions": [
+          "review_merge_with_next_or_keep_as_title"
+        ],
+        "quality_score": 0.9
+      },
+      {
+        "region_id": "page_0015_region_002",
+        "page": "page_0015",
+        "page_number": 15,
+        "reading_order_start": 2,
+        "reading_order_end": 3,
+        "bbox": [
+          358,
+          240,
+          1322,
+          410
+        ],
+        "child_box_ids": [
+          "page_0015_raw_0167",
+          "page_0015_raw_0166"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "new_region_at_layout_boundary",
+          "title_followed_by_body"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      },
+      {
+        "region_id": "page_0015_region_003",
+        "page": "page_0015",
+        "page_number": 15,
+        "reading_order_start": 4,
+        "reading_order_end": 5,
+        "bbox": [
+          352,
+          420,
+          1318,
+          659
+        ],
+        "child_box_ids": [
+          "page_0015_raw_0169",
+          "page_0015_raw_0164"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "new_region_at_layout_boundary",
+          "title_followed_by_body"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      },
+      {
+        "region_id": "page_0015_region_004",
+        "page": "page_0015",
+        "page_number": 15,
+        "reading_order_start": 6,
+        "reading_order_end": 11,
+        "bbox": [
+          349,
+          681,
+          1308,
+          957
+        ],
+        "child_box_ids": [
+          "page_0015_raw_0170",
+          "page_0015_raw_0175",
+          "page_0015_raw_0184",
+          "page_0015_raw_0179",
+          "page_0015_raw_0181",
+          "page_0015_raw_0182"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": true,
+        "merge_reasons": [
+          "new_region_at_layout_boundary",
+          "title_followed_by_body",
+          "body_continuation"
+        ],
+        "review_reasons": [
+          "multiple_low_layout_scores"
+        ],
+        "suggested_actions": [
+          "review_boxes_or_redetect_layout"
+        ],
+        "quality_score": 0.85
+      },
+      {
+        "region_id": "page_0015_region_005",
+        "page": "page_0015",
+        "page_number": 15,
+        "reading_order_start": 12,
+        "reading_order_end": 17,
+        "bbox": [
+          336,
+          984,
+          1301,
+          1278
+        ],
+        "child_box_ids": [
+          "page_0015_raw_0172",
+          "page_0015_raw_0176",
+          "page_0015_raw_0180",
+          "page_0015_raw_0177",
+          "page_0015_raw_0183",
+          "page_0015_raw_0178"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "new_region_at_layout_boundary",
+          "title_followed_by_body",
+          "body_continuation"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      },
+      {
+        "region_id": "page_0015_region_006",
+        "page": "page_0015",
+        "page_number": 15,
+        "reading_order_start": 18,
+        "reading_order_end": 19,
+        "bbox": [
+          335,
+          1296,
+          1301,
+          1531
+        ],
+        "child_box_ids": [
+          "page_0015_raw_0174",
+          "page_0015_raw_0165"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "new_region_at_layout_boundary",
+          "title_followed_by_body"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      },
+      {
+        "region_id": "page_0015_region_007",
+        "page": "page_0015",
+        "page_number": 15,
+        "reading_order_start": 21,
+        "reading_order_end": 21,
+        "bbox": [
+          330,
+          1619,
+          1288,
+          1730
+        ],
+        "child_box_ids": [
+          "page_0015_raw_0173"
+        ],
+        "region_role": "body_text",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "new_region_at_layout_boundary"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      }
+    ]
+  },
+  {
+    "page": "page_0016",
+    "page_number": 16,
+    "width": 1335,
+    "height": 1769,
+    "page_number_candidates": [
+      {
+        "box": {
+          "box_id": "page_0016_raw_0187",
+          "page": "page_0016",
+          "page_number": 16,
+          "label": "number",
+          "bbox": [
+            833,
+            1746,
+            868,
+            1769
+          ],
+          "text": "",
+          "layout_score": 0.7888772487640381,
+          "ocr_score": null,
+          "crop_path": null,
+          "source": {
+            "page": "page_0016",
+            "label": "number",
+            "cls_id": "3",
+            "score": "0.7888772487640381",
+            "x1": "833.0572509765625",
+            "y1": "1746.0831298828125",
+            "x2": "868.3733520507812",
+            "y2": "1769.4998779296875",
+            "width": "35.31610107421875",
+            "height": "23.416748046875"
+          }
+        },
+        "reading_order": 19,
+        "is_page_number_candidate": true,
+        "is_noise_candidate": false
+      }
+    ],
+    "regions": [
+      {
+        "region_id": "page_0016_region_001",
+        "page": "page_0016",
+        "page_number": 16,
+        "reading_order_start": 1,
+        "reading_order_end": 6,
+        "bbox": [
+          337,
+          224,
+          1305,
+          650
+        ],
+        "child_box_ids": [
+          "page_0016_raw_0199",
+          "page_0016_raw_0200",
+          "page_0016_raw_0198",
+          "page_0016_raw_0202",
+          "page_0016_raw_0192",
+          "page_0016_raw_0201"
+        ],
+        "region_role": "body_text",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": true,
+        "merge_reasons": [
+          "start_region",
+          "body_continuation"
+        ],
+        "review_reasons": [
+          "multiple_low_layout_scores"
+        ],
+        "suggested_actions": [
+          "review_boxes_or_redetect_layout"
+        ],
+        "quality_score": 0.85
+      },
+      {
+        "region_id": "page_0016_region_002",
+        "page": "page_0016",
+        "page_number": 16,
+        "reading_order_start": 7,
+        "reading_order_end": 7,
+        "bbox": [
+          760,
+          675,
+          899,
+          708
+        ],
+        "child_box_ids": [
+          "page_0016_raw_0193"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": true,
+        "merge_reasons": [
+          "new_region_at_layout_boundary"
+        ],
+        "review_reasons": [
+          "single_boundary_region"
+        ],
+        "suggested_actions": [
+          "review_merge_with_next_or_keep_as_title"
+        ],
+        "quality_score": 0.9
+      },
+      {
+        "region_id": "page_0016_region_003",
+        "page": "page_0016",
+        "page_number": 16,
+        "reading_order_start": 8,
+        "reading_order_end": 15,
+        "bbox": [
+          349,
+          731,
+          1320,
+          1460
+        ],
+        "child_box_ids": [
+          "page_0016_raw_0203",
+          "page_0016_raw_0191",
+          "page_0016_raw_0204",
+          "page_0016_raw_0189",
+          "page_0016_raw_0195",
+          "page_0016_raw_0197",
+          "page_0016_raw_0196",
+          "page_0016_raw_0194"
+        ],
+        "region_role": "body_text",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": true,
+        "merge_reasons": [
+          "new_region_after_gap_or_column_change",
+          "body_continuation"
+        ],
+        "review_reasons": [
+          "multiple_low_layout_scores"
+        ],
+        "suggested_actions": [
+          "review_boxes_or_redetect_layout"
+        ],
+        "quality_score": 0.85
+      },
+      {
+        "region_id": "page_0016_region_004",
+        "page": "page_0016",
+        "page_number": 16,
+        "reading_order_start": 16,
+        "reading_order_end": 16,
+        "bbox": [
+          773,
+          1182,
+          909,
+          1214
+        ],
+        "child_box_ids": [
+          "page_0016_raw_0188"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": true,
+        "merge_reasons": [
+          "new_region_at_layout_boundary"
+        ],
+        "review_reasons": [
+          "single_boundary_region"
+        ],
+        "suggested_actions": [
+          "review_merge_with_next_or_keep_as_title"
+        ],
+        "quality_score": 0.9
+      },
+      {
+        "region_id": "page_0016_region_005",
+        "page": "page_0016",
+        "page_number": 16,
+        "reading_order_start": 17,
+        "reading_order_end": 18,
+        "bbox": [
+          365,
+          1484,
+          1335,
+          1714
+        ],
+        "child_box_ids": [
+          "page_0016_raw_0190",
+          "page_0016_raw_0186"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "new_region_at_layout_boundary",
+          "title_followed_by_body"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      }
+    ]
+  },
+  {
+    "page": "page_0017",
+    "page_number": 17,
+    "width": 1337,
+    "height": 1784,
+    "page_number_candidates": [
+      {
+        "box": {
+          "box_id": "page_0017_raw_0207",
+          "page": "page_0017",
+          "page_number": 17,
+          "label": "number",
+          "bbox": [
+            836,
+            1761,
+            874,
+            1784
+          ],
+          "text": "",
+          "layout_score": 0.8278786540031433,
+          "ocr_score": null,
+          "crop_path": null,
+          "source": {
+            "page": "page_0017",
+            "label": "number",
+            "cls_id": "3",
+            "score": "0.8278786540031433",
+            "x1": "836.8902587890625",
+            "y1": "1761.505859375",
+            "x2": "874.642822265625",
+            "y2": "1784.8446044921875",
+            "width": "37.7525634765625",
+            "height": "23.3387451171875"
+          }
+        },
+        "reading_order": 11,
+        "is_page_number_candidate": true,
+        "is_noise_candidate": false
+      }
+    ],
+    "regions": [
+      {
+        "region_id": "page_0017_region_001",
+        "page": "page_0017",
+        "page_number": 17,
+        "reading_order_start": 1,
+        "reading_order_end": 3,
+        "bbox": [
+          376,
+          252,
+          1337,
+          658
+        ],
+        "child_box_ids": [
+          "page_0017_raw_0210",
+          "page_0017_raw_0205",
+          "page_0017_raw_0206"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "start_region",
+          "title_followed_by_body",
+          "body_continuation"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      },
+      {
+        "region_id": "page_0017_region_002",
+        "page": "page_0017",
+        "page_number": 17,
+        "reading_order_start": 4,
+        "reading_order_end": 4,
+        "bbox": [
+          725,
+          727,
+          988,
+          1099
+        ],
+        "child_box_ids": [
+          "page_0017_raw_0211"
+        ],
+        "region_role": "body_text",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "new_region_after_gap_or_column_change"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      },
+      {
+        "region_id": "page_0017_region_003",
+        "page": "page_0017",
+        "page_number": 17,
+        "reading_order_start": 5,
+        "reading_order_end": 7,
+        "bbox": [
+          374,
+          842,
+          1335,
+          1489
+        ],
+        "child_box_ids": [
+          "page_0017_raw_0214",
+          "page_0017_raw_0215",
+          "page_0017_raw_0208"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": true,
+        "merge_reasons": [
+          "new_region_at_layout_boundary",
+          "title_followed_by_body",
+          "body_continuation"
+        ],
+        "review_reasons": [
+          "multiple_low_layout_scores"
+        ],
+        "suggested_actions": [
+          "review_boxes_or_redetect_layout"
+        ],
+        "quality_score": 0.85
+      },
+      {
+        "region_id": "page_0017_region_004",
+        "page": "page_0017",
+        "page_number": 17,
+        "reading_order_start": 8,
+        "reading_order_end": 10,
+        "bbox": [
+          375,
+          1512,
+          1334,
+          1723
+        ],
+        "child_box_ids": [
+          "page_0017_raw_0212",
+          "page_0017_raw_0209",
+          "page_0017_raw_0213"
+        ],
+        "region_role": "content_block",
+        "text": "",
+        "needs_ocr": true,
+        "needs_review": false,
+        "merge_reasons": [
+          "new_region_at_layout_boundary",
+          "title_followed_by_body",
+          "body_continuation"
+        ],
+        "review_reasons": [],
+        "suggested_actions": [],
+        "quality_score": 1.0
+      }
+    ]
+  }
+]

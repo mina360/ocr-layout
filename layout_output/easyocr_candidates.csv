@@ -1,0 +1,109 @@
+﻿page,region_id,label,paddle_confidence,reasons,crop_path,paddle_text
+page_0003,page_0003_raw_0005,image,0.7248,low_paddle_confidence,layout_output\raw_box_crops\page_0003\page_0003_raw_0005.png,قانون التجارة / رقم ٣٣ للعام ٢٠٠٧ / رئيس الجمهورية / بناءَ على أحكام الدستور / وعلى ما أقرّه مجلس الشعب في جلسته المنعقدة بتاريخ ١٤٨١١٧ه / الموافق١ / ي / ا / اع و ل ي يي ي ية / اة / ال قي ة يو ي ي للول و و ل ل ي / ليو ي ي ي و لي ة ع ي ٥ ة ة / المادة ٣ / ينشر هذا القانون في الجريدة الرسمية ويعمل به ا
+page_0003,page_0003_raw_0010,doc_title,0.9062,title_or_number_label|small_numeric_box,layout_output\raw_box_crops\page_0003\page_0003_raw_0010.png,التجارة / قانون / رقم ٣٣ للعام ٢٠٠٧
+page_0003,page_0003_raw_0013,doc_title,0.4348,low_paddle_confidence|title_or_number_label|small_short_box,layout_output\raw_box_crops\page_0003\page_0003_raw_0013.png,اإر / يا
+page_0003,page_0003_raw_0006,doc_title,0.7608,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0003\page_0003_raw_0006.png,رقم ٣٣ للعام ٢٠٠٧
+page_0003,page_0003_raw_0017,text,0.9653,small_short_box,layout_output\raw_box_crops\page_0003\page_0003_raw_0017.png,رئيس الجمهورية
+page_0003,page_0003_raw_0019,text,0.9253,small_short_box,layout_output\raw_box_crops\page_0003\page_0003_raw_0019.png,بناءَ على أحكام الدستور
+page_0003,page_0003_raw_0020,text,0.9674,small_short_box,layout_output\raw_box_crops\page_0003\page_0003_raw_0020.png,يلي / يصدر
+page_0003,page_0003_raw_0011,text,0.9279,small_short_box,layout_output\raw_box_crops\page_0003\page_0003_raw_0011.png,المادة
+page_0003,page_0003_raw_0012,text,0.9069,small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0003\page_0003_raw_0012.png,المادة٢
+page_0003,page_0003_raw_0009,paragraph_title,0.9765,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0003\page_0003_raw_0009.png,المادة٣
+page_0003,page_0003_raw_0022,text,,empty_paddle_text|small_short_box,layout_output\raw_box_crops\page_0003\page_0003_raw_0022.png,
+page_0003,page_0003_raw_0004,text,0.6468,low_paddle_confidence|small_short_box,layout_output\raw_box_crops\page_0003\page_0003_raw_0004.png,مشق فيهلموافق
+page_0003,page_0003_raw_0003,text,0.9728,small_short_box,layout_output\raw_box_crops\page_0003\page_0003_raw_0003.png,الجمهورية / رئيس / بشار الأسد
+page_0003,page_0003_raw_0016,text,0.9703,small_short_box,layout_output\raw_box_crops\page_0003\page_0003_raw_0016.png,الجمهورية / رئيس
+page_0003,page_0003_raw_0014,text,0.9538,small_short_box,layout_output\raw_box_crops\page_0003\page_0003_raw_0014.png,بشار الأسد
+page_0003,page_0003_raw_0001,number,0.987,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0003\page_0003_raw_0001.png,٣
+page_0004,page_0004_raw_0034,text,0.8931,small_short_box,layout_output\raw_box_crops\page_0004\page_0004_raw_0034.png,أحكام عامة
+page_0004,page_0004_raw_0033,figure_title,0.9598,title_or_number_label|small_short_box,layout_output\raw_box_crops\page_0004\page_0004_raw_0033.png,المادة
+page_0004,page_0004_raw_0028,paragraph_title,0.9832,title_or_number_label|small_short_box,layout_output\raw_box_crops\page_0004\page_0004_raw_0028.png,المادة
+page_0004,page_0004_raw_0031,paragraph_title,0.8875,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0004\page_0004_raw_0031.png,المادة ٣
+page_0004,page_0004_raw_0030,paragraph_title,0.9309,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0004\page_0004_raw_0030.png,المادة٤
+page_0004,page_0004_raw_0029,number,0.7917,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0004\page_0004_raw_0029.png,3
+page_0005,page_0005_raw_0040,text,0.9173,small_numeric_box,layout_output\raw_box_crops\page_0005\page_0005_raw_0040.png,٢ويعدّ العرف الخأص والعرف المحلي مرجحين على العرف العام
+page_0005,page_0005_raw_0041,paragraph_title,0.9415,title_or_number_label|small_short_box,layout_output\raw_box_crops\page_0005\page_0005_raw_0041.png,المادة
+page_0005,page_0005_raw_0036,image,0.94,small_short_box,layout_output\raw_box_crops\page_0005\page_0005_raw_0036.png,الثاز / الباب / الأعمال التجارية
+page_0005,page_0005_raw_0039,figure_title,0.8713,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0005\page_0005_raw_0039.png,المادة٦
+page_0005,page_0005_raw_0037,number,0.2692,low_paddle_confidence|title_or_number_label|small_short_box,layout_output\raw_box_crops\page_0005\page_0005_raw_0037.png,.
+page_0006,page_0006_raw_0062,text,0.5468,low_paddle_confidence|small_short_box|latin_noise,layout_output\raw_box_crops\page_0006\page_0006_raw_0062.png,يو يإ Oو يي
+page_0006,page_0006_raw_0060,text,0.9628,small_short_box,layout_output\raw_box_crops\page_0006\page_0006_raw_0060.png,لـمشروع المخازن العامة
+page_0006,page_0006_raw_0065,text,0.931,small_short_box,layout_output\raw_box_crops\page_0006\page_0006_raw_0065.png,ممشروع المناجم والبترول
+page_0006,page_0006_raw_0059,text,0.9589,small_short_box,layout_output\raw_box_crops\page_0006\page_0006_raw_0059.png,نمشروع الاشغال العقارية
+page_0006,page_0006_raw_0061,text,0.9105,small_short_box,layout_output\raw_box_crops\page_0006\page_0006_raw_0061.png,عمشروع وكالة اشغال
+page_0006,page_0006_raw_0054,text,0.4992,low_paddle_confidence|small_short_box,layout_output\raw_box_crops\page_0006\page_0006_raw_0054.png,للل يي ي لوو يل ل ل لي ي لوي ي
+page_0006,page_0006_raw_0049,paragraph_title,0.9493,title_or_number_label|small_short_box,layout_output\raw_box_crops\page_0006\page_0006_raw_0049.png,المادة
+page_0006,page_0006_raw_0050,paragraph_title,0.9387,title_or_number_label|small_short_box,layout_output\raw_box_crops\page_0006\page_0006_raw_0050.png,المادة
+page_0006,page_0006_raw_0046,text,0.533,low_paddle_confidence|small_short_box|latin_noise,layout_output\raw_box_crops\page_0006\page_0006_raw_0046.png,L
+page_0006,page_0006_raw_0047,number,0.8425,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0006\page_0006_raw_0047.png,7
+page_0007,page_0007_raw_0071,header,0.7299,low_paddle_confidence|title_or_number_label|small_short_box,layout_output\raw_box_crops\page_0007\page_0007_raw_0071.png,ا / اي
+page_0007,page_0007_raw_0073,text,0.9515,small_short_box,layout_output\raw_box_crops\page_0007\page_0007_raw_0073.png,التجار
+page_0007,page_0007_raw_0076,text,0.8848,small_short_box,layout_output\raw_box_crops\page_0007\page_0007_raw_0076.png,الفصل الأول
+page_0007,page_0007_raw_0074,text,0.9551,small_short_box,layout_output\raw_box_crops\page_0007\page_0007_raw_0074.png,المادة
+page_0007,page_0007_raw_0069,text,0.5837,low_paddle_confidence,layout_output\raw_box_crops\page_0007\page_0007_raw_0069.png,ي لي ي ي و مل ي يي / ي ي ي ف / لةي و ي ي ي ي ل ي ييي و يو ل و ة / لي يق ي ي يي ي قووي يلع وي ي لي ل ل مّي ل ل ي ي ي / الع يل ي ل ي ولوم ل ل٥ ول ي ل٥ ي / المادة
+page_0007,page_0007_raw_0075,figure_title,0.8658,title_or_number_label|small_short_box,layout_output\raw_box_crops\page_0007\page_0007_raw_0075.png,المادة
+page_0007,page_0007_raw_0070,paragraph_title,0.9955,title_or_number_label|small_short_box,layout_output\raw_box_crops\page_0007\page_0007_raw_0070.png,المادة
+page_0007,page_0007_raw_0068,number,0.658,low_paddle_confidence|title_or_number_label|small_short_box|latin_noise,layout_output\raw_box_crops\page_0007\page_0007_raw_0068.png,V
+page_0008,page_0008_raw_0084,paragraph_title,0.9104,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0008\page_0008_raw_0084.png,المادة١
+page_0008,page_0008_raw_0080,paragraph_title,0.8559,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0008\page_0008_raw_0080.png,المادة ١٣
+page_0008,page_0008_raw_0082,paragraph_title,0.9159,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0008\page_0008_raw_0082.png,المادة ٤
+page_0008,page_0008_raw_0087,paragraph_title,0.8668,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0008\page_0008_raw_0087.png,المادة١٥
+page_0008,page_0008_raw_0091,paragraph_title,0.9861,title_or_number_label|small_short_box,layout_output\raw_box_crops\page_0008\page_0008_raw_0091.png,الثاني / الفصل
+page_0008,page_0008_raw_0089,paragraph_title,0.9669,title_or_number_label|small_short_box,layout_output\raw_box_crops\page_0008\page_0008_raw_0089.png,التجارة / دفاتر
+page_0008,page_0008_raw_0090,paragraph_title,0.9673,title_or_number_label|small_short_box,layout_output\raw_box_crops\page_0008\page_0008_raw_0090.png,المادة
+page_0008,page_0008_raw_0088,text,0.6,low_paddle_confidence,layout_output\raw_box_crops\page_0008\page_0008_raw_0088.png,على التاجر أن ينظم على الأقل الدفترين الإجباريين التاليين / tt / f
+page_0008,page_0008_raw_0093,text,0.907,small_numeric_box,layout_output\raw_box_crops\page_0008\page_0008_raw_0093.png,الدفاتر يومية مساعدة منظمة وفق أحكام المادتين ١٧و١٨ من هذا
+page_0008,page_0008_raw_0083,number,0.2798,low_paddle_confidence|title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0008\page_0008_raw_0083.png,٨
+page_0009,page_0009_raw_0097,paragraph_title,0.9318,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0009\page_0009_raw_0097.png,المادة١
+page_0009,page_0009_raw_0100,paragraph_title,0.9161,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0009\page_0009_raw_0100.png,المادة٨
+page_0009,page_0009_raw_0099,paragraph_title,0.895,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0009\page_0009_raw_0099.png,المادة٩
+page_0009,page_0009_raw_0108,paragraph_title,0.9621,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0009\page_0009_raw_0108.png,المادة٢
+page_0009,page_0009_raw_0096,number,0.6758,low_paddle_confidence|title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0009\page_0009_raw_0096.png,4
+page_0010,page_0010_raw_0130,text,,empty_paddle_text,layout_output\raw_box_crops\page_0010\page_0010_raw_0130.png,
+page_0010,page_0010_raw_0124,paragraph_title,0.8774,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0010\page_0010_raw_0124.png,المادة٢١
+page_0010,page_0010_raw_0129,text,0.9154,small_numeric_box,layout_output\raw_box_crops\page_0010\page_0010_raw_0129.png,٢ـوللقاضى أن يأمر من تلقاء نفسه الدفاتر المذكورة للغاية ذاتها
+page_0010,page_0010_raw_0118,paragraph_title,0.8737,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0010\page_0010_raw_0118.png,المادة٢٢
+page_0010,page_0010_raw_0128,text,0.9878,small_short_box,layout_output\raw_box_crops\page_0010\page_0010_raw_0128.png,الفصل الثالث
+page_0010,page_0010_raw_0127,paragraph_title,0.957,title_or_number_label|small_short_box,layout_output\raw_box_crops\page_0010\page_0010_raw_0127.png,التجارة / سجل
+page_0010,page_0010_raw_0125,paragraph_title,0.9305,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0010\page_0010_raw_0125.png,المادة ٢٣
+page_0010,page_0010_raw_0121,paragraph_title,0.8654,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0010\page_0010_raw_0121.png,المادة ٤٤
+page_0010,page_0010_raw_0120,number,,empty_paddle_text|title_or_number_label|small_short_box,layout_output\raw_box_crops\page_0010\page_0010_raw_0120.png,
+page_0011,page_0011_raw_0135,paragraph_title,0.8181,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0011\page_0011_raw_0135.png,المادة ٢٥
+page_0011,page_0011_raw_0133,number,,empty_paddle_text|title_or_number_label|small_short_box,layout_output\raw_box_crops\page_0011\page_0011_raw_0133.png,
+page_0012,page_0012_raw_0140,paragraph_title,0.9171,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0012\page_0012_raw_0140.png,المادة٢٦
+page_0012,page_0012_raw_0139,paragraph_title,0.8777,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0012\page_0012_raw_0139.png,المادة٢٧
+page_0012,page_0012_raw_0136,number,0.8189,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0012\page_0012_raw_0136.png,١
+page_0013,page_0013_raw_0145,paragraph_title,0.8959,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0013\page_0013_raw_0145.png,المادة٢٨
+page_0013,page_0013_raw_0143,number,0.7999,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0013\page_0013_raw_0143.png,١٣
+page_0014,page_0014_raw_0161,paragraph_title,0.9283,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0014\page_0014_raw_0161.png,المادة ٢٩
+page_0014,page_0014_raw_0158,paragraph_title,0.8966,title_or_number_label|small_short_box,layout_output\raw_box_crops\page_0014\page_0014_raw_0158.png,الشركات المدنية
+page_0014,page_0014_raw_0162,paragraph_title,0.9479,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0014\page_0014_raw_0162.png,المادة٣
+page_0014,page_0014_raw_0157,paragraph_title,0.911,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0014\page_0014_raw_0157.png,المادة٣
+page_0014,page_0014_raw_0160,text,0.9355,small_numeric_box,layout_output\raw_box_crops\page_0014\page_0014_raw_0160.png,٢ويجري هذا الشطب مباشرة بمقتضى قرار يصدره أمين سجل التجارة
+page_0014,page_0014_raw_0159,paragraph_title,0.9031,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0014\page_0014_raw_0159.png,المادة ٣٢
+page_0014,page_0014_raw_0154,number,0.6798,low_paddle_confidence|title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0014\page_0014_raw_0154.png,3
+page_0015,page_0015_raw_0185,header,,empty_paddle_text|title_or_number_label|small_short_box,layout_output\raw_box_crops\page_0015\page_0015_raw_0185.png,
+page_0015,page_0015_raw_0167,paragraph_title,0.96,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0015\page_0015_raw_0167.png,المادة ٣٣
+page_0015,page_0015_raw_0169,paragraph_title,0.9276,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0015\page_0015_raw_0169.png,المادة ٣٤
+page_0015,page_0015_raw_0170,paragraph_title,0.8743,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0015\page_0015_raw_0170.png,المادة ٣٥
+page_0015,page_0015_raw_0182,text,0.9385,small_short_box,layout_output\raw_box_crops\page_0015\page_0015_raw_0182.png,رسم يحدد من الوزير المختص
+page_0015,page_0015_raw_0181,text,0.944,small_numeric_box,layout_output\raw_box_crops\page_0015\page_0015_raw_0181.png,٢ـولأمين السجل عند الإقتضاء أن يعطي شهادة بعدم وجود قيود
+page_0015,page_0015_raw_0179,text,0.9352,small_numeric_box,layout_output\raw_box_crops\page_0015\page_0015_raw_0179.png,٣ـويصدّق أمين السجل مطابقة النسخ للأصل
+page_0015,page_0015_raw_0172,paragraph_title,0.8902,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0015\page_0015_raw_0172.png,المادة٣٦
+page_0015,page_0015_raw_0180,text,0.6353,low_paddle_confidence|small_numeric_box,layout_output\raw_box_crops\page_0015\page_0015_raw_0180.png,١الأحكام المعلنة للإفلاس إذا كان المفلس قد استرد اعتباره / f
+page_0015,page_0015_raw_0183,text,0.9356,small_short_box,layout_output\raw_box_crops\page_0015\page_0015_raw_0183.png,الحجر أو المساعدة القضائية
+page_0015,page_0015_raw_0174,paragraph_title,0.9124,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0015\page_0015_raw_0174.png,المادة٣٧
+page_0015,page_0015_raw_0171,paragraph_title,0.8914,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0015\page_0015_raw_0171.png,المادة٣٨
+page_0015,page_0015_raw_0168,number,0.5534,low_paddle_confidence|title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0015\page_0015_raw_0168.png,١
+page_0016,page_0016_raw_0198,text,0.4931,low_paddle_confidence,layout_output\raw_box_crops\page_0016\page_0016_raw_0198.png,ةيي ي ية و ي و ة ويي ول ل ي د / و ة ي يه هي و ل لي ي هي يلي
+page_0016,page_0016_raw_0193,paragraph_title,0.8564,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0016\page_0016_raw_0193.png,المادة ٣٩
+page_0016,page_0016_raw_0188,paragraph_title,0.8399,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0016\page_0016_raw_0188.png,المادة ٤
+page_0016,page_0016_raw_0190,paragraph_title,0.9479,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0016\page_0016_raw_0190.png,المادة٤١
+page_0016,page_0016_raw_0187,number,0.647,low_paddle_confidence|title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0016\page_0016_raw_0187.png,١٧
+page_0017,page_0017_raw_0210,paragraph_title,0.8926,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0017\page_0017_raw_0210.png,المادة ٤٢
+page_0017,page_0017_raw_0211,image,0.4917,low_paddle_confidence,layout_output\raw_box_crops\page_0017\page_0017_raw_0211.png,رة / ل / لعل / ي ي لي
+page_0017,page_0017_raw_0215,text,0.9981,small_short_box,layout_output\raw_box_crops\page_0017\page_0017_raw_0215.png,المتجر
+page_0017,page_0017_raw_0214,figure_title,0.971,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0017\page_0017_raw_0214.png,المادة ٤٣
+page_0017,page_0017_raw_0212,figure_title,0.9575,title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0017\page_0017_raw_0212.png,المادة ٤٤
+page_0017,page_0017_raw_0213,text,0.9556,small_numeric_box,layout_output\raw_box_crops\page_0017\page_0017_raw_0213.png,٢ـأما المتجر كمجموعة فيخضع لأحكام هذا القانون
+page_0017,page_0017_raw_0207,number,0.6945,low_paddle_confidence|title_or_number_label|small_short_box|small_numeric_box,layout_output\raw_box_crops\page_0017\page_0017_raw_0207.png,١٧

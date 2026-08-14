@@ -1,0 +1,3669 @@
+[
+  {
+    "region_id": "page_0003_raw_0005",
+    "box_id": "page_0003_raw_0005",
+    "page": "page_0003",
+    "page_number": 3,
+    "label": "image",
+    "layout_score": 0.42005831003189087,
+    "bbox": [
+      332,
+      277,
+      1296,
+      1631
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0003\\page_0003_raw_0005.png",
+    "paddle_text": "قانون التجارة\nرقم ٣٣ للعام ٢٠٠٧\nرئيس الجمهورية\nبناءَ على أحكام الدستور\nوعلى ما أقرّه مجلس الشعب في جلسته المنعقدة بتاريخ ١٤٨١١٧ه\nالموافق١\nي\nا\nاع و ل ي يي ي ية\nاة\nال قي ة يو ي ي للول و و ل ل ي\nليو ي ي ي و لي ة ع ي ٥ ة ة\nالمادة ٣\nينشر هذا القانون في الجريدة الرسمية ويعمل به اعتباراً من تاريخ\n٢٠٠٨٤١\nم٩ق في٤ه الموافق ٢\nرئيس الجمهورية\nبشار الأسد",
+    "paddle_confidence": 0.7248,
+    "easyocr_text": "قانون التجارة\n٧\nرقم ٣٣ للعام\nرئيس الجمهورية\nبناءً على\nأحكام\nالدستور .\nجلسته المنعقدة بتاريخ ١٧ ١١ ٤٢٨\nا هر\nوعلى ما أقره مجلس الشعب\nفي\nالموافق ٢٧ ١١ ٢٠٠٧م\nيصدر مايلي :\nالمادة\nتطبق\nأحكام\nقانون التجارة المرفق اعتبارا من تاريخ سريانه .\nالمادة\nيلغى اعتباراً\nالتاريخ\nالتشريعي\nرقم /١٤٩ الصادر في\nمن\nالمذكور المرسوم\n٢٢ ٦ ٩٤٩ ١م وتعديلاته وجميع الأحكام المخالفة لقانون التجارة المرفق .\nالمادة ٣\nينشسر هذا\nالقانون\nفي الجريدة الرسمية ويعمل به اعتباراً من تاريخ\n٨١ ٤ ٠٨ ٢٠م٠\nدمشق في ٢٩ ١ ٤٢٨\nا ه\nالموافق J ٩ ١٢ ٢٠٠٧م\nرئيس الجمهورية\nبشار الأسد",
+    "easyocr_confidence": 0.7418,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "image_label_but_document_has_no_real_images",
+      "has_easyocr_candidate_output",
+      "low_paddle_confidence",
+      "paddle_easyocr_disagree",
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0003_raw_0010",
+    "box_id": "page_0003_raw_0010",
+    "page": "page_0003",
+    "page_number": 3,
+    "label": "doc_title",
+    "layout_score": 0.366880863904953,
+    "bbox": [
+      591,
+      278,
+      1061,
+      483
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0003\\page_0003_raw_0010.png",
+    "paddle_text": "التجارة\nقانون\nرقم ٣٣ للعام ٢٠٠٧",
+    "paddle_confidence": 0.9062,
+    "easyocr_text": "قانون التجارة\n٧\nرقم ٣٣ للعام",
+    "easyocr_confidence": 0.7065,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree",
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0003_raw_0013",
+    "box_id": "page_0003_raw_0013",
+    "page": "page_0003",
+    "page_number": 3,
+    "label": "doc_title",
+    "layout_score": 0.33481305837631226,
+    "bbox": [
+      659,
+      280,
+      993,
+      352
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0003\\page_0003_raw_0013.png",
+    "paddle_text": "اإر\nيا",
+    "paddle_confidence": 0.4348,
+    "easyocr_text": "قانون التجارة",
+    "easyocr_confidence": 0.4357,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "low_paddle_confidence",
+      "paddle_easyocr_disagree"
+    ]
+  },
+  {
+    "region_id": "page_0003_raw_0006",
+    "box_id": "page_0003_raw_0006",
+    "page": "page_0003",
+    "page_number": 3,
+    "label": "doc_title",
+    "layout_score": 0.3922847509384155,
+    "bbox": [
+      592,
+      408,
+      1060,
+      482
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0003\\page_0003_raw_0006.png",
+    "paddle_text": "رقم ٣٣ للعام ٢٠٠٧",
+    "paddle_confidence": 0.7608,
+    "easyocr_text": "٧\nرقم ٣٣ للعام\nم",
+    "easyocr_confidence": 0.7325,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "low_paddle_confidence",
+      "paddle_easyocr_disagree"
+    ]
+  },
+  {
+    "region_id": "page_0003_raw_0018",
+    "box_id": "page_0003_raw_0018",
+    "page": "page_0003",
+    "page_number": 3,
+    "label": "formula",
+    "layout_score": 0.2931225299835205,
+    "bbox": [
+      334,
+      559,
+      1297,
+      1610
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0003\\page_0003_raw_0018.png",
+    "paddle_text": "رئيس الجمهورية\nبناءَ على أحكام الدستور\nوعلى ما أقرّه مجلس الشعب في جلسته المنعقدة بتاريخ ١٤٢٨١١١٧ه\nالموافق٢\nيصدر ما يلي\nالمادة\nتطبق أحكام قانون التجارة المرفق اعتباراً من تاريخ سريانه\nالمادة\nيلغى اعتباراً من التاريخ المنكور المرسوم التشريعي رقم ١٤٩ الصادر في\n١٩٤٩٦٢م وتعديلاته وجميع الأحكام المخالفة لقانون التجارة المرفق\nالمادة٣\nينشر هذا القانون في الجريدة الرسمية ويعمل به اعتباراً من تاريخ\n٤٧٠٢\nم د م\nيييي",
+    "paddle_confidence": 0.8317,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0003_raw_0021",
+    "box_id": "page_0003_raw_0021",
+    "page": "page_0003",
+    "page_number": 3,
+    "label": "text",
+    "layout_score": 0.26790839433670044,
+    "bbox": [
+      341,
+      572,
+      1235,
+      817
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0003\\page_0003_raw_0021.png",
+    "paddle_text": "رئيس الجمهورية\nبناءَ على أحكام الدستور\nوعلى ما أقرّه مجلس الشعب في جلسته المنعقدة بتاريخ ١٤٨١١١\nالموافق٢",
+    "paddle_confidence": 0.8842,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0003_raw_0017",
+    "box_id": "page_0003_raw_0017",
+    "page": "page_0003",
+    "page_number": 3,
+    "label": "text",
+    "layout_score": 0.2981775999069214,
+    "bbox": [
+      1031,
+      575,
+      1231,
+      615
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0003\\page_0003_raw_0017.png",
+    "paddle_text": "رئيس الجمهورية",
+    "paddle_confidence": 0.9653,
+    "easyocr_text": "الجمهورية\n-ئيس",
+    "easyocr_confidence": 0.6301,
+    "reasons": [
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0003_raw_0019",
+    "box_id": "page_0003_raw_0019",
+    "page": "page_0003",
+    "page_number": 3,
+    "label": "text",
+    "layout_score": 0.29209908843040466,
+    "bbox": [
+      928,
+      641,
+      1232,
+      685
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0003\\page_0003_raw_0019.png",
+    "paddle_text": "بناءَ على أحكام الدستور",
+    "paddle_confidence": 0.9253,
+    "easyocr_text": "أحكام\nبناءً على\nالدستور",
+    "easyocr_confidence": 0.6859,
+    "reasons": [
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree"
+    ]
+  },
+  {
+    "region_id": "page_0003_raw_0015",
+    "box_id": "page_0003_raw_0015",
+    "page": "page_0003",
+    "page_number": 3,
+    "label": "text",
+    "layout_score": 0.30085188150405884,
+    "bbox": [
+      343,
+      706,
+      1233,
+      815
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0003\\page_0003_raw_0015.png",
+    "paddle_text": "وعلى ما أقرّه مجلس الشعب في جلسته المنعقدة بتاريخ ١٤٨١١١٧\nالموافق١",
+    "paddle_confidence": 0.7939,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0003_raw_0020",
+    "box_id": "page_0003_raw_0020",
+    "page": "page_0003",
+    "page_number": 3,
+    "label": "text",
+    "layout_score": 0.28744637966156006,
+    "bbox": [
+      730,
+      842,
+      914,
+      883
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0003\\page_0003_raw_0020.png",
+    "paddle_text": "يلي\nيصدر",
+    "paddle_confidence": 0.9674,
+    "easyocr_text": "يصدر\nيلي",
+    "easyocr_confidence": 0.9903,
+    "reasons": [
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0003_raw_0011",
+    "box_id": "page_0003_raw_0011",
+    "page": "page_0003",
+    "page_number": 3,
+    "label": "text",
+    "layout_score": 0.345867782831192,
+    "bbox": [
+      767,
+      914,
+      879,
+      946
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0003\\page_0003_raw_0011.png",
+    "paddle_text": "المادة",
+    "paddle_confidence": 0.9279,
+    "easyocr_text": "المادة",
+    "easyocr_confidence": 0.8126,
+    "reasons": [
+      "has_easyocr_candidate_output",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0003_raw_0012",
+    "box_id": "page_0003_raw_0012",
+    "page": "page_0003",
+    "page_number": 3,
+    "label": "text",
+    "layout_score": 0.3369048833847046,
+    "bbox": [
+      763,
+      1051,
+      877,
+      1084
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0003\\page_0003_raw_0012.png",
+    "paddle_text": "المادة٢",
+    "paddle_confidence": 0.9069,
+    "easyocr_text": "المادة",
+    "easyocr_confidence": 0.9967,
+    "reasons": [
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0003_raw_0008",
+    "box_id": "page_0003_raw_0008",
+    "page": "page_0003",
+    "page_number": 3,
+    "label": "text",
+    "layout_score": 0.38956162333488464,
+    "bbox": [
+      336,
+      1111,
+      1297,
+      1220
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0003\\page_0003_raw_0008.png",
+    "paddle_text": "يلغى اعتباراً من التاريخ المذكور المرسوم التشريعي رقم ١٤٩ الصادر في\n١٩٤٩٦م وتعديلاته وجميع الأحكام المخالفة لقانون التجارة المرفق",
+    "paddle_confidence": 0.9397,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0003_raw_0009",
+    "box_id": "page_0003_raw_0009",
+    "page": "page_0003",
+    "page_number": 3,
+    "label": "paragraph_title",
+    "layout_score": 0.38648632168769836,
+    "bbox": [
+      759,
+      1248,
+      875,
+      1280
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0003\\page_0003_raw_0009.png",
+    "paddle_text": "المادة٣",
+    "paddle_confidence": 0.9765,
+    "easyocr_text": "المادة",
+    "easyocr_confidence": 0.9981,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0003_raw_0002",
+    "box_id": "page_0003_raw_0002",
+    "page": "page_0003",
+    "page_number": 3,
+    "label": "text",
+    "layout_score": 0.46002689003944397,
+    "bbox": [
+      334,
+      1307,
+      1294,
+      1422
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0003\\page_0003_raw_0002.png",
+    "paddle_text": "ينشر هذا القانون في الجريدة الرسمية ويعمل به اعتباراً من تاريخ\n٢٠٨٤١",
+    "paddle_confidence": 0.8991,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0003_raw_0022",
+    "box_id": "page_0003_raw_0022",
+    "page": "page_0003",
+    "page_number": 3,
+    "label": "text",
+    "layout_score": 0.2565719485282898,
+    "bbox": [
+      1124,
+      1380,
+      1291,
+      1422
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0003\\page_0003_raw_0022.png",
+    "paddle_text": "",
+    "paddle_confidence": null,
+    "easyocr_text": "١ ٤ ٢٠٠٨",
+    "easyocr_confidence": 0.8559,
+    "reasons": [
+      "has_easyocr_candidate_output",
+      "empty_paddle_text",
+      "paddle_easyocr_disagree",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0003_raw_0004",
+    "box_id": "page_0003_raw_0004",
+    "page": "page_0003",
+    "page_number": 3,
+    "label": "text",
+    "layout_score": 0.44285377860069275,
+    "bbox": [
+      581,
+      1453,
+      1225,
+      1498
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0003\\page_0003_raw_0004.png",
+    "paddle_text": "مشق فيهلموافق",
+    "paddle_confidence": 0.6468,
+    "easyocr_text": "الموافق\n_\nدمشق\n٢٩ ١ ٤٢٨\nاهر\n٩ ١٢ ٢٠٠٧م",
+    "easyocr_confidence": 0.7571,
+    "reasons": [
+      "has_easyocr_candidate_output",
+      "low_paddle_confidence",
+      "paddle_easyocr_disagree"
+    ]
+  },
+  {
+    "region_id": "page_0003_raw_0003",
+    "box_id": "page_0003_raw_0003",
+    "page": "page_0003",
+    "page_number": 3,
+    "label": "text",
+    "layout_score": 0.4450923204421997,
+    "bbox": [
+      369,
+      1525,
+      581,
+      1627
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0003\\page_0003_raw_0003.png",
+    "paddle_text": "الجمهورية\nرئيس\nبشار الأسد",
+    "paddle_confidence": 0.9728,
+    "easyocr_text": "رئيس الجمهورية\nبشار الأسد",
+    "easyocr_confidence": 0.6501,
+    "reasons": [
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree"
+    ]
+  },
+  {
+    "region_id": "page_0003_raw_0016",
+    "box_id": "page_0003_raw_0016",
+    "page": "page_0003",
+    "page_number": 3,
+    "label": "text",
+    "layout_score": 0.30036962032318115,
+    "bbox": [
+      370,
+      1526,
+      580,
+      1567
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0003\\page_0003_raw_0016.png",
+    "paddle_text": "الجمهورية\nرئيس",
+    "paddle_confidence": 0.9703,
+    "easyocr_text": "رئيس الجمهورية",
+    "easyocr_confidence": 0.7599,
+    "reasons": [
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree"
+    ]
+  },
+  {
+    "region_id": "page_0003_raw_0014",
+    "box_id": "page_0003_raw_0014",
+    "page": "page_0003",
+    "page_number": 3,
+    "label": "text",
+    "layout_score": 0.30760666728019714,
+    "bbox": [
+      404,
+      1588,
+      544,
+      1627
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0003\\page_0003_raw_0014.png",
+    "paddle_text": "بشار الأسد",
+    "paddle_confidence": 0.9538,
+    "easyocr_text": "بشار الأسد",
+    "easyocr_confidence": 0.6937,
+    "reasons": [
+      "has_easyocr_candidate_output",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0003_raw_0001",
+    "box_id": "page_0003_raw_0001",
+    "page": "page_0003",
+    "page_number": 3,
+    "label": "number",
+    "layout_score": 0.8211987018585205,
+    "bbox": [
+      802,
+      1780,
+      819,
+      1800
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0003\\page_0003_raw_0001.png",
+    "paddle_text": "٣",
+    "paddle_confidence": 0.987,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0004_raw_0032",
+    "box_id": "page_0004_raw_0032",
+    "page": "page_0004",
+    "page_number": 4,
+    "label": "image",
+    "layout_score": 0.4717876613140106,
+    "bbox": [
+      380,
+      252,
+      1266,
+      805
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0004\\page_0004_raw_0032.png",
+    "paddle_text": "التجارة\nقانون\nالكتاب الأول\nالتجارة على وم والجار والموات التجاالمتجر\nالباب الأول\nأحكام عامة\nالمادة",
+    "paddle_confidence": 0.9485,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "image_label_but_document_has_no_real_images",
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0004_raw_0034",
+    "box_id": "page_0004_raw_0034",
+    "page": "page_0004",
+    "page_number": 4,
+    "label": "text",
+    "layout_score": 0.2569800019264221,
+    "bbox": [
+      746,
+      692,
+      914,
+      749
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0004\\page_0004_raw_0034.png",
+    "paddle_text": "أحكام عامة",
+    "paddle_confidence": 0.8931,
+    "easyocr_text": "عامة\nأحكام",
+    "easyocr_confidence": 0.9965,
+    "reasons": [
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree"
+    ]
+  },
+  {
+    "region_id": "page_0004_raw_0033",
+    "box_id": "page_0004_raw_0033",
+    "page": "page_0004",
+    "page_number": 4,
+    "label": "figure_title",
+    "layout_score": 0.41266581416130066,
+    "bbox": [
+      777,
+      772,
+      889,
+      805
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0004\\page_0004_raw_0033.png",
+    "paddle_text": "المادة",
+    "paddle_confidence": 0.9598,
+    "easyocr_text": "المادة",
+    "easyocr_confidence": 0.7068,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output"
+    ]
+  },
+  {
+    "region_id": "page_0004_raw_0024",
+    "box_id": "page_0004_raw_0024",
+    "page": "page_0004",
+    "page_number": 4,
+    "label": "text",
+    "layout_score": 0.958302915096283,
+    "bbox": [
+      353,
+      843,
+      1319,
+      1001
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0004\\page_0004_raw_0024.png",
+    "paddle_text": "يتضمن هذا القانون القواعد المختصة بالأعمال التجارية التي يقوم بها أي\nشخص مهما كانت صفته القانونية ويتضمن من جهة أخرى الأحكام التي تطبق\nعلى الأشخاص الذين اتخذوا التجارة مهنة",
+    "paddle_confidence": 0.9593,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0004_raw_0028",
+    "box_id": "page_0004_raw_0028",
+    "page": "page_0004",
+    "page_number": 4,
+    "label": "paragraph_title",
+    "layout_score": 0.798930287361145,
+    "bbox": [
+      779,
+      1039,
+      893,
+      1070
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0004\\page_0004_raw_0028.png",
+    "paddle_text": "المادة",
+    "paddle_confidence": 0.9832,
+    "easyocr_text": "المادة",
+    "easyocr_confidence": 0.4901,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output"
+    ]
+  },
+  {
+    "region_id": "page_0004_raw_0027",
+    "box_id": "page_0004_raw_0027",
+    "page": "page_0004",
+    "page_number": 4,
+    "label": "text",
+    "layout_score": 0.8624343872070312,
+    "bbox": [
+      355,
+      1102,
+      1315,
+      1263
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0004\\page_0004_raw_0027.png",
+    "paddle_text": "إذا انتفى النص من هذا القانون فتطبق على المواد التجارية أحكام القانون المدني\nـ على أن تطبق هذه الأحكام لا يكون إلأ على نسبة اتفاقها مع المبادئ المختصة\nبالقانون التجاري والعرف التجاري",
+    "paddle_confidence": 0.9464,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0004_raw_0031",
+    "box_id": "page_0004_raw_0031",
+    "page": "page_0004",
+    "page_number": 4,
+    "label": "paragraph_title",
+    "layout_score": 0.744592010974884,
+    "bbox": [
+      780,
+      1299,
+      895,
+      1329
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0004\\page_0004_raw_0031.png",
+    "paddle_text": "المادة ٣",
+    "paddle_confidence": 0.8875,
+    "easyocr_text": "المادة",
+    "easyocr_confidence": 0.6577,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree"
+    ]
+  },
+  {
+    "region_id": "page_0004_raw_0025",
+    "box_id": "page_0004_raw_0025",
+    "page": "page_0004",
+    "page_number": 4,
+    "label": "text",
+    "layout_score": 0.9506476521492004,
+    "bbox": [
+      358,
+      1363,
+      1323,
+      1465
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0004\\page_0004_raw_0025.png",
+    "paddle_text": "إذا لم يوجد نص تشريعي يمكن تطبيقه، فللقاضي أن يسترشد بما استقر عليه\nالاجتهاد القضائى وبمباديئ العدالة والإنصاف والاستقامة التجارية",
+    "paddle_confidence": 0.9393,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0004_raw_0030",
+    "box_id": "page_0004_raw_0030",
+    "page": "page_0004",
+    "page_number": 4,
+    "label": "paragraph_title",
+    "layout_score": 0.754129946231842,
+    "bbox": [
+      786,
+      1499,
+      897,
+      1528
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0004\\page_0004_raw_0030.png",
+    "paddle_text": "المادة٤",
+    "paddle_confidence": 0.9309,
+    "easyocr_text": "المادة",
+    "easyocr_confidence": 0.9822,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0004_raw_0026",
+    "box_id": "page_0004_raw_0026",
+    "page": "page_0004",
+    "page_number": 4,
+    "label": "text",
+    "layout_score": 0.912895143032074,
+    "bbox": [
+      360,
+      1557,
+      1317,
+      1720
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0004\\page_0004_raw_0026.png",
+    "paddle_text": "١ على القاضي عند تحديد أثار العمل التجاري أن يطبق العرف المتوطد إلآإذا\nظهر أن المتعاقدين قصدوا مخالفة العرف أو كان العرف متعارضأً مع النصوص\nالتشريعية الإلزامية",
+    "paddle_confidence": 0.9451,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0004_raw_0029",
+    "box_id": "page_0004_raw_0029",
+    "page": "page_0004",
+    "page_number": 4,
+    "label": "number",
+    "layout_score": 0.7635974884033203,
+    "bbox": [
+      836,
+      1777,
+      847,
+      1798
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0004\\page_0004_raw_0029.png",
+    "paddle_text": "3",
+    "paddle_confidence": 0.7917,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0005_raw_0040",
+    "box_id": "page_0005_raw_0040",
+    "page": "page_0005",
+    "page_number": 5,
+    "label": "text",
+    "layout_score": 0.5617988705635071,
+    "bbox": [
+      507,
+      239,
+      1310,
+      281
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0005\\page_0005_raw_0040.png",
+    "paddle_text": "٢ويعدّ العرف الخأص والعرف المحلي مرجحين على العرف العام",
+    "paddle_confidence": 0.9173,
+    "easyocr_text": "الخاص\n٢ - ويعد العرف\nوالعرف المحلي مرجحين على العرف العام",
+    "easyocr_confidence": 0.6083,
+    "reasons": [
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree"
+    ]
+  },
+  {
+    "region_id": "page_0005_raw_0041",
+    "box_id": "page_0005_raw_0041",
+    "page": "page_0005",
+    "page_number": 5,
+    "label": "paragraph_title",
+    "layout_score": 0.5005205869674683,
+    "bbox": [
+      774,
+      312,
+      888,
+      345
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0005\\page_0005_raw_0041.png",
+    "paddle_text": "المادة",
+    "paddle_confidence": 0.9415,
+    "easyocr_text": "المادة",
+    "easyocr_confidence": 0.9719,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0005_raw_0036",
+    "box_id": "page_0005_raw_0036",
+    "page": "page_0005",
+    "page_number": 5,
+    "label": "image",
+    "layout_score": 0.7945266962051392,
+    "bbox": [
+      703,
+      616,
+      957,
+      785
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0005\\page_0005_raw_0036.png",
+    "paddle_text": "الثاز\nالباب\nالأعمال التجارية",
+    "paddle_confidence": 0.94,
+    "easyocr_text": "الباب\nالثاني\nالأعمال التجارية",
+    "easyocr_confidence": 0.7503,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "image_label_but_document_has_no_real_images",
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree"
+    ]
+  },
+  {
+    "region_id": "page_0005_raw_0039",
+    "box_id": "page_0005_raw_0039",
+    "page": "page_0005",
+    "page_number": 5,
+    "label": "figure_title",
+    "layout_score": 0.6277923583984375,
+    "bbox": [
+      775,
+      812,
+      888,
+      844
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0005\\page_0005_raw_0039.png",
+    "paddle_text": "المادة٦",
+    "paddle_confidence": 0.8713,
+    "easyocr_text": "المادة",
+    "easyocr_confidence": 0.6849,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0005_raw_0038",
+    "box_id": "page_0005_raw_0038",
+    "page": "page_0005",
+    "page_number": 5,
+    "label": "text",
+    "layout_score": 0.674835205078125,
+    "bbox": [
+      348,
+      878,
+      1320,
+      1727
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0005\\page_0005_raw_0038.png",
+    "paddle_text": "ثُعدّ بحكم ماهيتها الذاتية أعمالاً تجارية\nأ شراء المنقولات المادية وغير المادية لأجل بيعها بربح ما سواء بيعت على حالتها\nأم بعد شغلها أو تحويلها\nب شراء تلك الأشياء المنقولة نفسها لأجل تأجيرها أو استثجارها لأجل تأجيرها\nثانية\nجالبيع أو الاستئجار أو التأجير ثانية للأشياء المشتراة أو المستأجرة على الوجه\nالمبين فيما تقدم\nد أعمال الصرافة والمبادلة المالية ومعاملات المصارف العامة والخاصة\nهمشروع التوريد\nو مشروع المصانع وإن يكن مقترناً باستثمار زراعي، إلآ إذا كان تحويل المواد يتم\nبعمل يدوي بسيط\nزـ مشروع النقل براً أو جواً أو على سطح الماء\nحمشروع الوكالة والسمسرة\nطـمشروع التأمين بأنواعه\nيمشروع المشاهد العامة",
+    "paddle_confidence": 0.9512,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0005_raw_0037",
+    "box_id": "page_0005_raw_0037",
+    "page": "page_0005",
+    "page_number": 5,
+    "label": "number",
+    "layout_score": 0.7656030058860779,
+    "bbox": [
+      826,
+      1756,
+      839,
+      1773
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0005\\page_0005_raw_0037.png",
+    "paddle_text": ".",
+    "paddle_confidence": 0.2692,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "low_paddle_confidence",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0006_raw_0055",
+    "box_id": "page_0006_raw_0055",
+    "page": "page_0006",
+    "page_number": 6,
+    "label": "text",
+    "layout_score": 0.4000002145767212,
+    "bbox": [
+      344,
+      238,
+      1315,
+      1040
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0006\\page_0006_raw_0055.png",
+    "paddle_text": "ك مشروع النشر\nل مشروع المخازن العامة\nممشروع المناجم والبترول\nنمشروع الاشغال العقارية\nسمشروع شراء العقارات لبيعها بربح\nعمشروع وكالة اشغال\nفـكل مشروع لإنشاء وشراء بواخر معدّة للملاحة الداخلية أو الخارجية، بقصد\nاستثمارها تجارياً أو بيعها وكل بيع للبواخر المشتراة على هذا الوجه\nصـ جميع الإرساليات البحرية وكل عملية تتعلّق بها كالشراء أو بيع لوازمها من\nحبال وأشرعة ومؤن\nث إجارة السفن أو التزام النقل عليها والإقراض أو الاستقراض البحري\nخوسائر العقود المختصة بالتجارة البحرية كالاتفاقات والمقاولات على أجور البحار\nوبدل خدمتهم واستخدامهم للعمل على بواخر تجارية",
+    "paddle_confidence": 0.9329,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0006_raw_0062",
+    "box_id": "page_0006_raw_0062",
+    "page": "page_0006",
+    "page_number": 6,
+    "label": "text",
+    "layout_score": 0.280702143907547,
+    "bbox": [
+      1091,
+      240,
+      1313,
+      281
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0006\\page_0006_raw_0062.png",
+    "paddle_text": "يو يإ Oو يي",
+    "paddle_confidence": 0.5468,
+    "easyocr_text": "ك - مشروع النشر",
+    "easyocr_confidence": 0.6859,
+    "reasons": [
+      "has_easyocr_candidate_output",
+      "low_paddle_confidence",
+      "paddle_easyocr_disagree"
+    ]
+  },
+  {
+    "region_id": "page_0006_raw_0060",
+    "box_id": "page_0006_raw_0060",
+    "page": "page_0006",
+    "page_number": 6,
+    "label": "text",
+    "layout_score": 0.29998818039894104,
+    "bbox": [
+      982,
+      302,
+      1313,
+      343
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0006\\page_0006_raw_0060.png",
+    "paddle_text": "لـمشروع المخازن العامة",
+    "paddle_confidence": 0.9628,
+    "easyocr_text": "ل- مشروع المخازن العامة",
+    "easyocr_confidence": 0.5545,
+    "reasons": [
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree"
+    ]
+  },
+  {
+    "region_id": "page_0006_raw_0065",
+    "box_id": "page_0006_raw_0065",
+    "page": "page_0006",
+    "page_number": 6,
+    "label": "text",
+    "layout_score": 0.25341182947158813,
+    "bbox": [
+      966,
+      366,
+      1313,
+      410
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0006\\page_0006_raw_0065.png",
+    "paddle_text": "ممشروع المناجم والبترول",
+    "paddle_confidence": 0.931,
+    "easyocr_text": "المناجم\nوالبترول\nمشروع",
+    "easyocr_confidence": 0.8103,
+    "reasons": [
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree"
+    ]
+  },
+  {
+    "region_id": "page_0006_raw_0059",
+    "box_id": "page_0006_raw_0059",
+    "page": "page_0006",
+    "page_number": 6,
+    "label": "text",
+    "layout_score": 0.3101541996002197,
+    "bbox": [
+      965,
+      427,
+      1313,
+      467
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0006\\page_0006_raw_0059.png",
+    "paddle_text": "نمشروع الاشغال العقارية",
+    "paddle_confidence": 0.9589,
+    "easyocr_text": "ن- مشروع الاشغال العقارية .",
+    "easyocr_confidence": 0.8099,
+    "reasons": [
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree"
+    ]
+  },
+  {
+    "region_id": "page_0006_raw_0061",
+    "box_id": "page_0006_raw_0061",
+    "page": "page_0006",
+    "page_number": 6,
+    "label": "text",
+    "layout_score": 0.28363633155822754,
+    "bbox": [
+      1008,
+      549,
+      1309,
+      593
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0006\\page_0006_raw_0061.png",
+    "paddle_text": "عمشروع وكالة اشغال",
+    "paddle_confidence": 0.9105,
+    "easyocr_text": "٤- مشروع وكالة اشغال",
+    "easyocr_confidence": 0.5329,
+    "reasons": [
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree"
+    ]
+  },
+  {
+    "region_id": "page_0006_raw_0056",
+    "box_id": "page_0006_raw_0056",
+    "page": "page_0006",
+    "page_number": 6,
+    "label": "text",
+    "layout_score": 0.37641772627830505,
+    "bbox": [
+      347,
+      608,
+      1311,
+      713
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0006\\page_0006_raw_0056.png",
+    "paddle_text": "فـكل مشروع لإنشاء وشراء بواخر مُعدّة للملاحة الداخلية أو الخارجية، بقصد\nاستثمارها تجارياً أو بيعها وكل بيع للبواخر المشتراة على هذا الوجه",
+    "paddle_confidence": 0.9529,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0006_raw_0053",
+    "box_id": "page_0006_raw_0053",
+    "page": "page_0006",
+    "page_number": 6,
+    "label": "text",
+    "layout_score": 0.4292970299720764,
+    "bbox": [
+      345,
+      732,
+      1312,
+      834
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0006\\page_0006_raw_0053.png",
+    "paddle_text": "صـ جميع الإرساليات البحرية وكل عملية تتعلّق بها كالشراء أو بيع لوازمها من\nحبال وأشرعة ومؤن",
+    "paddle_confidence": 0.9332,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0006_raw_0054",
+    "box_id": "page_0006_raw_0054",
+    "page": "page_0006",
+    "page_number": 6,
+    "label": "text",
+    "layout_score": 0.4064708948135376,
+    "bbox": [
+      469,
+      863,
+      1312,
+      906
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0006\\page_0006_raw_0054.png",
+    "paddle_text": "للل يي ي لوو يل ل ل لي ي لوي ي",
+    "paddle_confidence": 0.4992,
+    "easyocr_text": "ث - إجارة\nالسفن\nأو التزام النقل عليها والإقراض أو الاستقراض البحريء",
+    "easyocr_confidence": 0.8003,
+    "reasons": [
+      "has_easyocr_candidate_output",
+      "low_paddle_confidence",
+      "paddle_easyocr_disagree"
+    ]
+  },
+  {
+    "region_id": "page_0006_raw_0057",
+    "box_id": "page_0006_raw_0057",
+    "page": "page_0006",
+    "page_number": 6,
+    "label": "text",
+    "layout_score": 0.3543204069137573,
+    "bbox": [
+      346,
+      933,
+      1307,
+      1038
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0006\\page_0006_raw_0057.png",
+    "paddle_text": "خوسائر العقود المختصة بالتجارة البحرية كالاتفاقات والمقاولات على أجور البحار\nوبدل خدمتهم واستخدامهم للعمل على بواخر تجارية",
+    "paddle_confidence": 0.9587,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0006_raw_0049",
+    "box_id": "page_0006_raw_0049",
+    "page": "page_0006",
+    "page_number": 6,
+    "label": "paragraph_title",
+    "layout_score": 0.6253847479820251,
+    "bbox": [
+      767,
+      1069,
+      883,
+      1099
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0006\\page_0006_raw_0049.png",
+    "paddle_text": "المادة",
+    "paddle_confidence": 0.9493,
+    "easyocr_text": "المادة",
+    "easyocr_confidence": 0.9864,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0006_raw_0048",
+    "box_id": "page_0006_raw_0048",
+    "page": "page_0006",
+    "page_number": 6,
+    "label": "text",
+    "layout_score": 0.7276723384857178,
+    "bbox": [
+      343,
+      1129,
+      1309,
+      1233
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0006\\page_0006_raw_0048.png",
+    "paddle_text": "وتُعدّ كذلك من الأعمال التجارية بحكم ماهيتها الذاتية، الأعمال التي يمكن\nاعتبارها مجانسة للأعمال المتقدمة لتشابه صفاتها وغاياتها",
+    "paddle_confidence": 0.9517,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0006_raw_0050",
+    "box_id": "page_0006_raw_0050",
+    "page": "page_0006",
+    "page_number": 6,
+    "label": "paragraph_title",
+    "layout_score": 0.5686819553375244,
+    "bbox": [
+      767,
+      1270,
+      882,
+      1300
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0006\\page_0006_raw_0050.png",
+    "paddle_text": "المادة",
+    "paddle_confidence": 0.9387,
+    "easyocr_text": "المادة",
+    "easyocr_confidence": 0.9977,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0006_raw_0064",
+    "box_id": "page_0006_raw_0064",
+    "page": "page_0006",
+    "page_number": 6,
+    "label": "text",
+    "layout_score": 0.2714522182941437,
+    "bbox": [
+      344,
+      1326,
+      1303,
+      1557
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0006\\page_0006_raw_0064.png",
+    "paddle_text": "١جميع الأعمال التي يقوم بها التاجر لحاجات تجارته ثعدّ تجارية أيضاً في نظر\nالقانون\n٢وعند قيام الشك، ثُعدّ أعمال التأجير صادرة منه لهذه الغاية إلآ إذا ثبت\nالعكس",
+    "paddle_confidence": 0.9628,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0006_raw_0052",
+    "box_id": "page_0006_raw_0052",
+    "page": "page_0006",
+    "page_number": 6,
+    "label": "text",
+    "layout_score": 0.4843575656414032,
+    "bbox": [
+      346,
+      1327,
+      1302,
+      1433
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0006\\page_0006_raw_0052.png",
+    "paddle_text": "جميع الأعمال التي يقوم بها التاجر لحاجات تجارته ثعّ تجارية أيضاً في نظر\nالقانون",
+    "paddle_confidence": 0.9724,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0006_raw_0051",
+    "box_id": "page_0006_raw_0051",
+    "page": "page_0006",
+    "page_number": 6,
+    "label": "text",
+    "layout_score": 0.5052178502082825,
+    "bbox": [
+      344,
+      1448,
+      1302,
+      1555
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0006\\page_0006_raw_0051.png",
+    "paddle_text": "٢وعند قيام الشك، ثُعدّ أعمال التأجير صادرة منه لهذه الغاية إلآ إذا ثبت\nالعكس",
+    "paddle_confidence": 0.974,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0006_raw_0046",
+    "box_id": "page_0006_raw_0046",
+    "page": "page_0006",
+    "page_number": 6,
+    "label": "text",
+    "layout_score": 0.8278083801269531,
+    "bbox": [
+      759,
+      1601,
+      887,
+      1627
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0006\\page_0006_raw_0046.png",
+    "paddle_text": "L",
+    "paddle_confidence": 0.533,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "low_paddle_confidence",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0006_raw_0047",
+    "box_id": "page_0006_raw_0047",
+    "page": "page_0006",
+    "page_number": 6,
+    "label": "number",
+    "layout_score": 0.7796631455421448,
+    "bbox": [
+      815,
+      1749,
+      829,
+      1769
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0006\\page_0006_raw_0047.png",
+    "paddle_text": "7",
+    "paddle_confidence": 0.8425,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0007_raw_0071",
+    "box_id": "page_0007_raw_0071",
+    "page": "page_0007",
+    "page_number": 7,
+    "label": "header",
+    "layout_score": 0.5241960883140564,
+    "bbox": [
+      674,
+      252,
+      994,
+      320
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0007\\page_0007_raw_0071.png",
+    "paddle_text": "ا\nاي",
+    "paddle_confidence": 0.7299,
+    "easyocr_text": "الباب الثالث",
+    "easyocr_confidence": 0.5836,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "low_paddle_confidence",
+      "paddle_easyocr_disagree"
+    ]
+  },
+  {
+    "region_id": "page_0007_raw_0073",
+    "box_id": "page_0007_raw_0073",
+    "page": "page_0007",
+    "page_number": 7,
+    "label": "text",
+    "layout_score": 0.39594942331314087,
+    "bbox": [
+      782,
+      361,
+      894,
+      407
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0007\\page_0007_raw_0073.png",
+    "paddle_text": "التجار",
+    "paddle_confidence": 0.9515,
+    "easyocr_text": "التجحار",
+    "easyocr_confidence": 0.3344,
+    "reasons": [
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree"
+    ]
+  },
+  {
+    "region_id": "page_0007_raw_0076",
+    "box_id": "page_0007_raw_0076",
+    "page": "page_0007",
+    "page_number": 7,
+    "label": "text",
+    "layout_score": 0.27084240317344666,
+    "bbox": [
+      736,
+      464,
+      934,
+      514
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0007\\page_0007_raw_0076.png",
+    "paddle_text": "الفصل الأول",
+    "paddle_confidence": 0.8848,
+    "easyocr_text": "الفصل الأول",
+    "easyocr_confidence": 0.9013,
+    "reasons": [
+      "has_easyocr_candidate_output"
+    ]
+  },
+  {
+    "region_id": "page_0007_raw_0072",
+    "box_id": "page_0007_raw_0072",
+    "page": "page_0007",
+    "page_number": 7,
+    "label": "text",
+    "layout_score": 0.5036161541938782,
+    "bbox": [
+      528,
+      465,
+      1143,
+      647
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0007\\page_0007_raw_0072.png",
+    "paddle_text": "الفصل الأول\nالتجار على وجه عام والأهلية المطلوبة للاتجار\nالمادة ٩",
+    "paddle_confidence": 0.9214,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0007_raw_0074",
+    "box_id": "page_0007_raw_0074",
+    "page": "page_0007",
+    "page_number": 7,
+    "label": "text",
+    "layout_score": 0.37645769119262695,
+    "bbox": [
+      779,
+      614,
+      892,
+      646
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0007\\page_0007_raw_0074.png",
+    "paddle_text": "المادة",
+    "paddle_confidence": 0.9551,
+    "easyocr_text": "المادة",
+    "easyocr_confidence": 0.9929,
+    "reasons": [
+      "has_easyocr_candidate_output"
+    ]
+  },
+  {
+    "region_id": "page_0007_raw_0069",
+    "box_id": "page_0007_raw_0069",
+    "page": "page_0007",
+    "page_number": 7,
+    "label": "text",
+    "layout_score": 0.6368142366409302,
+    "bbox": [
+      350,
+      686,
+      1310,
+      1087
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0007\\page_0007_raw_0069.png",
+    "paddle_text": "ي لي ي ي و مل ي يي\nي ي ي ف\nلةي و ي ي ي ي ل ي ييي و يو ل و ة\nلي يق ي ي يي ي قووي يلع وي ي لي ل ل مّي ل ل ي ي ي\nالع يل ي ل ي ولوم ل ل٥ ول ي ل٥ ي\nالمادة",
+    "paddle_confidence": 0.5837,
+    "easyocr_text": "ا - التجار هم\nأ- الأشخاص الذين تكون مهنتهم القيام بأعمال تجارية.\nب- الشركات التي يكون موضوعها تجارياً.\n٢- الشركات التي يكون موضوعها مدنيا ولكنها اتخذت صفة الشركات المساهمة أو\nالشركات المحدودة المسؤولية فتخضع لجميع التزامات التجارالمعينة في الفصلين\nالثاني\nوالثالث\nالآتيين ,\nولأحكام الصلح الواقي والإفلاس المقررة في هذا القانون .\nالمادة",
+    "easyocr_confidence": 0.6784,
+    "reasons": [
+      "has_easyocr_candidate_output",
+      "low_paddle_confidence",
+      "paddle_easyocr_disagree",
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0007_raw_0075",
+    "box_id": "page_0007_raw_0075",
+    "page": "page_0007",
+    "page_number": 7,
+    "label": "figure_title",
+    "layout_score": 0.30073025822639465,
+    "bbox": [
+      763,
+      1055,
+      898,
+      1087
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0007\\page_0007_raw_0075.png",
+    "paddle_text": "المادة",
+    "paddle_confidence": 0.8658,
+    "easyocr_text": "المادة",
+    "easyocr_confidence": 0.9953,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output"
+    ]
+  },
+  {
+    "region_id": "page_0007_raw_0066",
+    "box_id": "page_0007_raw_0066",
+    "page": "page_0007",
+    "page_number": 7,
+    "label": "text",
+    "layout_score": 0.9373977184295654,
+    "bbox": [
+      344,
+      1116,
+      1311,
+      1474
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0007\\page_0007_raw_0066.png",
+    "paddle_text": "إن الأفراد الذين يتعاطون تجارة صغيرة أو حرفة بسيطة ذات نفقات عامة\nزهيدة بحيث يعتمدون في الغالب على مساعيهم البدنية للحصول على أرباح قليلة\nلتأمين معيشهم أكثر من استادهم إلى رأس ما لهم النقدي، كالبائع الطواف أو البائع\nبالمياومة أو الذين يقومون بنقليات صغيرة على البر أو سطح الماء، لا يخضعون\nللواجبات المختصة بالدفاتر التجارية ولا لقواعد الشهر ولا لأحكام الإفلاس والصلح\nالواقي المنصوص عليها في هذا القانون",
+    "paddle_confidence": 0.9544,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0007_raw_0070",
+    "box_id": "page_0007_raw_0070",
+    "page": "page_0007",
+    "page_number": 7,
+    "label": "paragraph_title",
+    "layout_score": 0.5600416660308838,
+    "bbox": [
+      758,
+      1502,
+      894,
+      1533
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0007\\page_0007_raw_0070.png",
+    "paddle_text": "المادة",
+    "paddle_confidence": 0.9955,
+    "easyocr_text": "المادة",
+    "easyocr_confidence": 0.9981,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output"
+    ]
+  },
+  {
+    "region_id": "page_0007_raw_0067",
+    "box_id": "page_0007_raw_0067",
+    "page": "page_0007",
+    "page_number": 7,
+    "label": "text",
+    "layout_score": 0.9300873875617981,
+    "bbox": [
+      342,
+      1561,
+      1308,
+      1735
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0007\\page_0007_raw_0067.png",
+    "paddle_text": "كل من أعلن في الصحف أو النشرات أو أي واسطة أخرى عن نفسه كتاجر\nأو عن المحل الذي أسسه أو يستثمره للاشتغال بالمعاملات التجارية يُعدّ تاجراً وإن\nلم يتخذ التجارة مهنة مألوفة له",
+    "paddle_confidence": 0.9391,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0007_raw_0068",
+    "box_id": "page_0007_raw_0068",
+    "page": "page_0007",
+    "page_number": 7,
+    "label": "number",
+    "layout_score": 0.7969633936882019,
+    "bbox": [
+      810,
+      1761,
+      829,
+      1783
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0007\\page_0007_raw_0068.png",
+    "paddle_text": "V",
+    "paddle_confidence": 0.658,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "low_paddle_confidence",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0008_raw_0084",
+    "box_id": "page_0008_raw_0084",
+    "page": "page_0008",
+    "page_number": 8,
+    "label": "paragraph_title",
+    "layout_score": 0.7263544797897339,
+    "bbox": [
+      749,
+      249,
+      882,
+      280
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0008\\page_0008_raw_0084.png",
+    "paddle_text": "المادة١",
+    "paddle_confidence": 0.9104,
+    "easyocr_text": "المادة",
+    "easyocr_confidence": 0.8254,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0008_raw_0080",
+    "box_id": "page_0008_raw_0080",
+    "page": "page_0008",
+    "page_number": 8,
+    "label": "paragraph_title",
+    "layout_score": 0.7683437466621399,
+    "bbox": [
+      750,
+      450,
+      885,
+      482
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0008\\page_0008_raw_0080.png",
+    "paddle_text": "المادة ١٣",
+    "paddle_confidence": 0.8559,
+    "easyocr_text": "المادة\n٢",
+    "easyocr_confidence": 0.5827,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0008_raw_0094",
+    "box_id": "page_0008_raw_0094",
+    "page": "page_0008",
+    "page_number": 8,
+    "label": "text",
+    "layout_score": 0.2633571922779083,
+    "bbox": [
+      335,
+      507,
+      1297,
+      799
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0008\\page_0008_raw_0094.png",
+    "paddle_text": "١لا ثعدّ الدولة ودوائرها ولا الوحدات الإدارية واللجان والنوادي والجمعيات ذات\nالشخصية الاعتبارية من التجار وإن قامت بمعاملات تجارية، إلآ أن معاملاتها\nالمذكورة تكون خاضعة لأحكام قانون التجارة\nتعتبر المؤسسات العامة وشركات القطاع العام والمشترك تاجراً، إذا كان موضوعها\nتجارياً أو منحها القانون هذه الصفة",
+    "paddle_confidence": 0.9536,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0008_raw_0079",
+    "box_id": "page_0008_raw_0079",
+    "page": "page_0008",
+    "page_number": 8,
+    "label": "text",
+    "layout_score": 0.820382833480835,
+    "bbox": [
+      335,
+      509,
+      1294,
+      674
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0008\\page_0008_raw_0079.png",
+    "paddle_text": "١لا ثعدّ الدولة ودوائرها ولا الوحدات الإدارية واللجان والنوادي والجمعيات ذات\nالشخصية الاعتبارية من التجار وإن قامت بمعاملات تجارية، إلآ أن معاملاتها\nالمذكورة تكون خاضعة لأحكام قانون التجارة",
+    "paddle_confidence": 0.9395,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0008_raw_0082",
+    "box_id": "page_0008_raw_0082",
+    "page": "page_0008",
+    "page_number": 8,
+    "label": "paragraph_title",
+    "layout_score": 0.7641247510910034,
+    "bbox": [
+      755,
+      834,
+      889,
+      864
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0008\\page_0008_raw_0082.png",
+    "paddle_text": "المادة ٤",
+    "paddle_confidence": 0.9159,
+    "easyocr_text": "المادة\n٤",
+    "easyocr_confidence": 0.6778,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0008_raw_0087",
+    "box_id": "page_0008_raw_0087",
+    "page": "page_0008",
+    "page_number": 8,
+    "label": "paragraph_title",
+    "layout_score": 0.6018073558807373,
+    "bbox": [
+      757,
+      1031,
+      893,
+      1061
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0008\\page_0008_raw_0087.png",
+    "paddle_text": "المادة١٥",
+    "paddle_confidence": 0.8668,
+    "easyocr_text": "المادة",
+    "easyocr_confidence": 0.797,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0008_raw_0091",
+    "box_id": "page_0008_raw_0091",
+    "page": "page_0008",
+    "page_number": 8,
+    "label": "paragraph_title",
+    "layout_score": 0.49097755551338196,
+    "bbox": [
+      723,
+      1196,
+      927,
+      1248
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0008\\page_0008_raw_0091.png",
+    "paddle_text": "الثاني\nالفصل",
+    "paddle_confidence": 0.9861,
+    "easyocr_text": "الفصل\nالثاني",
+    "easyocr_confidence": 0.9776,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0008_raw_0089",
+    "box_id": "page_0008_raw_0089",
+    "page": "page_0008",
+    "page_number": 8,
+    "label": "paragraph_title",
+    "layout_score": 0.5657481551170349,
+    "bbox": [
+      736,
+      1277,
+      916,
+      1321
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0008\\page_0008_raw_0089.png",
+    "paddle_text": "التجارة\nدفاتر",
+    "paddle_confidence": 0.9669,
+    "easyocr_text": "دفاتر\nالتجارة",
+    "easyocr_confidence": 0.9164,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0008_raw_0090",
+    "box_id": "page_0008_raw_0090",
+    "page": "page_0008",
+    "page_number": 8,
+    "label": "paragraph_title",
+    "layout_score": 0.5558823943138123,
+    "bbox": [
+      762,
+      1356,
+      897,
+      1389
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0008\\page_0008_raw_0090.png",
+    "paddle_text": "المادة",
+    "paddle_confidence": 0.9673,
+    "easyocr_text": "المادة",
+    "easyocr_confidence": 0.7261,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0008_raw_0088",
+    "box_id": "page_0008_raw_0088",
+    "page": "page_0008",
+    "page_number": 8,
+    "label": "text",
+    "layout_score": 0.5998273491859436,
+    "bbox": [
+      539,
+      1415,
+      1306,
+      1462
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0008\\page_0008_raw_0088.png",
+    "paddle_text": "على التاجر أن ينظم على الأقل الدفترين الإجباريين التاليين\ntt\nf",
+    "paddle_confidence": 0.6,
+    "easyocr_text": "التاجر\nا - على\nأن ينظم على الأقلآ الدفترين الإجباريين التاليين :",
+    "easyocr_confidence": 0.725,
+    "reasons": [
+      "has_easyocr_candidate_output",
+      "low_paddle_confidence",
+      "paddle_easyocr_disagree"
+    ]
+  },
+  {
+    "region_id": "page_0008_raw_0085",
+    "box_id": "page_0008_raw_0085",
+    "page": "page_0008",
+    "page_number": 8,
+    "label": "text",
+    "layout_score": 0.7070149183273315,
+    "bbox": [
+      347,
+      1474,
+      1270,
+      1712
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0008\\page_0008_raw_0085.png",
+    "paddle_text": "أ دفتر اليومية يقيد فيه يوماً فيوماً جميع الأعمال التي تعود بوجه من الوجوه\nإلى مؤسسته التجارية وأن يقيد بالجملة شهراً فشهراً النفقات التي أنفقها على\nنفسه وأسرته وإذا كان التاجر يتبع الأسلوب الآلى فى محاسبته أو مسك\nالدفاتر يومية مساعدة منظمة وفق أحكام المادتين ١٧و١٨ من هذا",
+    "paddle_confidence": 0.9458,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0008_raw_0093",
+    "box_id": "page_0008_raw_0093",
+    "page": "page_0008",
+    "page_number": 8,
+    "label": "text",
+    "layout_score": 0.3062170147895813,
+    "bbox": [
+      351,
+      1664,
+      1219,
+      1713
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0008\\page_0008_raw_0093.png",
+    "paddle_text": "الدفاتر يومية مساعدة منظمة وفق أحكام المادتين ١٧و١٨ من هذا",
+    "paddle_confidence": 0.907,
+    "easyocr_text": "الدفاتر\nيومية مساعدة\nمنظمة\n9\n=فق أحكام\nالمادتين\n٧١ ١و١٨( من\nهذا",
+    "easyocr_confidence": 0.7594,
+    "reasons": [
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree"
+    ]
+  },
+  {
+    "region_id": "page_0008_raw_0083",
+    "box_id": "page_0008_raw_0083",
+    "page": "page_0008",
+    "page_number": 8,
+    "label": "number",
+    "layout_score": 0.7560209631919861,
+    "bbox": [
+      822,
+      1759,
+      840,
+      1784
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0008\\page_0008_raw_0083.png",
+    "paddle_text": "٨",
+    "paddle_confidence": 0.2798,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "low_paddle_confidence",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0009_raw_0112",
+    "box_id": "page_0009_raw_0112",
+    "page": "page_0009",
+    "page_number": 9,
+    "label": "text",
+    "layout_score": 0.2953678369522095,
+    "bbox": [
+      346,
+      237,
+      1318,
+      1772
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0009\\page_0009_raw_0112.png",
+    "paddle_text": "القانون، فله أن يقيد أعماله فى دفتر اليومية شهراً فشهراً، على أن يحتفظ\nبجميع الوثائق التي تتيح التدقيق في الأعمال المذكورة\nب دفتر جرد يتضمن جرداً سنوياً للموجودات والمطاليب العائدة لمؤسسته وأن\nيوقف حساباته سنوياً ليضع على أساسها الميزانية وحساب الأرباح والخسائر\nوينسخها في دفتر الجرد\nوعليه أن يحفظ ويرتب المراسلات التي يتلقاها وصور المراسلات التي\nيرسلها\n٣يجب تتظيم دفتري اليومية والجرد باللغة العربية ولوزير الاقتصاد والتجارة أن\nيعفي من هذا الشرط المؤسسات الأجنبية التي يحددها بقرار منه\nالمادة١٧\nيجب أن تنظم الدفاتر التجارية الإجبارية بحسب التاريخ وبلا بياض ولا فراغ\nولا نقل إلى الهامش ولا محو ولا تحشية بين السطور\nالمادة٨\nيجب ترقيم الدفاتر المذكورة والتأشير عليها وتوقيعها من رئيس محكمة البداية\nالمدنية أو من قاضي الصلح في المدن التي لا توجد فيها محكمة بداية\nالمادة ١٩\nيجب على التاجر أن يحفظ الدفاتر بعد اختتامها مدّة عشر سنوات\n٢للمؤسسات التجارية التي يعينها وزير الاقتصاد والتجارة أن تحتفظ للمدّة المذكورة\nاييع يد ي يـ ي ي ه ميي ي ي يو O وي\nي يي ة ي و ل و لةةوي\nا\nل ول ييل ي ي\nي وو وع ل و وو يعي",
+    "paddle_confidence": 0.8291,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0009_raw_0109",
+    "box_id": "page_0009_raw_0109",
+    "page": "page_0009",
+    "page_number": 9,
+    "label": "text",
+    "layout_score": 0.3235388994216919,
+    "bbox": [
+      352,
+      240,
+      1316,
+      806
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0009\\page_0009_raw_0109.png",
+    "paddle_text": "القانون، فله أن يقيد أعماله فى دفتر اليومية شهراً فشهراً، على أن يحتفظ\nبجميع الوثائق التي تتيح التدقيق في الأعمال المذكورة\nبدفتر جرد يتضمن جرداً سنوياً للموجودات والمطاليب العائدة لمؤسسته وأن\nيوقف حساباته سنوياً ليضع على أساسها الميزانية وحساب الأرباح والخسائر\nوينسخها في دفتر الجرد\nوعليه أن يحفظ ويرتب المراسلات التي يتلقاها وصور المراسلات التي\nيرسلها\n٣يجب تتظيم دفتري اليومية والجرد باللغة العربية ولوزير الاقتصاد والتجارة أن\nيعفي من هذا الشرط المؤسسات الأجنبية التي يحددها بقرار منه",
+    "paddle_confidence": 0.953,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0009_raw_0114",
+    "box_id": "page_0009_raw_0114",
+    "page": "page_0009",
+    "page_number": 9,
+    "label": "text",
+    "layout_score": 0.277164101600647,
+    "bbox": [
+      584,
+      306,
+      1226,
+      354
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0009\\page_0009_raw_0114.png",
+    "paddle_text": "بجميع الوثائق التي تتيح التدقيق في الأعمال المذكورة",
+    "paddle_confidence": 0.9762,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0009_raw_0113",
+    "box_id": "page_0009_raw_0113",
+    "page": "page_0009",
+    "page_number": 9,
+    "label": "text",
+    "layout_score": 0.2922423183917999,
+    "bbox": [
+      509,
+      759,
+      1272,
+      805
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0009\\page_0009_raw_0113.png",
+    "paddle_text": "يعفي من هذا الشرط المؤسسات الأجنبية التي يحددها بقرار منه",
+    "paddle_confidence": 0.9738,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0009_raw_0097",
+    "box_id": "page_0009_raw_0097",
+    "page": "page_0009",
+    "page_number": 9,
+    "label": "paragraph_title",
+    "layout_score": 0.6964437365531921,
+    "bbox": [
+      766,
+      832,
+      903,
+      862
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0009\\page_0009_raw_0097.png",
+    "paddle_text": "المادة١",
+    "paddle_confidence": 0.9318,
+    "easyocr_text": "المادة",
+    "easyocr_confidence": 0.997,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0009_raw_0100",
+    "box_id": "page_0009_raw_0100",
+    "page": "page_0009",
+    "page_number": 9,
+    "label": "paragraph_title",
+    "layout_score": 0.6417863368988037,
+    "bbox": [
+      765,
+      1031,
+      900,
+      1062
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0009\\page_0009_raw_0100.png",
+    "paddle_text": "المادة٨",
+    "paddle_confidence": 0.9161,
+    "easyocr_text": "المادة\n٨",
+    "easyocr_confidence": 0.6347,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0009_raw_0099",
+    "box_id": "page_0009_raw_0099",
+    "page": "page_0009",
+    "page_number": 9,
+    "label": "paragraph_title",
+    "layout_score": 0.6606019735336304,
+    "bbox": [
+      763,
+      1227,
+      899,
+      1258
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0009\\page_0009_raw_0099.png",
+    "paddle_text": "المادة٩",
+    "paddle_confidence": 0.895,
+    "easyocr_text": "المادة\n٩",
+    "easyocr_confidence": 0.8589,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0009_raw_0110",
+    "box_id": "page_0009_raw_0110",
+    "page": "page_0009",
+    "page_number": 9,
+    "label": "text",
+    "layout_score": 0.3058672845363617,
+    "bbox": [
+      478,
+      1291,
+      1307,
+      1333
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0009\\page_0009_raw_0110.png",
+    "paddle_text": "يجب على التاجر أن يحفظ الدفاتر بعد اختتامها مدّة عشر سنوات",
+    "paddle_confidence": 0.9636,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0009_raw_0108",
+    "box_id": "page_0009_raw_0108",
+    "page": "page_0009",
+    "page_number": 9,
+    "label": "paragraph_title",
+    "layout_score": 0.45674827694892883,
+    "bbox": [
+      758,
+      1557,
+      895,
+      1589
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0009\\page_0009_raw_0108.png",
+    "paddle_text": "المادة٢",
+    "paddle_confidence": 0.9621,
+    "easyocr_text": "المادة",
+    "easyocr_confidence": 0.9893,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0009_raw_0096",
+    "box_id": "page_0009_raw_0096",
+    "page": "page_0009",
+    "page_number": 9,
+    "label": "number",
+    "layout_score": 0.776057779788971,
+    "bbox": [
+      817,
+      1762,
+      830,
+      1783
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0009\\page_0009_raw_0096.png",
+    "paddle_text": "4",
+    "paddle_confidence": 0.6758,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "low_paddle_confidence",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0010_raw_0130",
+    "box_id": "page_0010_raw_0130",
+    "page": "page_0010",
+    "page_number": 10,
+    "label": "text",
+    "layout_score": 0.30737823247909546,
+    "bbox": [
+      333,
+      2,
+      1281,
+      96
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0010\\page_0010_raw_0130.png",
+    "paddle_text": "",
+    "paddle_confidence": null,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "empty_paddle_text"
+    ]
+  },
+  {
+    "region_id": "page_0010_raw_0124",
+    "box_id": "page_0010_raw_0124",
+    "page": "page_0010",
+    "page_number": 10,
+    "label": "paragraph_title",
+    "layout_score": 0.7342394590377808,
+    "bbox": [
+      749,
+      247,
+      883,
+      280
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0010\\page_0010_raw_0124.png",
+    "paddle_text": "المادة٢١",
+    "paddle_confidence": 0.8774,
+    "easyocr_text": "المادة",
+    "easyocr_confidence": 0.7822,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0010_raw_0129",
+    "box_id": "page_0010_raw_0129",
+    "page": "page_0010",
+    "page_number": 10,
+    "label": "text",
+    "layout_score": 0.32976987957954407,
+    "bbox": [
+      520,
+      431,
+      1294,
+      476
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0010\\page_0010_raw_0129.png",
+    "paddle_text": "٢ـوللقاضى أن يأمر من تلقاء نفسه الدفاتر المذكورة للغاية ذاتها",
+    "paddle_confidence": 0.9154,
+    "easyocr_text": "٢- وللقاضي أن يأمر من تلقاء نفسه\nالدفاتر\nالمذكورة للغاية ذاتها",
+    "easyocr_confidence": 0.7908,
+    "reasons": [
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree"
+    ]
+  },
+  {
+    "region_id": "page_0010_raw_0118",
+    "box_id": "page_0010_raw_0118",
+    "page": "page_0010",
+    "page_number": 10,
+    "label": "paragraph_title",
+    "layout_score": 0.7950047850608826,
+    "bbox": [
+      750,
+      510,
+      887,
+      541
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0010\\page_0010_raw_0118.png",
+    "paddle_text": "المادة٢٢",
+    "paddle_confidence": 0.8737,
+    "easyocr_text": "المادة",
+    "easyocr_confidence": 0.9598,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0010_raw_0128",
+    "box_id": "page_0010_raw_0128",
+    "page": "page_0010",
+    "page_number": 10,
+    "label": "text",
+    "layout_score": 0.3848838210105896,
+    "bbox": [
+      709,
+      715,
+      923,
+      767
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0010\\page_0010_raw_0128.png",
+    "paddle_text": "الفصل الثالث",
+    "paddle_confidence": 0.9878,
+    "easyocr_text": "الفصل الثالث",
+    "easyocr_confidence": 0.8493,
+    "reasons": [
+      "has_easyocr_candidate_output",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0010_raw_0127",
+    "box_id": "page_0010_raw_0127",
+    "page": "page_0010",
+    "page_number": 10,
+    "label": "paragraph_title",
+    "layout_score": 0.45950281620025635,
+    "bbox": [
+      724,
+      796,
+      912,
+      840
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0010\\page_0010_raw_0127.png",
+    "paddle_text": "التجارة\nسجل",
+    "paddle_confidence": 0.957,
+    "easyocr_text": "سجل التجارة",
+    "easyocr_confidence": 0.8829,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0010_raw_0125",
+    "box_id": "page_0010_raw_0125",
+    "page": "page_0010",
+    "page_number": 10,
+    "label": "paragraph_title",
+    "layout_score": 0.670905590057373,
+    "bbox": [
+      752,
+      873,
+      890,
+      908
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0010\\page_0010_raw_0125.png",
+    "paddle_text": "المادة ٢٣",
+    "paddle_confidence": 0.9305,
+    "easyocr_text": "المادة\n٣",
+    "easyocr_confidence": 0.8766,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0010_raw_0121",
+    "box_id": "page_0010_raw_0121",
+    "page": "page_0010",
+    "page_number": 10,
+    "label": "paragraph_title",
+    "layout_score": 0.7776631712913513,
+    "bbox": [
+      756,
+      1187,
+      893,
+      1220
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0010\\page_0010_raw_0121.png",
+    "paddle_text": "المادة ٤٤",
+    "paddle_confidence": 0.8654,
+    "easyocr_text": "المادة ٤",
+    "easyocr_confidence": 0.9478,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0010_raw_0120",
+    "box_id": "page_0010_raw_0120",
+    "page": "page_0010",
+    "page_number": 10,
+    "label": "number",
+    "layout_score": 0.7879440188407898,
+    "bbox": [
+      811,
+      1763,
+      844,
+      1784
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0010\\page_0010_raw_0120.png",
+    "paddle_text": "",
+    "paddle_confidence": null,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "empty_paddle_text",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0011_raw_0134",
+    "box_id": "page_0011_raw_0134",
+    "page": "page_0011",
+    "page_number": 11,
+    "label": "text",
+    "layout_score": 0.5977453589439392,
+    "bbox": [
+      344,
+      356,
+      1320,
+      1713
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0011\\page_0011_raw_0134.png",
+    "paddle_text": "المادة ٢٥\n١يجب على كل تاجر أن يطلب من أمين سجل التجارة في المحافظة التي يوجد\nفيها مركزه الرئيسي أن يسجل اسمه في سجل التجارة في خلال شهر واحد من\nتاريخ فتح المحل أو شرائه\nعلى التاجر أن يقدم تصريحاً في نسختين موقعتين منه يذكر فيه ما يلي\nأ-اسمه ونسبته\nباسمه التجاري إذا اختلف عن اسمه وعنوانه التجاري\nجتاريخ ولادته ومحلها وموطنه\nد جنسيته الأصلية، وإذا كان قد حصل على جنسية أخرى، فيبين طريقة\nحصوله عليها مع ذكر التاريخ\nهوإذا كان الأمر يختص بامرأة متزوجة تابعة لجنسية أجنبية يقضي قانون\nالأحوال الشخصية الذي تخضع له بألا تتعاطى التجارة إلأ بترخيص صريح\nمن زوجها، فيذكر الترخيص المعطى لها وفاقاً قانون المشار إليه\nوالنظام المالي للزوجين إذا اختلف عن أحكام القانون السوري والاتفاقية\nالمعقودة بينهما وذلك في حال وجودها\nز موضوع التجارة\nحالمتاجر التي يستثمرها التاجر أو التي سبق له استثمارها في سورية ومكانها\nط شعائر المتجر إن وجد\nيأسماء المفوضين بالنيابة عنهم ونسبتهم وتاريخ ولادتهم ومحلها\nوجنسيتهم\n٣ـينقل أمين السجل محتوى التصريح إلى سجل التجارة ويسلم التاجر إحدى نسختي\nالتصريح بعد أن يصادق في آخرها على أنها مطابقة للأصل",
+    "paddle_confidence": 0.945,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0011_raw_0135",
+    "box_id": "page_0011_raw_0135",
+    "page": "page_0011",
+    "page_number": 11,
+    "label": "paragraph_title",
+    "layout_score": 0.32611843943595886,
+    "bbox": [
+      779,
+      356,
+      917,
+      390
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0011\\page_0011_raw_0135.png",
+    "paddle_text": "المادة ٢٥",
+    "paddle_confidence": 0.8181,
+    "easyocr_text": "المادة",
+    "easyocr_confidence": 0.9896,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0011_raw_0133",
+    "box_id": "page_0011_raw_0133",
+    "page": "page_0011",
+    "page_number": 11,
+    "label": "number",
+    "layout_score": 0.8093596696853638,
+    "bbox": [
+      798,
+      1738,
+      832,
+      1760
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0011\\page_0011_raw_0133.png",
+    "paddle_text": "",
+    "paddle_confidence": null,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "empty_paddle_text",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0012_raw_0140",
+    "box_id": "page_0012_raw_0140",
+    "page": "page_0012",
+    "page_number": 12,
+    "label": "paragraph_title",
+    "layout_score": 0.40353965759277344,
+    "bbox": [
+      735,
+      221,
+      871,
+      253
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0012\\page_0012_raw_0140.png",
+    "paddle_text": "المادة٢٦",
+    "paddle_confidence": 0.9171,
+    "easyocr_text": "المادة",
+    "easyocr_confidence": 0.7271,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0012_raw_0142",
+    "box_id": "page_0012_raw_0142",
+    "page": "page_0012",
+    "page_number": 12,
+    "label": "formula",
+    "layout_score": 0.3495329022407532,
+    "bbox": [
+      330,
+      236,
+      1304,
+      1698
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0012\\page_0012_raw_0142.png",
+    "paddle_text": "المادة٦\n١يجب أن يذكر في سجل التجارة\nأـ كل تعديل يتعلّق بالأمور التي تقضي المادة السابقة بقيدها في السجل\nبشهادات الاختراع التي يستثمرها التاجر والعلامات التي يستعملها للمصنع\nأو التجارة\nجالأحكام والقرارات القاضية بتعيين وصيّ عليه أو قيّم أو مساعد قضائي\nللتاجر المسجل أو بالحجر عليه أو برفع هذه التدابير عنه\nدالأحكام والقرارات المعلنة للإفلاس أو المتضمنة تصديق الصلح أو فسخه\nأو إبطاله أو المعلنة لمعذرة المفلس أو القاضية بإغلاق التفليسة لعدم كفاية\nالموجودات أو بالعدول عن إغلاقها أو بإعادة الإعتبار\nهالتفرغ عن المحل التجاري\nويجري القيد بناءَ على طلب التاجر في الأحوال المشار إليها في الفقراتأ،\nب، هويجري في الأحوال المشار إليها في الفقرتين ج، د بناء على طلب\nكاتب المحكمة التى أصدرت القرارات المراد قيدها\nتسجيل الشركات التجارية التي يكون مركزها الرئيسي في سورية\nالمادة ٧\n١إن الشركات التي يكون مركزها الرئيسي في سورية مهما كانت جنسيتهاء يجب\nتسجيلها في سجل التجارة المختص بمنطقة مركزها الرئيسي، ويجب على\nمديريها وأعضاء مجلس إدارتها أن يطلبوا التسجيل في خلال الشهر الذي يلي\nتأسيسها\nويقدم طالبو التسجيل إلى أمين سجل التجارة صورة مصدقة عن صك تأسيس\nالشركة أو نظامها الأساسى وخلاصة لهذا الصك أو النظام معدّة للشهر ومنظمة\nعلى نسختين ومشتملة على الطوابع وعلى تواقيع طالبي التسجيل ومتضمنه\nبوجه خاص البيانات الآتية",
+    "paddle_confidence": 0.936,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0012_raw_0139",
+    "box_id": "page_0012_raw_0139",
+    "page": "page_0012",
+    "page_number": 12,
+    "label": "paragraph_title",
+    "layout_score": 0.4352579414844513,
+    "bbox": [
+      755,
+      1161,
+      894,
+      1194
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0012\\page_0012_raw_0139.png",
+    "paddle_text": "المادة٢٧",
+    "paddle_confidence": 0.8777,
+    "easyocr_text": "المادة",
+    "easyocr_confidence": 0.9816,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0012_raw_0136",
+    "box_id": "page_0012_raw_0136",
+    "page": "page_0012",
+    "page_number": 12,
+    "label": "number",
+    "layout_score": 0.7906366586685181,
+    "bbox": [
+      818,
+      1729,
+      853,
+      1753
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0012\\page_0012_raw_0136.png",
+    "paddle_text": "١",
+    "paddle_confidence": 0.8189,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0013_raw_0147",
+    "box_id": "page_0013_raw_0147",
+    "page": "page_0013",
+    "page_number": 13,
+    "label": "reference",
+    "layout_score": 0.2997902035713196,
+    "bbox": [
+      366,
+      261,
+      1332,
+      1755
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0013\\page_0013_raw_0147.png",
+    "paddle_text": "أ اسم ونسبة كل من الشركاء ما عدا المساهمين وجنسية كل منهم موضحة\nوفقاً لما ورد في الفقرة د من المادة ٢٥وتاريخ ولادته ومحلها\nباسم الشركة التجاري أو عنوانها\nجموضوع الشركة\nد الأماكن التي فيها مركز الشركة أو فروعها ومتاجرها في سورية أو خارجها\nهـأسماء الشركاء أو غير المرخص لهم بإدارة الشركة وتدبير أمورها أو التوقيع\nعنها\nو رأس مال الشركة وكيفية تسديده\nز ميعاد ابتداء الشركة وميعاد انتهائها\nحماهية الشركة\nالمادة٨\nيجب أن يذكر أيضاً في سجل التجارة\n١ـكل تعديل يختص بالأمور واجب تسجيلها أو الوثائق الواجب إيداعها بمقتضى\nالمادة السابقة\n٢الاسم والنسبة وتاريخ الولادة ومحلها والجنسية لكل من مديري الشركة وأعضاء\nمجلس إدارتها ومديريها المعينين لمدّة وجودها أما طلب التسجيل فيقدمه المديرون\nوأعضاء مجلس الإدارة القائمون بوظائفهم في وقت وجوب التسجيل\n٣شهادات الاختراع المستثمرة والعلامات التجارية الصناعية التي تستعملها الشركة\n٤الأحكام أو القرارات القاضية بحل الشركة أو إبطالها\nالأحكام أو القرارات المعلنة إفلاس الشركة أو تصديق الصلح الواقي والمقررات\nالمختصة بهما\nالشركات التجارية المؤسسة خارج الأراضي السورية ولها فروع أو وكالات في\nسورية وكذلك التجار الذين لهم مركز رئيسي في الخارج وفروع أو وكالات في سورية\nمهما كانت جنسيتهم",
+    "paddle_confidence": 0.9551,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0013_raw_0145",
+    "box_id": "page_0013_raw_0145",
+    "page": "page_0013",
+    "page_number": 13,
+    "label": "paragraph_title",
+    "layout_score": 0.3977346122264862,
+    "bbox": [
+      786,
+      896,
+      923,
+      928
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0013\\page_0013_raw_0145.png",
+    "paddle_text": "المادة٢٨",
+    "paddle_confidence": 0.8959,
+    "easyocr_text": "المادة",
+    "easyocr_confidence": 0.9918,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0013_raw_0149",
+    "box_id": "page_0013_raw_0149",
+    "page": "page_0013",
+    "page_number": 13,
+    "label": "formula",
+    "layout_score": 0.27062878012657166,
+    "bbox": [
+      365,
+      946,
+      1333,
+      1756
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0013\\page_0013_raw_0149.png",
+    "paddle_text": "يجب أن يذكر أيضاً فى سجل التجارة\n١كل تعديل يختص بالأمور واجب تسجيلها أو الوثائق الواجب إيداعها بمقتضى\nالمادة السابقة\n٢الاسم والنسبة وتاريخ الولادة ومحلها والجنسية لكل من مديري الشركة وأعضاء\nمجلس إدارتها ومديريها المعينين لمدّة وجودها أما طلب التسجيل فيقدمه المديرون\nوأعضاء مجلس الإدارة القائمون بوظائفهم في وقت وجوب التسجيل\n٣شهادات الاختراع المستثمرة والعلامات التجارية الصناعية التى تستعملها الشركة\n٤ الأحكام أو القرارات القاضية بحل الشركة أو إبطالها\nالأحكام أو القرارات المعلنة إفلاس الشركة أو تصديق الصلح الواقي والمقررات\nالمختصة بهما\nالشركات التجارية المؤسسة خارج الأراضي السورية ولها فروع أو وكالات في\nسورية وكذلك التجار الذين لهم مركز رئيسي في الخارج وفروع أو وكالات في سورية\nمهما كانت جنسيتهم",
+    "paddle_confidence": 0.9526,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0013_raw_0143",
+    "box_id": "page_0013_raw_0143",
+    "page": "page_0013",
+    "page_number": 13,
+    "label": "number",
+    "layout_score": 0.7840940356254578,
+    "bbox": [
+      828,
+      1779,
+      866,
+      1801
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0013\\page_0013_raw_0143.png",
+    "paddle_text": "١٣",
+    "paddle_confidence": 0.7999,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0014_raw_0161",
+    "box_id": "page_0014_raw_0161",
+    "page": "page_0014",
+    "page_number": 14,
+    "label": "paragraph_title",
+    "layout_score": 0.6444593667984009,
+    "bbox": [
+      739,
+      264,
+      873,
+      295
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0014\\page_0014_raw_0161.png",
+    "paddle_text": "المادة ٢٩",
+    "paddle_confidence": 0.9283,
+    "easyocr_text": "المادة\n٢٩",
+    "easyocr_confidence": 0.9964,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0014_raw_0158",
+    "box_id": "page_0014_raw_0158",
+    "page": "page_0014",
+    "page_number": 14,
+    "label": "paragraph_title",
+    "layout_score": 0.6964360475540161,
+    "bbox": [
+      680,
+      459,
+      933,
+      524
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0014\\page_0014_raw_0158.png",
+    "paddle_text": "الشركات المدنية",
+    "paddle_confidence": 0.8966,
+    "easyocr_text": "الشركات المدنية",
+    "easyocr_confidence": 0.7777,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output"
+    ]
+  },
+  {
+    "region_id": "page_0014_raw_0162",
+    "box_id": "page_0014_raw_0162",
+    "page": "page_0014",
+    "page_number": 14,
+    "label": "paragraph_title",
+    "layout_score": 0.629942774772644,
+    "bbox": [
+      737,
+      564,
+      876,
+      596
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0014\\page_0014_raw_0162.png",
+    "paddle_text": "المادة٣",
+    "paddle_confidence": 0.9479,
+    "easyocr_text": "المادة\n٣",
+    "easyocr_confidence": 0.9516,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0014_raw_0152",
+    "box_id": "page_0014_raw_0152",
+    "page": "page_0014",
+    "page_number": 14,
+    "label": "text",
+    "layout_score": 0.8475376963615417,
+    "bbox": [
+      305,
+      625,
+      1282,
+      848
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0014\\page_0014_raw_0152.png",
+    "paddle_text": "١يحدث فى أمانة سجل التجارة سجل خاص بالشركات المدنية التي يقع\nمركزها الرئيسي في المحافظة تسجل فيه الشركات وفق أحكام المادتين ٢٧\nو٢٨من هذا القانون باستثناء ما يتوقف العمل به على الصفة التجارية\nللشركة",
+    "paddle_confidence": 0.9437,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0014_raw_0156",
+    "box_id": "page_0014_raw_0156",
+    "page": "page_0014",
+    "page_number": 14,
+    "label": "text",
+    "layout_score": 0.8133718371391296,
+    "bbox": [
+      325,
+      873,
+      1286,
+      1038
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0014\\page_0014_raw_0156.png",
+    "paddle_text": "٢ تسجل الشركات المدنية التي يقع مركزها خارج سورية أو لها فرع أو وكالة في\nسجل خاص تابع لسجل الفروع والوكالات العائدة للمؤسسات أو الشركات القائمة\nخارج سورية وذلك وفق القانون الخاص بها",
+    "paddle_confidence": 0.9413,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0014_raw_0153",
+    "box_id": "page_0014_raw_0153",
+    "page": "page_0014",
+    "page_number": 14,
+    "label": "text",
+    "layout_score": 0.8278283476829529,
+    "bbox": [
+      328,
+      1058,
+      1290,
+      1225
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0014\\page_0014_raw_0153.png",
+    "paddle_text": "٣ـ على الشركات المذكورة في الفقرتين السابقتين تسجيل نفسها في السجل المذكور\nوإيداع صك تأسيسها ونظامها الأساسي ديوان محكمة البداية في مركزها إذا\nأرادت الاحتجاج بشخصيتها الإعتبارية حيال الغير",
+    "paddle_confidence": 0.9547,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0014_raw_0157",
+    "box_id": "page_0014_raw_0157",
+    "page": "page_0014",
+    "page_number": 14,
+    "label": "paragraph_title",
+    "layout_score": 0.7521674633026123,
+    "bbox": [
+      744,
+      1258,
+      881,
+      1287
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0014\\page_0014_raw_0157.png",
+    "paddle_text": "المادة٣",
+    "paddle_confidence": 0.911,
+    "easyocr_text": "المادة",
+    "easyocr_confidence": 0.7717,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0014_raw_0160",
+    "box_id": "page_0014_raw_0160",
+    "page": "page_0014",
+    "page_number": 14,
+    "label": "text",
+    "layout_score": 0.6487205624580383,
+    "bbox": [
+      445,
+      1443,
+      1291,
+      1485
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0014\\page_0014_raw_0160.png",
+    "paddle_text": "٢ويجري هذا الشطب مباشرة بمقتضى قرار يصدره أمين سجل التجارة",
+    "paddle_confidence": 0.9355,
+    "easyocr_text": "أمين\n٢ - ويجري هذا الشطب مباشرة بمقتضى قرار يصدره\nسجل التجارة.",
+    "easyocr_confidence": 0.8697,
+    "reasons": [
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree"
+    ]
+  },
+  {
+    "region_id": "page_0014_raw_0159",
+    "box_id": "page_0014_raw_0159",
+    "page": "page_0014",
+    "page_number": 14,
+    "label": "paragraph_title",
+    "layout_score": 0.6895809769630432,
+    "bbox": [
+      746,
+      1519,
+      883,
+      1550
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0014\\page_0014_raw_0159.png",
+    "paddle_text": "المادة ٣٢",
+    "paddle_confidence": 0.9031,
+    "easyocr_text": "المادة\n٣",
+    "easyocr_confidence": 0.8116,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0014_raw_0151",
+    "box_id": "page_0014_raw_0151",
+    "page": "page_0014",
+    "page_number": 14,
+    "label": "text",
+    "layout_score": 0.8692923188209534,
+    "bbox": [
+      333,
+      1579,
+      1292,
+      1745
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0014\\page_0014_raw_0151.png",
+    "paddle_text": "١كل قيد فى سجل التجارة لم يحدد له ميعاد فى المواد السابقة يجب طلب إجرائه\nفي خلال شهر يبتدئ من تاريخ الوثيقة أو العمل الذي يراد قيده\nأما الأحكام والقرارات فيبتدى ميعادها من يوم صدورها",
+    "paddle_confidence": 0.9454,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0014_raw_0154",
+    "box_id": "page_0014_raw_0154",
+    "page": "page_0014",
+    "page_number": 14,
+    "label": "number",
+    "layout_score": 0.8153689503669739,
+    "bbox": [
+      798,
+      1774,
+      833,
+      1798
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0014\\page_0014_raw_0154.png",
+    "paddle_text": "3",
+    "paddle_confidence": 0.6798,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "low_paddle_confidence",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0015_raw_0185",
+    "box_id": "page_0015_raw_0185",
+    "page": "page_0015",
+    "page_number": 15,
+    "label": "header",
+    "layout_score": 0.2544642984867096,
+    "bbox": [
+      384,
+      33,
+      407,
+      94
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0015\\page_0015_raw_0185.png",
+    "paddle_text": "",
+    "paddle_confidence": null,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "empty_paddle_text",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0015_raw_0167",
+    "box_id": "page_0015_raw_0167",
+    "page": "page_0015",
+    "page_number": 15,
+    "label": "paragraph_title",
+    "layout_score": 0.8035228252410889,
+    "bbox": [
+      772,
+      240,
+      910,
+      273
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0015\\page_0015_raw_0167.png",
+    "paddle_text": "المادة ٣٣",
+    "paddle_confidence": 0.96,
+    "easyocr_text": "المادة ٣٣",
+    "easyocr_confidence": 0.9974,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0015_raw_0166",
+    "box_id": "page_0015_raw_0166",
+    "page": "page_0015",
+    "page_number": 15,
+    "label": "text",
+    "layout_score": 0.8616715669631958,
+    "bbox": [
+      358,
+      289,
+      1322,
+      410
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0015\\page_0015_raw_0166.png",
+    "paddle_text": "إن جميع التسجيلات والقيود في سجل التجارة تجري بعد تصريح يقدم وفاقاً\nللصيغ التي نص عليها",
+    "paddle_confidence": 0.9494,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0015_raw_0169",
+    "box_id": "page_0015_raw_0169",
+    "page": "page_0015",
+    "page_number": 15,
+    "label": "paragraph_title",
+    "layout_score": 0.7917926907539368,
+    "bbox": [
+      767,
+      420,
+      906,
+      450
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0015\\page_0015_raw_0169.png",
+    "paddle_text": "المادة ٣٤",
+    "paddle_confidence": 0.9276,
+    "easyocr_text": "المادة\n٣٤",
+    "easyocr_confidence": 0.9981,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0015_raw_0164",
+    "box_id": "page_0015_raw_0164",
+    "page": "page_0015",
+    "page_number": 15,
+    "label": "text",
+    "layout_score": 0.8788582682609558,
+    "bbox": [
+      352,
+      474,
+      1318,
+      659
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0015\\page_0015_raw_0164.png",
+    "paddle_text": "على أمين سجل التجارة أن يرفض إجراء القيود المطلوبة إذا تبين له أن\nالتصريحات المقدمة لا تشتمل على كل البيانات المنصوص عليها أو كانت تتعارض\nمع الوثائق الثبوتية المرفقة بها أو مع أحكام القانون",
+    "paddle_confidence": 0.941,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0015_raw_0170",
+    "box_id": "page_0015_raw_0170",
+    "page": "page_0015",
+    "page_number": 15,
+    "label": "paragraph_title",
+    "layout_score": 0.7832690477371216,
+    "bbox": [
+      762,
+      681,
+      900,
+      712
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0015\\page_0015_raw_0170.png",
+    "paddle_text": "المادة ٣٥",
+    "paddle_confidence": 0.8743,
+    "easyocr_text": "المادة ٣٥",
+    "easyocr_confidence": 0.638,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0015_raw_0175",
+    "box_id": "page_0015_raw_0175",
+    "page": "page_0015",
+    "page_number": 15,
+    "label": "text",
+    "layout_score": 0.6766971945762634,
+    "bbox": [
+      349,
+      734,
+      1308,
+      957
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0015\\page_0015_raw_0175.png",
+    "paddle_text": "يجوز لكل شخص أن يطلب إعطاءه نسخة عن القيود المدرجة فى السجل مقابل\nرسم يحدد من الوزير المختص\n٢ولأمين السجل عند الإقتضاء أن يعطى شهادة بعدم وجود قيود\n٣ويصدّق أمين السجل مطابقة النسخ للأصل",
+    "paddle_confidence": 0.9455,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0015_raw_0182",
+    "box_id": "page_0015_raw_0182",
+    "page": "page_0015",
+    "page_number": 15,
+    "label": "text",
+    "layout_score": 0.3141794800758362,
+    "bbox": [
+      890,
+      803,
+      1267,
+      843
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0015\\page_0015_raw_0182.png",
+    "paddle_text": "رسم يحدد من الوزير المختص",
+    "paddle_confidence": 0.9385,
+    "easyocr_text": "المختص ,\nر سم\nيحدد\nمن\nالوزير",
+    "easyocr_confidence": 0.5497,
+    "reasons": [
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree"
+    ]
+  },
+  {
+    "region_id": "page_0015_raw_0181",
+    "box_id": "page_0015_raw_0181",
+    "page": "page_0015",
+    "page_number": 15,
+    "label": "text",
+    "layout_score": 0.35856419801712036,
+    "bbox": [
+      525,
+      850,
+      1305,
+      896
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0015\\page_0015_raw_0181.png",
+    "paddle_text": "٢ـولأمين السجل عند الإقتضاء أن يعطي شهادة بعدم وجود قيود",
+    "paddle_confidence": 0.944,
+    "easyocr_text": "٢- ولأمين السجل\nعند\nالاقتضاء أن يعطي شهادة بعدم وجود قيود",
+    "easyocr_confidence": 0.6476,
+    "reasons": [
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree"
+    ]
+  },
+  {
+    "region_id": "page_0015_raw_0179",
+    "box_id": "page_0015_raw_0179",
+    "page": "page_0015",
+    "page_number": 15,
+    "label": "text",
+    "layout_score": 0.3854779005050659,
+    "bbox": [
+      740,
+      911,
+      1307,
+      957
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0015\\page_0015_raw_0179.png",
+    "paddle_text": "٣ـويصدّق أمين السجل مطابقة النسخ للأصل",
+    "paddle_confidence": 0.9352,
+    "easyocr_text": "٣- ويصدق\nأمين\nالسجل مطابقة النسخ للأصل .",
+    "easyocr_confidence": 0.7098,
+    "reasons": [
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree"
+    ]
+  },
+  {
+    "region_id": "page_0015_raw_0172",
+    "box_id": "page_0015_raw_0172",
+    "page": "page_0015",
+    "page_number": 15,
+    "label": "paragraph_title",
+    "layout_score": 0.7808124423027039,
+    "bbox": [
+      756,
+      984,
+      895,
+      1014
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0015\\page_0015_raw_0172.png",
+    "paddle_text": "المادة٣٦",
+    "paddle_confidence": 0.8902,
+    "easyocr_text": "المادة ٣٦",
+    "easyocr_confidence": 0.5464,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0015_raw_0176",
+    "box_id": "page_0015_raw_0176",
+    "page": "page_0015",
+    "page_number": 15,
+    "label": "text",
+    "layout_score": 0.5844007730484009,
+    "bbox": [
+      336,
+      1045,
+      1301,
+      1278
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0015\\page_0015_raw_0176.png",
+    "paddle_text": "لا يجوز أن يذكر في النسخ التي يسلمها أمين السجل\nالأحكام المعلنة للإفلاس إذا كان المفلس قد استرد اعتباره\ns\nالأحكام القاضية بالحجر أو تعيين مساعد قضائى إذا كان قد صدر القرار برفع\nالحجر أو المساعدة القضائية",
+    "paddle_confidence": 0.8446,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0015_raw_0180",
+    "box_id": "page_0015_raw_0180",
+    "page": "page_0015",
+    "page_number": 15,
+    "label": "text",
+    "layout_score": 0.3828423023223877,
+    "bbox": [
+      576,
+      1108,
+      1300,
+      1153
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0015\\page_0015_raw_0180.png",
+    "paddle_text": "١الأحكام المعلنة للإفلاس إذا كان المفلس قد استرد اعتباره\nf",
+    "paddle_confidence": 0.6353,
+    "easyocr_text": "١ - الأحكام المعلنة للإفلاس إذا\nكان\nالمفلس قد استرد اعتبار",
+    "easyocr_confidence": 0.7371,
+    "reasons": [
+      "has_easyocr_candidate_output",
+      "low_paddle_confidence",
+      "paddle_easyocr_disagree"
+    ]
+  },
+  {
+    "region_id": "page_0015_raw_0183",
+    "box_id": "page_0015_raw_0183",
+    "page": "page_0015",
+    "page_number": 15,
+    "label": "text",
+    "layout_score": 0.2996283173561096,
+    "bbox": [
+      900,
+      1236,
+      1255,
+      1278
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0015\\page_0015_raw_0183.png",
+    "paddle_text": "الحجر أو المساعدة القضائية",
+    "paddle_confidence": 0.9356,
+    "easyocr_text": "الحجر\nأو المساعدة القضائية",
+    "easyocr_confidence": 0.9482,
+    "reasons": [
+      "has_easyocr_candidate_output"
+    ]
+  },
+  {
+    "region_id": "page_0015_raw_0174",
+    "box_id": "page_0015_raw_0174",
+    "page": "page_0015",
+    "page_number": 15,
+    "label": "paragraph_title",
+    "layout_score": 0.713429868221283,
+    "bbox": [
+      742,
+      1296,
+      888,
+      1330
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0015\\page_0015_raw_0174.png",
+    "paddle_text": "المادة٣٧",
+    "paddle_confidence": 0.9124,
+    "easyocr_text": "المادة ٣٧",
+    "easyocr_confidence": 0.9978,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0015_raw_0165",
+    "box_id": "page_0015_raw_0165",
+    "page": "page_0015",
+    "page_number": 15,
+    "label": "text",
+    "layout_score": 0.8783446550369263,
+    "bbox": [
+      335,
+      1354,
+      1301,
+      1531
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0015\\page_0015_raw_0165.png",
+    "paddle_text": "كل تاجر وكل شركة ملزمين بالتسجيل يجب عليهما أن يذكرا المكان الذي\nسجلا فيه ورقم هذا التسجيل في مراسلاتهما وفواتيرهما ومذكرات التسليم والتعريفات\nوالمنشورات وسائر الأوراق الصادرة عنهما",
+    "paddle_confidence": 0.9595,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0015_raw_0171",
+    "box_id": "page_0015_raw_0171",
+    "page": "page_0015",
+    "page_number": 15,
+    "label": "paragraph_title",
+    "layout_score": 0.7830072641372681,
+    "bbox": [
+      744,
+      1557,
+      881,
+      1588
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0015\\page_0015_raw_0171.png",
+    "paddle_text": "المادة٣٨",
+    "paddle_confidence": 0.8914,
+    "easyocr_text": "المادة ٣٨",
+    "easyocr_confidence": 0.9909,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0015_raw_0168",
+    "box_id": "page_0015_raw_0168",
+    "page": "page_0015",
+    "page_number": 15,
+    "label": "number",
+    "layout_score": 0.7918795347213745,
+    "bbox": [
+      791,
+      1752,
+      827,
+      1774
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0015\\page_0015_raw_0168.png",
+    "paddle_text": "١",
+    "paddle_confidence": 0.5534,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "low_paddle_confidence",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0016_raw_0198",
+    "box_id": "page_0016_raw_0198",
+    "page": "page_0016",
+    "page_number": 16,
+    "label": "text",
+    "layout_score": 0.48565876483917236,
+    "bbox": [
+      343,
+      350,
+      1302,
+      460
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0016\\page_0016_raw_0198.png",
+    "paddle_text": "ةيي ي ية و ي و ة ويي ول ل ي د\nو ة ي يه هي و ل لي ي هي يلي",
+    "paddle_confidence": 0.4931,
+    "easyocr_text": "٢- تحكم بهذه الغرامة محكمة البداية المدنية بناء على طلب\nأمين\nسجل التجارة أو\nالنيابة العامة بعد سماع أقوال صاحب الشأن أو دعوته بحسب\nالأصول .",
+    "easyocr_confidence": 0.8316,
+    "reasons": [
+      "has_easyocr_candidate_output",
+      "low_paddle_confidence",
+      "paddle_easyocr_disagree"
+    ]
+  },
+  {
+    "region_id": "page_0016_raw_0200",
+    "box_id": "page_0016_raw_0200",
+    "page": "page_0016",
+    "page_number": 16,
+    "label": "text",
+    "layout_score": 0.42847099900245667,
+    "bbox": [
+      346,
+      468,
+      1305,
+      648
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0016\\page_0016_raw_0200.png",
+    "paddle_text": "٣ـوإذا لم يجر المحكوم عليه أثناء القيد فى أثناء هذا الميعاد يحكم بغرامة جديدة\n±\n٤–أما أمناء السجل الذين لا يعملون بمقتضى هذه الأحكام فيخضعون للعقوبات\nالمسلكية المنصوص عليها في القانون الأساسي للعاملين في الدولة",
+    "paddle_confidence": 0.7652,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "low_paddle_confidence"
+    ]
+  },
+  {
+    "region_id": "page_0016_raw_0193",
+    "box_id": "page_0016_raw_0193",
+    "page": "page_0016",
+    "page_number": 16,
+    "label": "paragraph_title",
+    "layout_score": 0.5910782217979431,
+    "bbox": [
+      760,
+      675,
+      899,
+      708
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0016\\page_0016_raw_0193.png",
+    "paddle_text": "المادة ٣٩",
+    "paddle_confidence": 0.8564,
+    "easyocr_text": "المادة\n٣٩",
+    "easyocr_confidence": 0.6678,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0016_raw_0204",
+    "box_id": "page_0016_raw_0204",
+    "page": "page_0016",
+    "page_number": 16,
+    "label": "text",
+    "layout_score": 0.28596702218055725,
+    "bbox": [
+      353,
+      731,
+      1317,
+      1460
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0016\\page_0016_raw_0204.png",
+    "paddle_text": "١ـكل بيان غير صحيح يقدم عن سوع نية للتسجيل أو للقيد فى سجل التجارة\nيعاقب مقدمه بغرامة تتراوح بين ١٠٠٠ ألف و٥٠٠٠ خمسة لاف ليرة\nسورية وبالحبس من شهر واحد إلى ستة أشهر، أو بإحدى هاتين العقوبتين\nولا يحول ذلك دون العقوبات التى يمكن الحكم بها وفاقاً للقوانين الخاصة ولقانون\nالعقوبات من أجل الجرائم الناشئة عن البيان غير الصحيح\n٣وللمحكمة الجزائية التي تصدر الحكم أن تأمر بتصحيح البيان المشار إليه على\nالوجه الذي تعينه\nالمادة٤\nالبيانات المسجلة سواء أكانت اختيارية أم إجبارية، تعتبر نافذة في حق الغير\nاعتباراً من تاريخ تسجيلها\n٢ولا يحول تطبيق العقوبات المقدمة دون نفاذ القاعدة المنصوص عليها بالفقرة\nالسابقة",
+    "paddle_confidence": 0.9509,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0016_raw_0188",
+    "box_id": "page_0016_raw_0188",
+    "page": "page_0016",
+    "page_number": 16,
+    "label": "paragraph_title",
+    "layout_score": 0.7085491418838501,
+    "bbox": [
+      773,
+      1182,
+      909,
+      1214
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0016\\page_0016_raw_0188.png",
+    "paddle_text": "المادة ٤",
+    "paddle_confidence": 0.8399,
+    "easyocr_text": "المادة\n٤",
+    "easyocr_confidence": 0.8588,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0016_raw_0190",
+    "box_id": "page_0016_raw_0190",
+    "page": "page_0016",
+    "page_number": 16,
+    "label": "paragraph_title",
+    "layout_score": 0.689178466796875,
+    "bbox": [
+      780,
+      1484,
+      915,
+      1515
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0016\\page_0016_raw_0190.png",
+    "paddle_text": "المادة٤١",
+    "paddle_confidence": 0.9479,
+    "easyocr_text": "المادة",
+    "easyocr_confidence": 0.9849,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0016_raw_0187",
+    "box_id": "page_0016_raw_0187",
+    "page": "page_0016",
+    "page_number": 16,
+    "label": "number",
+    "layout_score": 0.7888772487640381,
+    "bbox": [
+      833,
+      1746,
+      868,
+      1769
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0016\\page_0016_raw_0187.png",
+    "paddle_text": "١٧",
+    "paddle_confidence": 0.647,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "low_paddle_confidence",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0017_raw_0210",
+    "box_id": "page_0017_raw_0210",
+    "page": "page_0017",
+    "page_number": 17,
+    "label": "paragraph_title",
+    "layout_score": 0.7034907341003418,
+    "bbox": [
+      794,
+      252,
+      928,
+      282
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0017\\page_0017_raw_0210.png",
+    "paddle_text": "المادة ٤٢",
+    "paddle_confidence": 0.8926,
+    "easyocr_text": "المادة\n٢",
+    "easyocr_confidence": 0.6879,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0017_raw_0205",
+    "box_id": "page_0017_raw_0205",
+    "page": "page_0017",
+    "page_number": 17,
+    "label": "text",
+    "layout_score": 0.8998294472694397,
+    "bbox": [
+      376,
+      324,
+      1337,
+      488
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0017\\page_0017_raw_0205.png",
+    "paddle_text": "١ تفصل محكمة البداية المدنية في المحافظة التي يوجد فيها سجل التجارة، في\nكل خلاف يقع بين أمين سجل التجارة وأصحاب العلاقة، بقرار يتخذ في غرفة\nالمذاكرة، وعليها إصدار قرارها خلال شهر من تاريخ الادعاء",
+    "paddle_confidence": 0.9549,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0017_raw_0206",
+    "box_id": "page_0017_raw_0206",
+    "page": "page_0017",
+    "page_number": 17,
+    "label": "text",
+    "layout_score": 0.8910887837409973,
+    "bbox": [
+      376,
+      506,
+      1337,
+      658
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0017\\page_0017_raw_0206.png",
+    "paddle_text": "٢يخضع قرار محكمة البداية المدنية للطعن بطريق الاستئناف وعلى محكمة\nالاستئناف أن تفصل فيه بصورة نهائية وبقرار غير قابل للطعن يصدر خلال\nثلاثة أشهر من تاريخ تقديم الطعن",
+    "paddle_confidence": 0.9436,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0017_raw_0211",
+    "box_id": "page_0017_raw_0211",
+    "page": "page_0017",
+    "page_number": 17,
+    "label": "image",
+    "layout_score": 0.6403467655181885,
+    "bbox": [
+      725,
+      727,
+      988,
+      1099
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0017\\page_0017_raw_0211.png",
+    "paddle_text": "رة\nل\nلعل\nي ي لي",
+    "paddle_confidence": 0.4917,
+    "easyocr_text": "الباب\nالربع\nالمتجر\nالفصل الأول\nمفهوم\nالمتجر\nالمادة\n٤٣",
+    "easyocr_confidence": 0.9191,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "image_label_but_document_has_no_real_images",
+      "has_easyocr_candidate_output",
+      "low_paddle_confidence",
+      "paddle_easyocr_disagree"
+    ]
+  },
+  {
+    "region_id": "page_0017_raw_0215",
+    "box_id": "page_0017_raw_0215",
+    "page": "page_0017",
+    "page_number": 17,
+    "label": "text",
+    "layout_score": 0.2562367618083954,
+    "bbox": [
+      801,
+      842,
+      916,
+      892
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0017\\page_0017_raw_0215.png",
+    "paddle_text": "المتجر",
+    "paddle_confidence": 0.9981,
+    "easyocr_text": "المتجر",
+    "easyocr_confidence": 0.9997,
+    "reasons": [
+      "has_easyocr_candidate_output",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0017_raw_0214",
+    "box_id": "page_0017_raw_0214",
+    "page": "page_0017",
+    "page_number": 17,
+    "label": "figure_title",
+    "layout_score": 0.3081570565700531,
+    "bbox": [
+      796,
+      1070,
+      921,
+      1100
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0017\\page_0017_raw_0214.png",
+    "paddle_text": "المادة ٤٣",
+    "paddle_confidence": 0.971,
+    "easyocr_text": "المادة ٤٣",
+    "easyocr_confidence": 0.9863,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0017_raw_0208",
+    "box_id": "page_0017_raw_0208",
+    "page": "page_0017",
+    "page_number": 17,
+    "label": "text",
+    "layout_score": 0.8025380969047546,
+    "bbox": [
+      374,
+      1137,
+      1335,
+      1489
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0017\\page_0017_raw_0208.png",
+    "paddle_text": "المتجر مجموعة عناصر مادية وغير مادية تهدف إلى مارسة مهنة تجارية\nيشتمل المتجر مبدئياً على الاسم التجاري والعنوان التجاري والشعار وحق\nالاتصال بالزيائن وحق الاستئجار المنصوص عليه فى قوانين الإيجار الخاصة\nوتعديلاتهاء، والتجهيزات والعدد الصناعية والأثاث والبراءات والإجازات والرسوم\nوالنماذج، ما لم يستثن بعض هذه العناصر من محتويات المتجر بالنص على\nذلك في سجل المتجر أو في العقود الواردة عليه",
+    "paddle_confidence": 0.9446,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0017_raw_0212",
+    "box_id": "page_0017_raw_0212",
+    "page": "page_0017",
+    "page_number": 17,
+    "label": "figure_title",
+    "layout_score": 0.5693135261535645,
+    "bbox": [
+      789,
+      1512,
+      925,
+      1542
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0017\\page_0017_raw_0212.png",
+    "paddle_text": "المادة ٤٤",
+    "paddle_confidence": 0.9575,
+    "easyocr_text": "المادة\n٤ ٤",
+    "easyocr_confidence": 0.8875,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "has_easyocr_candidate_output",
+      "very_small_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0017_raw_0209",
+    "box_id": "page_0017_raw_0209",
+    "page": "page_0017",
+    "page_number": 17,
+    "label": "text",
+    "layout_score": 0.779769778251648,
+    "bbox": [
+      375,
+      1573,
+      1334,
+      1723
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0017\\page_0017_raw_0209.png",
+    "paddle_text": "١إن حقوق صاحب المتجر على مختلف عناصره تتظمها القوانين الخاصة بهذه\nالعناصر والمبادي الحقوقية العامة\nأما المتجر كمجموعة فيخضع لأحكام هذا القانون",
+    "paddle_confidence": 0.9421,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "very_large_layout_box"
+    ]
+  },
+  {
+    "region_id": "page_0017_raw_0213",
+    "box_id": "page_0017_raw_0213",
+    "page": "page_0017",
+    "page_number": 17,
+    "label": "text",
+    "layout_score": 0.38238295912742615,
+    "bbox": [
+      700,
+      1682,
+      1334,
+      1723
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0017\\page_0017_raw_0213.png",
+    "paddle_text": "٢ـأما المتجر كمجموعة فيخضع لأحكام هذا القانون",
+    "paddle_confidence": 0.9556,
+    "easyocr_text": "٢ - أما\nعة فيخضع لأحكام\nهذا\nالمتجر\nكمجمو\nالقانون .",
+    "easyocr_confidence": 0.7681,
+    "reasons": [
+      "has_easyocr_candidate_output",
+      "paddle_easyocr_disagree"
+    ]
+  },
+  {
+    "region_id": "page_0017_raw_0207",
+    "box_id": "page_0017_raw_0207",
+    "page": "page_0017",
+    "page_number": 17,
+    "label": "number",
+    "layout_score": 0.8278786540031433,
+    "bbox": [
+      836,
+      1761,
+      874,
+      1784
+    ],
+    "crop_path": "layout_output\\raw_box_crops\\page_0017\\page_0017_raw_0207.png",
+    "paddle_text": "١٧",
+    "paddle_confidence": 0.6945,
+    "easyocr_text": "",
+    "easyocr_confidence": null,
+    "reasons": [
+      "layout_label_needs_semantic_role",
+      "low_paddle_confidence",
+      "very_small_layout_box"
+    ]
+  }
+]
